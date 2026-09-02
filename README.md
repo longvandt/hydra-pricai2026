@@ -2,7 +2,7 @@
 
 Code, benchmark, execution traces, and evaluation artifacts for the PRICAI 2026 paper.
 
-**Paper:** Hydra: Dynamic Hydrological Reasoning Agents for Disaster Forecasting (PRICAI 2026)
+**Paper:** Hydra: Dynamic Hydrological Reasoning Agents for Disaster Forecasting (PRICAI 2026)  
 **Authors:** Duy-Thanh-Long Van, Vinh-Tiep Nguyen, Tu-Anh Nguyen-Hoang, Ngan Luu-Thuy Nguyen
 
 Hydra is a multi-hazard flood and landslide risk assessment framework in which a large
