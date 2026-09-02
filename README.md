@@ -113,23 +113,19 @@ text.
 
 ## Example: live execution
 
-Real output from running `src/agent` live with GPT-4.1 mini — not one of the released
+Real output from running `src/agent` live with Ministral 3 14B — not one of the released
 evaluation events, just a demonstration of what the command in "Live execution" above
 actually produces:
 
-### Flood assessment, event live run (16.816867, 107.101826)
+### Flood assessment, event live-test
 
-**Event** live run (16.816867, 107.101826) | **Backbone** gpt-4.1-mini | **Lead** T-1  
-**Ground truth** unknown — live run, no ground truth | **Predicted** LOW  
-**Tool calls** 9 | **Latency** 58.0s | **Tokens** 9512
+**Event** live-test | **Backbone** ministral-3-14b | **Lead** T-1  
+**Ground truth** positive | **Predicted** HIGH  
+**Tool calls** 9 | **Latency** 74.33s | **Tokens** 10407
 
 ---
 
 ##### Step 1
-
-**Thought.** Step 1: Terrain classification is always first to determine the pathway for data collection and risk assessment. I will call get_elevation_slope with the given coordinates to obtain elevation, slope, and terrain type.
-
-Calling get_elevation_slope for lat=16.816867, lon=107.101826 to determine terrain type and slope.
 
 **Action.** `get_elevation_slope(lat=16.816867, lon=107.101826)`
 
@@ -147,37 +143,17 @@ Calling get_elevation_slope for lat=16.816867, lon=107.101826 to determine terra
 
 ##### Step 2
 
-**Thought.** Step 1 result: Elevation is 21.0 m, slope is 0.41°, terrain type is "plain". This is a flat terrain, so the urban/river/coastal pathway applies.
+**Thought.** ### Step 1 — Terrain Classification
+- **Elevation**: 21.0 meters (above sea level)
+- **Slope**: 0.41 degrees (extremely flat)
+- **Terrain Type**: Plain
 
-Step 2a: For plain terrain, first I need to get historical rainfall data for 1 day before the event date to capture max 2h and max 24h rainfall. This will help identify rainfall intensity and accumulation.
+---
+##### Step 2 — Data Collection (Urban / River / Coastal Pathway)
+Since the terrain is a plain, I will proceed with the **Urban / River / Coastal** pathway.
 
-Step 2b: Then I will get historical tide level for the date to check for coastal influence.
-
-Step 2c: Next, get river discharge data for the date to assess river flood risk.
-
-Step 2d: Get distance to nearest river to evaluate river flood proximity.
-
-Step 2e: Get antecedent precipitation index (API) to assess soil saturation from prior rainfall.
-
-Step 2f: Get soil moisture on the date to check saturation.
-
-Step 2g: Get imperviousness percentage to evaluate urban runoff potential.
-
-Step 2h: Get topographic wetness index (TWI) to assess natural water pooling tendency.
-
-Step 2i: If distance to river < 2 km, get catchment info for upstream area and position.
-
-I will call these tools in parallel to speed up data collection.
-
-Calling in parallel:
-- get_historical_rainfall with days_before=1
-- get_historical_tide_level
-- get_river_discharge
-- get_distance_to_river
-- get_antecedent_precipitation_index
-- get_soil_moisture
-- get_imperviousness (year=2024)
-- get_twi
+###### a. Fetching historical rainfall data for the last 24 hours leading up to the event (2024-11-02).
+This will provide insights into the rainfall intensity and cumulative totals that could trigger flooding.
 
 **Action.** `get_historical_rainfall(lat=16.816867, lon=107.101826, event_date='2024-11-02', days_before=1)`
 
@@ -210,7 +186,10 @@ Calling in parallel:
 
 ##### Step 3
 
-**Action.** `get_historical_tide_level(lat=16.816867, lon=107.101826, event_date='2024-11-02', elevation_m=21)`
+**Thought.** #### b. Fetching tide level data for the same date.
+This will determine if coastal flooding is a concern due to high tide levels.
+
+**Action.** `get_historical_tide_level(lat=16.816867, lon=107.101826, event_date='2024-11-02', elevation_m=21.0)`
 
 **Observation.**
 ```json
@@ -225,6 +204,9 @@ Calling in parallel:
 ---
 
 ##### Step 4
+
+**Thought.** #### c. Fetching river discharge data for the same date.
+This will assess the risk of riverine flooding due to elevated water levels.
 
 **Action.** `get_river_discharge(lat=16.816867, lon=107.101826, event_date='2024-11-02')`
 
@@ -243,13 +225,16 @@ Calling in parallel:
 
 ##### Step 5
 
+**Thought.** #### d. Fetching distance to the nearest river.
+This will help determine proximity to riverine flood risks.
+
 **Action.** `get_distance_to_river(lat=16.816867, lon=107.101826)`
 
 **Observation.**
 ```json
 {
   "distance_m": -1,
-  "error": "Overpass API error: RetryError[<Future at 0x110872470 state=finished raised ConnectError>]"
+  "error": "Overpass API error: RetryError[<Future at 0x1130cc530 state=finished raised ConnectError>]"
 }
 ```
 
@@ -257,7 +242,12 @@ Calling in parallel:
 
 ##### Step 6
 
-**Action.** `get_antecedent_precipitation_index(lat=16.816867, lon=107.101826, event_date='2024-11-02')`
+**Thought.** The distance to the nearest river could not be retrieved due to an API error. I will proceed with the available data and assess the risk based on the other factors.
+
+###### e. Fetching Antecedent Precipitation Index (API) for soil saturation assessment.
+This will indicate if the soil is already saturated, which could amplify flooding.
+
+**Action.** `get_antecedent_precipitation_index(lat=16.816867, lon=107.101826, event_date='2024-11-02', days=7)`
 
 **Observation.**
 ```json
@@ -304,6 +294,9 @@ Calling in parallel:
 
 ##### Step 7
 
+**Thought.** #### f. Fetching soil moisture data for the same date.
+This will provide additional context on soil saturation.
+
 **Action.** `get_soil_moisture(lat=16.816867, lon=107.101826, event_date='2024-11-02')`
 
 **Observation.**
@@ -318,6 +311,9 @@ Calling in parallel:
 ---
 
 ##### Step 8
+
+**Thought.** #### g. Fetching imperviousness data for the location.
+This will assess the urban runoff potential due to built-up surfaces.
 
 **Action.** `get_imperviousness(lat=16.816867, lon=107.101826, year=2024)`
 
@@ -338,6 +334,9 @@ Calling in parallel:
 
 ##### Step 9
 
+**Thought.** #### h. Fetching Topographic Wetness Index (TWI) for the location.
+This will determine if the terrain naturally accumulates water.
+
 **Action.** `get_twi(lat=16.816867, lon=107.101826)`
 
 **Observation.**
@@ -356,83 +355,29 @@ Calling in parallel:
 
 ##### Final Assessment
 
-Step 2 Data Collection and Interpretation:
+---
 
-- Rainfall: max 2h = 1.3 mm, max 24h = 6.4 mm on 2024-11-02. This is very low rainfall, below the 10 mm threshold for flood-triggering rain.
-- Tide: 0 cm, location type "highlands" (above 10m elevation), so no tidal influence.
-- River discharge: 13.59 m³/s, small river scale. This is above baseflow but below 20 m³/s threshold for significant small river flooding.
-- Distance to river: API call failed due to Overpass API connection error, so no distance data available.
-- Antecedent Precipitation Index (API): 244.45, very high saturation indicating extreme soil saturation from prior rainfall.
-- Soil moisture: 0.365 m³/m³, "wet" but below saturation threshold 0.45.
-- Imperviousness: 38.55%, moderate urbanization, less than 50% dense urban threshold.
-- TWI: 9.09, moderate accumulation, typical for flat terrain.
+##### Step 3 — Physical Risk Synthesis
 
-Since distance to river is unknown, I cannot confirm river proximity, but the terrain is plain and slope is very low.
+###### 3A. Dominant Flood Mechanism
+- **Location Type**: Highlands (not coastal, as tide level is 0.0 cm).
+- **Terrain**: Plain (slope = 0.41°).
+- **Rainfall**: 6.4 mm in 24 hours (low intensity).
+- **River Discharge**: 13.59 m³/s (small river, elevated but not extreme).
+- **Soil Saturation**: Very high (API = 244.45, soil moisture = 0.365 m³/m³).
+- **Imperviousness**: 38.55% (moderate urbanization).
+- **TWI**: 9.09 (flat terrain with moderate water accumulation).
 
-Step 3 synthesis:
+**Dominant Mechanism**: **Urban Pluvial Flooding**
+- The terrain is flat, and the soil is already saturated due to recent heavy rainfall (API = 244.45). Even low-intensity rainfall (6.4 mm) can overwhelm drainage systems in urbanized areas with high imperviousness and saturated soil.
 
-3A. Dominant flood mechanism:
-- No tidal influence (tide=0, highlands).
-- River discharge elevated but not extreme; river proximity unknown.
-- Rainfall very low (6.4 mm 24h), below flood-triggering threshold.
-- API very high (244.45) indicates soil saturation is extreme, so even low rainfall can generate runoff.
-- Imperviousness moderate, so some runoff amplification possible.
-- TWI moderate, no strong topographic pooling.
+---
 
-Dominant mechanism likely URBAN/pluvial or RIVERINE if river is close, but rainfall is very low.
+###### 3B. Driver Analysis
 
-3B. Driver reasoning:
-- Rainfall (6.4 mm 24h): below 10 mm threshold, unlikely to trigger flooding alone.
-- API (244.45): extremely high, soil is saturated, so infiltration minimal, runoff generation efficient.
-- River discharge (13.59 m³/s): elevated, indicating upstream rainfall or runoff contributing to river flow, but not at flood overflow level.
-- Imperviousness (38.55%): moderate runoff amplification.
-- Tide: none.
-- Soil moisture (0.365): wet but not saturated.
-- TWI (9.09): moderate, no strong pooling.
+| **Driver**               | **Value**                     | **Physical Interpretation**
 
-3C. Interaction:
-- High API means soil is saturated, so even low rainfall can cause runoff.
-- Elevated river discharge suggests river is responding to upstream rainfall, possibly increasing flood risk.
-- Low rainfall on event day means no immediate trigger locally.
-- Without river proximity data, cannot confirm riverine flood risk.
-- No tidal or flash flood risk (plain terrain).
-
-3D. Rainfall is primary trigger for urban and river floods; here rainfall is low, so no direct trigger.
-High API and elevated river discharge are amplifiers but cannot trigger flood alone without rainfall.
-No tidal influence.
-Imperviousness moderate, so runoff amplification limited.
-TWI moderate, no strong pooling.
-
-3E. Risk level:
-- Rainfall too low to trigger flooding.
-- High API and elevated river discharge suggest potential for flooding if rainfall increases.
-- Without rainfall trigger, risk is LOW at most.
-
-Step 4 audit trail:
-
-- get_elevation_slope: elevation 21m, slope 0.41°, terrain plain.
-- get_historical_rainfall: max 24h 6.4 mm, max 2h 1.3 mm, very low rainfall.
-- get_historical_tide_level: tide 0 cm, location highlands, no tidal influence.
-- get_river_discharge: 13.59 m³/s, small river, elevated but below flood overflow.
-- get_distance_to_river: failed, no data.
-- get_antecedent_precipitation_index: API 244.45, very high saturation.
-- get_soil_moisture: 0.365 m³/m³, wet but not saturated.
-- get_imperviousness: 38.55%, moderate urbanization.
-- get_twi: 9.09, moderate accumulation.
-
-Step 5 conclusion:
-
-##### Final Risk Assessment
-- Risk Level: LOW
-- Primary trigger: No rainfall trigger present (6.4 mm < 10 mm threshold)
-- Key amplifiers: Very high antecedent precipitation index (244.45), elevated river discharge (13.59 m³/s)
-- Confidence: HIGH — data sources reliable, rainfall and soil moisture consistent
-
-Reasoning: The extremely high antecedent precipitation index indicates saturated soils, which can amplify runoff, and the river discharge is elevated, suggesting upstream rainfall influence. However, the rainfall on the event date is very low, below flood-triggering thresholds, and there is no tidal influence. Without a rainfall trigger, flooding is unlikely though monitoring is warranted due to soil saturation and river conditions.
-
-Warning: Distance to river data unavailable due to API error; riverine flood risk assessment limited by this missing data.
-
-**Risk Level: LOW**
+**Risk Level: HIGH**
 
 ## Licence
 
