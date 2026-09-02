@@ -1,0 +1,23 @@
+# Core — required to recompute metrics, render traces, and compute efficiency stats
+# (evaluate_metrics.py, render_traces.py, compute_efficiency.py: no API keys, no network)
+scikit-learn>=1.3
+
+# Required only for live execution (src/agent) with your own API keys
+langchain-core>=0.3
+langgraph>=0.2
+langchain-google-genai>=2.0
+langchain-openai>=0.2
+tenacity>=8.2
+aiohttp>=3.9
+httpx>=0.27
+
+# Optional — only needed if you supply the corresponding local/GEE data for the
+# elevation/imperviousness/TWI/catchment fallback tiers in src/tools/terrain_data.py.
+# Every one of these tools works without them, using its next fallback tier instead
+# (see docs/tool_failures.md). Not required to reproduce any number in the paper.
+# earthengine-api>=0.1
+# rasterio>=1.3
+# geopandas>=0.14
+# shapely>=2.0
+# pyogrio>=0.7
+# supabase>=2.0   # only used by get_elevation_slope's optional cache tier

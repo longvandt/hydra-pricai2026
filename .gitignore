@@ -1,0 +1,11 @@
+__pycache__/
+*.pyc
+.DS_Store
+.env
+venv/
+.venv/
+results/
+*.egg-info/
+
+# Kept locally, not published in the release repo
+docs/thresholds.md

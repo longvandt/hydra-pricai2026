@@ -1,0 +1,6002 @@
+[
+  {
+    "event_id": "b8201508-75ea-4446-a85b-103c0b2a4b5c",
+    "label": "positive",
+    "risk_level": "HIGH",
+    "binary_prediction": "positive"
+  },
+  {
+    "event_id": "368590fa-b99c-4689-9cdf-936d962ad8b5",
+    "label": "positive",
+    "risk_level": "CRITICAL",
+    "binary_prediction": "positive"
+  },
+  {
+    "event_id": "2d5fd99a-3159-4a5a-aa10-d82283ffb1b4",
+    "label": "positive",
+    "risk_level": "NONE",
+    "binary_prediction": "negative"
+  },
+  {
+    "event_id": "9e06ce0f-6647-4630-8e69-0efa37ca2ef2",
+    "label": "positive",
+    "risk_level": "CRITICAL",
+    "binary_prediction": "positive"
+  },
+  {
+    "event_id": "280652dd-34ef-462c-acc2-9edb12289be0",
+    "label": "positive",
+    "risk_level": "CRITICAL",
+    "binary_prediction": "positive"
+  },
+  {
+    "event_id": "9d62a782-8230-406e-aa46-de093b6476b6",
+    "label": "positive",
+    "risk_level": "MEDIUM",
+    "binary_prediction": "positive"
+  },
+  {
+    "event_id": "4d33447e-83ea-4510-a4a0-280ffb697783",
+    "label": "positive",
+    "risk_level": "HIGH",
+    "binary_prediction": "positive"
+  },
+  {
+    "event_id": "f5cc9032-1471-4878-9a38-9b3c4e7f6e74",
+    "label": "positive",
+    "risk_level": "MEDIUM",
+    "binary_prediction": "positive"
+  },
+  {
+    "event_id": "242812eb-0ade-4ca8-9fdb-819753e0ee3e",
+    "label": "positive",
+    "risk_level": "CRITICAL",
+    "binary_prediction": "positive"
+  },
+  {
+    "event_id": "694b86b2-dd38-470a-b737-8d80631dbec7",
+    "label": "positive",
+    "risk_level": "MEDIUM",
+    "binary_prediction": "positive"
+  },
+  {
+    "event_id": "bd2b4e77-fe7b-4828-bcad-83642492a1bf",
+    "label": "positive",
+    "risk_level": "MEDIUM",
+    "binary_prediction": "positive"
+  },
+  {
+    "event_id": "6e72fe39-33b9-4177-b6e7-dec356eadf56",
+    "label": "positive",
+    "risk_level": "MEDIUM",
+    "binary_prediction": "positive"
+  },
+  {
+    "event_id": "cd299b27-257d-42c5-b09c-7ae2a535fa1f",
+    "label": "positive",
+    "risk_level": "HIGH",
+    "binary_prediction": "positive"
+  },
+  {
+    "event_id": "8a78cd90-8105-4f0e-8899-1f0356ec2aea",
+    "label": "positive",
+    "risk_level": "NONE",
+    "binary_prediction": "negative"
+  },
+  {
+    "event_id": "0e1912d1-9127-43b1-b095-90a995525eb5",
+    "label": "positive",
+    "risk_level": "MEDIUM",
+    "binary_prediction": "positive"
+  },
+  {
+    "event_id": "2b02a7df-24ce-48d5-a5a7-bf53ad3e0cef",
+    "label": "positive",
+    "risk_level": "HIGH",
+    "binary_prediction": "positive"
+  },
+  {
+    "event_id": "b92ae3da-5f6e-41de-aefa-0c524bb905ff",
+    "label": "positive",
+    "risk_level": "MEDIUM",
+    "binary_prediction": "positive"
+  },
+  {
+    "event_id": "602997b6-51ac-4176-a2f7-906a9f3aa8cc",
+    "label": "positive",
+    "risk_level": "MEDIUM",
+    "binary_prediction": "positive"
+  },
+  {
+    "event_id": "00ce6d66-1cab-453d-91b2-92595dec43e5",
+    "label": "positive",
+    "risk_level": "NONE",
+    "binary_prediction": "negative"
+  },
+  {
+    "event_id": "804d04af-394a-42e3-aced-6bd26ac32bc5",
+    "label": "positive",
+    "risk_level": "HIGH",
+    "binary_prediction": "positive"
+  },
+  {
+    "event_id": "bbba2bc6-358f-46ca-a36f-3f77abdeaaac",
+    "label": "positive",
+    "risk_level": "CRITICAL",
+    "binary_prediction": "positive"
+  },
+  {
+    "event_id": "eb8cfe42-ef85-4312-b614-f5feb81d3787",
+    "label": "positive",
+    "risk_level": "HIGH",
+    "binary_prediction": "positive"
+  },
+  {
+    "event_id": "321a991d-f464-44e2-afae-2be4a4a59a9c",
+    "label": "positive",
+    "risk_level": "HIGH",
+    "binary_prediction": "positive"
+  },
+  {
+    "event_id": "42a1a781-1f17-4329-9789-203e39bb7723",
+    "label": "positive",
+    "risk_level": "LOW",
+    "binary_prediction": "negative"
+  },
+  {
+    "event_id": "99b5a911-f3b1-4c5b-b8b3-71dd65d1027f",
+    "label": "positive",
+    "risk_level": "HIGH",
+    "binary_prediction": "positive"
+  },
+  {
+    "event_id": "66544718-0790-457d-bee4-2dd284a69107",
+    "label": "positive",
+    "risk_level": "HIGH",
+    "binary_prediction": "positive"
+  },
+  {
+    "event_id": "0cdb79a9-d9a2-4faa-817e-b3f5ad5d6245",
+    "label": "positive",
+    "risk_level": "CRITICAL",
+    "binary_prediction": "positive"
+  },
+  {
+    "event_id": "b18a4241-30f8-4dc3-b59e-d81656568953",
+    "label": "positive",
+    "risk_level": "CRITICAL",
+    "binary_prediction": "positive"
+  },
+  {
+    "event_id": "04b51529-6262-43db-af93-6b353a2cf306",
+    "label": "positive",
+    "risk_level": "CRITICAL",
+    "binary_prediction": "positive"
+  },
+  {
+    "event_id": "c92365d9-2b7e-44c9-a5aa-aa339d48c31e",
+    "label": "positive",
+    "risk_level": "HIGH",
+    "binary_prediction": "positive"
+  },
+  {
+    "event_id": "068e1746-7071-4707-9634-e6d96a6d906a",
+    "label": "positive",
+    "risk_level": "MEDIUM",
+    "binary_prediction": "positive"
+  },
+  {
+    "event_id": "7a7290a6-f8d1-4176-b152-0f2efce21452",
+    "label": "positive",
+    "risk_level": "MEDIUM",
+    "binary_prediction": "positive"
+  },
+  {
+    "event_id": "ca3b1590-219c-4039-a2aa-607928861662",
+    "label": "positive",
+    "risk_level": "HIGH",
+    "binary_prediction": "positive"
+  },
+  {
+    "event_id": "df46ff4e-c927-4470-894f-81280e1bbbfe",
+    "label": "positive",
+    "risk_level": "MEDIUM",
+    "binary_prediction": "positive"
+  },
+  {
+    "event_id": "1f1e4bc4-f608-46c1-920e-0ed3c68b618c",
+    "label": "positive",
+    "risk_level": "CRITICAL",
+    "binary_prediction": "positive"
+  },
+  {
+    "event_id": "7ec1f8ca-40df-45a8-8e0c-153a9afd4198",
+    "label": "positive",
+    "risk_level": "NONE",
+    "binary_prediction": "negative"
+  },
+  {
+    "event_id": "342fa68b-c19b-42b0-8d50-0c0fe9cd4a06",
+    "label": "positive",
+    "risk_level": "HIGH",
+    "binary_prediction": "positive"
+  },
+  {
+    "event_id": "abcef807-b997-465f-af1e-4a729907c309",
+    "label": "positive",
+    "risk_level": "MEDIUM",
+    "binary_prediction": "positive"
+  },
+  {
+    "event_id": "e6ba0bf6-b3ef-48ac-8e4d-2dbd00efabbb",
+    "label": "positive",
+    "risk_level": "MEDIUM",
+    "binary_prediction": "positive"
+  },
+  {
+    "event_id": "ca9de2ba-dfee-413c-b997-2409189e2019",
+    "label": "positive",
+    "risk_level": "HIGH",
+    "binary_prediction": "positive"
+  },
+  {
+    "event_id": "19f67fe8-0878-42ef-8bdd-3fbca516f45f",
+    "label": "positive",
+    "risk_level": "CRITICAL",
+    "binary_prediction": "positive"
+  },
+  {
+    "event_id": "364c3b7f-a7bd-4c0f-ba13-935546b80290",
+    "label": "positive",
+    "risk_level": "MEDIUM",
+    "binary_prediction": "positive"
+  },
+  {
+    "event_id": "b13dc436-9b2d-4c63-ad8d-e44b683849a3",
+    "label": "positive",
+    "risk_level": "MEDIUM",
+    "binary_prediction": "positive"
+  },
+  {
+    "event_id": "291371fd-032d-46fe-8a7c-398295d52bca",
+    "label": "positive",
+    "risk_level": "HIGH",
+    "binary_prediction": "positive"
+  },
+  {
+    "event_id": "a74d7571-0ddb-4916-84c4-23f23b6ea309",
+    "label": "positive",
+    "risk_level": "MEDIUM",
+    "binary_prediction": "positive"
+  },
+  {
+    "event_id": "f19a7563-eb86-42c8-9594-7ecf17e0628c",
+    "label": "positive",
+    "risk_level": "MEDIUM",
+    "binary_prediction": "positive"
+  },
+  {
+    "event_id": "8d3856e3-622e-49dd-9040-091be015402d",
+    "label": "positive",
+    "risk_level": "HIGH",
+    "binary_prediction": "positive"
+  },
+  {
+    "event_id": "8b5db550-ee09-4393-af9e-e3d7339b3a00",
+    "label": "positive",
+    "risk_level": "HIGH",
+    "binary_prediction": "positive"
+  },
+  {
+    "event_id": "344ed1ff-4948-4957-9905-4405717ccd92",
+    "label": "positive",
+    "risk_level": "CRITICAL",
+    "binary_prediction": "positive"
+  },
+  {
+    "event_id": "16c6114b-54bf-4c5f-963d-b0f83b9a00bc",
+    "label": "positive",
+    "risk_level": "HIGH",
+    "binary_prediction": "positive"
+  },
+  {
+    "event_id": "fecafc0b-b498-4fe4-a3fc-9a36a82cc705",
+    "label": "positive",
+    "risk_level": "MEDIUM",
+    "binary_prediction": "positive"
+  },
+  {
+    "event_id": "c661bf3d-5e8a-4a71-a578-f88f3b1a1997",
+    "label": "positive",
+    "risk_level": "CRITICAL",
+    "binary_prediction": "positive"
+  },
+  {
+    "event_id": "ea848fa9-16f4-48b5-be94-116c437f5c45",
+    "label": "positive",
+    "risk_level": "CRITICAL",
+    "binary_prediction": "positive"
+  },
+  {
+    "event_id": "e6c7221f-e060-4b5c-9d73-93111dc175b5",
+    "label": "positive",
+    "risk_level": "HIGH",
+    "binary_prediction": "positive"
+  },
+  {
+    "event_id": "b42a2e6d-5690-4289-a92a-d5790836d1d2",
+    "label": "positive",
+    "risk_level": "MEDIUM",
+    "binary_prediction": "positive"
+  },
+  {
+    "event_id": "0d1a3bb7-db9c-4723-99dd-d452cad96392",
+    "label": "positive",
+    "risk_level": "HIGH",
+    "binary_prediction": "positive"
+  },
+  {
+    "event_id": "d0315e05-00c2-4c6e-859a-0a7cac1cf3ec",
+    "label": "positive",
+    "risk_level": "LOW",
+    "binary_prediction": "negative"
+  },
+  {
+    "event_id": "f1f90530-f2f4-4f74-9692-c45f60fdbeef",
+    "label": "positive",
+    "risk_level": "NONE",
+    "binary_prediction": "negative"
+  },
+  {
+    "event_id": "20d0da5e-5746-4809-8b5e-f62f91a84690",
+    "label": "positive",
+    "risk_level": "CRITICAL",
+    "binary_prediction": "positive"
+  },
+  {
+    "event_id": "c81a5f79-83ba-427b-87c8-c827b5234666",
+    "label": "positive",
+    "risk_level": "CRITICAL",
+    "binary_prediction": "positive"
+  },
+  {
+    "event_id": "97e0bc30-7405-4927-ae9e-a427aa38d7f7",
+    "label": "positive",
+    "risk_level": "NONE",
+    "binary_prediction": "negative"
+  },
+  {
+    "event_id": "0e441bed-6627-4435-834f-47d87ab8efaf",
+    "label": "positive",
+    "risk_level": "CRITICAL",
+    "binary_prediction": "positive"
+  },
+  {
+    "event_id": "8d0ae0a9-2868-4855-872d-4e8e89522f2b",
+    "label": "positive",
+    "risk_level": "MEDIUM",
+    "binary_prediction": "positive"
+  },
+  {
+    "event_id": "17d6de92-f127-45ff-85fe-7f8f2d2825f9",
+    "label": "positive",
+    "risk_level": "HIGH",
+    "binary_prediction": "positive"
+  },
+  {
+    "event_id": "5d9d6cdf-3d8f-459b-a182-915295067cee",
+    "label": "positive",
+    "risk_level": "CRITICAL",
+    "binary_prediction": "positive"
+  },
+  {
+    "event_id": "1fa80a5d-ac37-4b2c-8721-e8f742975093",
+    "label": "positive",
+    "risk_level": "MEDIUM",
+    "binary_prediction": "positive"
+  },
+  {
+    "event_id": "3be0082c-5aa1-4ce8-8493-215f79da20b1",
+    "label": "positive",
+    "risk_level": "HIGH",
+    "binary_prediction": "positive"
+  },
+  {
+    "event_id": "db85a899-eaac-4f7d-bae7-1a3df8644651",
+    "label": "positive",
+    "risk_level": "MEDIUM",
+    "binary_prediction": "positive"
+  },
+  {
+    "event_id": "58405a49-caaf-41c5-ab68-3772f5864f54",
+    "label": "positive",
+    "risk_level": "LOW",
+    "binary_prediction": "negative"
+  },
+  {
+    "event_id": "1f9b11d0-f2e9-4389-8f90-830686d78172",
+    "label": "positive",
+    "risk_level": "CRITICAL",
+    "binary_prediction": "positive"
+  },
+  {
+    "event_id": "93b77e70-0a2b-475a-9992-fe084b091cc9",
+    "label": "positive",
+    "risk_level": "MEDIUM",
+    "binary_prediction": "positive"
+  },
+  {
+    "event_id": "debcc717-248b-401c-830b-818c65a9bbf4",
+    "label": "positive",
+    "risk_level": "LOW",
+    "binary_prediction": "negative"
+  },
+  {
+    "event_id": "91b803c9-058e-44fb-bced-e5f9040fea94",
+    "label": "positive",
+    "risk_level": "CRITICAL",
+    "binary_prediction": "positive"
+  },
+  {
+    "event_id": "b4815bcd-8121-4557-973a-c4cd508f3a11",
+    "label": "positive",
+    "risk_level": "HIGH",
+    "binary_prediction": "positive"
+  },
+  {
+    "event_id": "32675017-c11a-4da9-9f5f-c843ead23cd3",
+    "label": "positive",
+    "risk_level": "HIGH",
+    "binary_prediction": "positive"
+  },
+  {
+    "event_id": "8b48a243-b253-4ee1-81b3-2fd9864528e5",
+    "label": "positive",
+    "risk_level": "CRITICAL",
+    "binary_prediction": "positive"
+  },
+  {
+    "event_id": "c360f99d-d657-41ad-b7cc-aa77fefe49c2",
+    "label": "positive",
+    "risk_level": "HIGH",
+    "binary_prediction": "positive"
+  },
+  {
+    "event_id": "8aecfbba-2177-425b-a193-71abd5a80ca1",
+    "label": "positive",
+    "risk_level": "CRITICAL",
+    "binary_prediction": "positive"
+  },
+  {
+    "event_id": "1f31f5f9-7c9e-4f87-abd4-a81892495104",
+    "label": "positive",
+    "risk_level": "MEDIUM",
+    "binary_prediction": "positive"
+  },
+  {
+    "event_id": "a4a83e64-8cdc-40f3-8ebd-f311c0e43097",
+    "label": "positive",
+    "risk_level": "LOW",
+    "binary_prediction": "negative"
+  },
+  {
+    "event_id": "49ddd156-57aa-4c02-a652-7731aebf709c",
+    "label": "positive",
+    "risk_level": "CRITICAL",
+    "binary_prediction": "positive"
+  },
+  {
+    "event_id": "dfff5dc5-071c-4cfc-8a49-901d908094c6",
+    "label": "positive",
+    "risk_level": "LOW",
+    "binary_prediction": "negative"
+  },
+  {
+    "event_id": "731ecdc9-a739-4de3-97cf-95cfd75034a2",
+    "label": "positive",
+    "risk_level": "HIGH",
+    "binary_prediction": "positive"
+  },
+  {
+    "event_id": "c68b0352-90c0-4e26-ac43-dbb497cb325c",
+    "label": "positive",
+    "risk_level": "MEDIUM",
+    "binary_prediction": "positive"
+  },
+  {
+    "event_id": "99d2400c-1feb-40e7-b947-4720c0d251e3",
+    "label": "positive",
+    "risk_level": "CRITICAL",
+    "binary_prediction": "positive"
+  },
+  {
+    "event_id": "89f37e81-16ec-4618-896b-197256470623",
+    "label": "positive",
+    "risk_level": "HIGH",
+    "binary_prediction": "positive"
+  },
+  {
+    "event_id": "06596132-8f62-47a8-b5f5-a3c3e36191d3",
+    "label": "positive",
+    "risk_level": "HIGH",
+    "binary_prediction": "positive"
+  },
+  {
+    "event_id": "f5a279c1-2ca0-4d5c-a484-f25176ab520d",
+    "label": "positive",
+    "risk_level": "HIGH",
+    "binary_prediction": "positive"
+  },
+  {
+    "event_id": "1d427bb1-8d26-4417-acb5-081603290552",
+    "label": "positive",
+    "risk_level": "HIGH",
+    "binary_prediction": "positive"
+  },
+  {
+    "event_id": "584bbaa0-c050-46e8-9faa-54b6c3acc8f9",
+    "label": "positive",
+    "risk_level": "CRITICAL",
+    "binary_prediction": "positive"
+  },
+  {
+    "event_id": "1067cb37-0dc4-47be-9b4c-2dc592e1b850",
+    "label": "positive",
+    "risk_level": "MEDIUM",
+    "binary_prediction": "positive"
+  },
+  {
+    "event_id": "625bbff6-0979-4f65-8418-9a00ddbde1c0",
+    "label": "positive",
+    "risk_level": "HIGH",
+    "binary_prediction": "positive"
+  },
+  {
+    "event_id": "2973708c-a2d8-4bf8-944b-54ac08a4e502",
+    "label": "positive",
+    "risk_level": "MEDIUM",
+    "binary_prediction": "positive"
+  },
+  {
+    "event_id": "62f82455-58b9-463f-bbce-34d36e50cf71",
+    "label": "positive",
+    "risk_level": "CRITICAL",
+    "binary_prediction": "positive"
+  },
+  {
+    "event_id": "7522eb31-4ba3-475a-b70e-e6f5313091de",
+    "label": "positive",
+    "risk_level": "HIGH",
+    "binary_prediction": "positive"
+  },
+  {
+    "event_id": "db147f56-fedc-49a7-a2ba-a75852ce5acf",
+    "label": "positive",
+    "risk_level": "HIGH",
+    "binary_prediction": "positive"
+  },
+  {
+    "event_id": "69bb090d-70fc-4097-9dbb-a8eb26671e2c",
+    "label": "positive",
+    "risk_level": "CRITICAL",
+    "binary_prediction": "positive"
+  },
+  {
+    "event_id": "a748c7b3-d41f-4901-a6b3-114675082ea4",
+    "label": "positive",
+    "risk_level": "CRITICAL",
+    "binary_prediction": "positive"
+  },
+  {
+    "event_id": "62184e68-9a5b-4537-bf90-fbe3b40328a8",
+    "label": "positive",
+    "risk_level": "CRITICAL",
+    "binary_prediction": "positive"
+  },
+  {
+    "event_id": "f633deb1-054e-4632-a705-8d84765df064",
+    "label": "positive",
+    "risk_level": "CRITICAL",
+    "binary_prediction": "positive"
+  },
+  {
+    "event_id": "07cbc34f-b001-4010-bd15-8a5c6e492907",
+    "label": "positive",
+    "risk_level": "HIGH",
+    "binary_prediction": "positive"
+  },
+  {
+    "event_id": "b58dac74-a97d-4d28-9e5b-aa38a131a035",
+    "label": "positive",
+    "risk_level": "CRITICAL",
+    "binary_prediction": "positive"
+  },
+  {
+    "event_id": "e524675b-418c-4743-9903-ce40ae4b270d",
+    "label": "positive",
+    "risk_level": "HIGH",
+    "binary_prediction": "positive"
+  },
+  {
+    "event_id": "5b59bab6-85c8-40b5-9b9e-4ea0376d8c08",
+    "label": "positive",
+    "risk_level": "MEDIUM",
+    "binary_prediction": "positive"
+  },
+  {
+    "event_id": "7690665f-f002-4820-9758-693a30b9e89f",
+    "label": "positive",
+    "risk_level": "CRITICAL",
+    "binary_prediction": "positive"
+  },
+  {
+    "event_id": "c60f06b3-14c4-45e1-8404-0bf9a042b939",
+    "label": "positive",
+    "risk_level": "LOW",
+    "binary_prediction": "negative"
+  },
+  {
+    "event_id": "d235d077-aab5-439f-819f-bae50f76790c",
+    "label": "positive",
+    "risk_level": "HIGH",
+    "binary_prediction": "positive"
+  },
+  {
+    "event_id": "c0eeb2ec-8e13-4335-8f2d-f8034d055066",
+    "label": "positive",
+    "risk_level": "MEDIUM",
+    "binary_prediction": "positive"
+  },
+  {
+    "event_id": "9467a86c-62ca-477b-b170-2096e5fa3d78",
+    "label": "positive",
+    "risk_level": "MEDIUM",
+    "binary_prediction": "positive"
+  },
+  {
+    "event_id": "da2c9482-57e6-4ddf-9f89-e7ceda2ac5d2",
+    "label": "positive",
+    "risk_level": "HIGH",
+    "binary_prediction": "positive"
+  },
+  {
+    "event_id": "70832fe4-121b-43e2-a3af-11566ccd2a6a",
+    "label": "positive",
+    "risk_level": "MEDIUM",
+    "binary_prediction": "positive"
+  },
+  {
+    "event_id": "abda637f-1d74-4556-9ac9-ce56df079f9c",
+    "label": "positive",
+    "risk_level": "MEDIUM",
+    "binary_prediction": "positive"
+  },
+  {
+    "event_id": "d6ec3187-56e2-4b1d-9d07-42efce207641",
+    "label": "positive",
+    "risk_level": "LOW",
+    "binary_prediction": "negative"
+  },
+  {
+    "event_id": "484135ab-f022-4c33-ac17-4aef17fb9f00",
+    "label": "positive",
+    "risk_level": "CRITICAL",
+    "binary_prediction": "positive"
+  },
+  {
+    "event_id": "0558780c-f2f5-43f7-9523-c17bfcc1e7c3",
+    "label": "positive",
+    "risk_level": "LOW",
+    "binary_prediction": "negative"
+  },
+  {
+    "event_id": "b70e67ab-f0eb-4e69-830a-b6a22d3d30f6",
+    "label": "positive",
+    "risk_level": "HIGH",
+    "binary_prediction": "positive"
+  },
+  {
+    "event_id": "a50cd7b8-bb74-4cdc-b4c6-ffe79a19e39f",
+    "label": "positive",
+    "risk_level": "CRITICAL",
+    "binary_prediction": "positive"
+  },
+  {
+    "event_id": "bf878a53-241f-4216-ae02-f774c89115b4",
+    "label": "positive",
+    "risk_level": "CRITICAL",
+    "binary_prediction": "positive"
+  },
+  {
+    "event_id": "0077d17e-06c2-4589-97fd-12277c622a32",
+    "label": "positive",
+    "risk_level": "LOW",
+    "binary_prediction": "negative"
+  },
+  {
+    "event_id": "2aa48237-a126-4ef6-83a8-493c1c69dc9a",
+    "label": "positive",
+    "risk_level": "LOW",
+    "binary_prediction": "negative"
+  },
+  {
+    "event_id": "6732a834-4393-44bd-bec2-5623bd13a98b",
+    "label": "positive",
+    "risk_level": "CRITICAL",
+    "binary_prediction": "positive"
+  },
+  {
+    "event_id": "c74f3da0-bbbf-4296-bef6-6533d2fa1db3",
+    "label": "positive",
+    "risk_level": "HIGH",
+    "binary_prediction": "positive"
+  },
+  {
+    "event_id": "734f407d-9b4e-4963-94b5-20322110222f",
+    "label": "positive",
+    "risk_level": "HIGH",
+    "binary_prediction": "positive"
+  },
+  {
+    "event_id": "686aedc8-62f4-4f08-bbcc-85eff327f06f",
+    "label": "positive",
+    "risk_level": "MEDIUM",
+    "binary_prediction": "positive"
+  },
+  {
+    "event_id": "100f2194-1bd7-4b53-a2a1-b1a5ecc72626",
+    "label": "positive",
+    "risk_level": "MEDIUM",
+    "binary_prediction": "positive"
+  },
+  {
+    "event_id": "a3397bf3-6a6e-438a-bede-a20b3a888c42",
+    "label": "positive",
+    "risk_level": "MEDIUM",
+    "binary_prediction": "positive"
+  },
+  {
+    "event_id": "b0562496-d595-4b33-a971-7219d63faeee",
+    "label": "positive",
+    "risk_level": "MEDIUM",
+    "binary_prediction": "positive"
+  },
+  {
+    "event_id": "e4a50512-26a7-40d4-ad6f-06922ca89261",
+    "label": "positive",
+    "risk_level": "HIGH",
+    "binary_prediction": "positive"
+  },
+  {
+    "event_id": "3a10ed90-5139-4a90-b467-3e069d567998",
+    "label": "positive",
+    "risk_level": "CRITICAL",
+    "binary_prediction": "positive"
+  },
+  {
+    "event_id": "2c4b602a-f473-4481-a0df-e597b7774078",
+    "label": "positive",
+    "risk_level": "MEDIUM",
+    "binary_prediction": "positive"
+  },
+  {
+    "event_id": "7f8cb226-68d7-402d-b6e2-57c2c8815e6c",
+    "label": "positive",
+    "risk_level": "MEDIUM",
+    "binary_prediction": "positive"
+  },
+  {
+    "event_id": "78ae6327-cf06-42c5-8951-9ac09aa51738",
+    "label": "positive",
+    "risk_level": "MEDIUM",
+    "binary_prediction": "positive"
+  },
+  {
+    "event_id": "f2176af5-4569-4f5a-878a-a833ce8315c0",
+    "label": "positive",
+    "risk_level": "HIGH",
+    "binary_prediction": "positive"
+  },
+  {
+    "event_id": "318133a4-85a4-4c30-8b87-df7e2ec3de1f",
+    "label": "positive",
+    "risk_level": "HIGH",
+    "binary_prediction": "positive"
+  },
+  {
+    "event_id": "822b8b2e-ece6-4da3-aac1-5fa085db966e",
+    "label": "positive",
+    "risk_level": "CRITICAL",
+    "binary_prediction": "positive"
+  },
+  {
+    "event_id": "ef98104a-5d52-4076-b85e-d88b6f06a2e4",
+    "label": "positive",
+    "risk_level": "MEDIUM",
+    "binary_prediction": "positive"
+  },
+  {
+    "event_id": "90d344b5-4bf9-40f4-b502-1c7e07e50f90",
+    "label": "positive",
+    "risk_level": "HIGH",
+    "binary_prediction": "positive"
+  },
+  {
+    "event_id": "37b2fc74-3374-453b-bd69-4b5c62c8dfc4",
+    "label": "positive",
+    "risk_level": "LOW",
+    "binary_prediction": "negative"
+  },
+  {
+    "event_id": "db0dbb6f-b56f-4327-a891-3f3347cc1e09",
+    "label": "positive",
+    "risk_level": "CRITICAL",
+    "binary_prediction": "positive"
+  },
+  {
+    "event_id": "b1a93140-80b1-4c1b-aa7c-405a2e213da3",
+    "label": "positive",
+    "risk_level": "CRITICAL",
+    "binary_prediction": "positive"
+  },
+  {
+    "event_id": "ecea495a-64f0-4236-9e3e-927a2d1ccd6f",
+    "label": "positive",
+    "risk_level": "HIGH",
+    "binary_prediction": "positive"
+  },
+  {
+    "event_id": "b70e149d-5a28-49e0-96bc-91995a2ef1de",
+    "label": "positive",
+    "risk_level": "CRITICAL",
+    "binary_prediction": "positive"
+  },
+  {
+    "event_id": "4223fc6d-283c-4e40-80f3-1692d305d3f1",
+    "label": "positive",
+    "risk_level": "HIGH",
+    "binary_prediction": "positive"
+  },
+  {
+    "event_id": "b4b7d517-be1f-4e92-ac61-9e9c6dbcd677",
+    "label": "positive",
+    "risk_level": "MEDIUM",
+    "binary_prediction": "positive"
+  },
+  {
+    "event_id": "70a3a960-af46-4a5a-8336-599b856f2bf0",
+    "label": "positive",
+    "risk_level": "CRITICAL",
+    "binary_prediction": "positive"
+  },
+  {
+    "event_id": "801a1625-494c-4dd6-b62f-cd91f18ebce5",
+    "label": "positive",
+    "risk_level": "MEDIUM",
+    "binary_prediction": "positive"
+  },
+  {
+    "event_id": "bc4bdd9d-a401-4e6c-8c64-7adbc49e5884",
+    "label": "positive",
+    "risk_level": "CRITICAL",
+    "binary_prediction": "positive"
+  },
+  {
+    "event_id": "95b67da7-8e63-492f-910c-77877cb2eb75",
+    "label": "positive",
+    "risk_level": "HIGH",
+    "binary_prediction": "positive"
+  },
+  {
+    "event_id": "0d6e035e-7a20-4013-8bd0-77db1b29faf9",
+    "label": "positive",
+    "risk_level": "HIGH",
+    "binary_prediction": "positive"
+  },
+  {
+    "event_id": "df68293d-d2f3-4c6e-aa39-96b05779ed9e",
+    "label": "positive",
+    "risk_level": "CRITICAL",
+    "binary_prediction": "positive"
+  },
+  {
+    "event_id": "3adb6cba-80db-4b0f-86f2-988d1433a779",
+    "label": "positive",
+    "risk_level": "CRITICAL",
+    "binary_prediction": "positive"
+  },
+  {
+    "event_id": "ab882c73-dde0-41d5-8492-40bc043264ea",
+    "label": "positive",
+    "risk_level": "HIGH",
+    "binary_prediction": "positive"
+  },
+  {
+    "event_id": "a0711453-f4b7-4550-964a-d328988f5e72",
+    "label": "positive",
+    "risk_level": "MEDIUM",
+    "binary_prediction": "positive"
+  },
+  {
+    "event_id": "2dd4455a-3757-4d7e-84b1-890a9c33c7f4",
+    "label": "positive",
+    "risk_level": "MEDIUM",
+    "binary_prediction": "positive"
+  },
+  {
+    "event_id": "5b83993a-05e3-4413-b4aa-91b6c32bd7c7",
+    "label": "positive",
+    "risk_level": "HIGH",
+    "binary_prediction": "positive"
+  },
+  {
+    "event_id": "7898106c-2ac2-4ba8-aae1-47a112e99d71",
+    "label": "positive",
+    "risk_level": "CRITICAL",
+    "binary_prediction": "positive"
+  },
+  {
+    "event_id": "b35db866-7167-4884-a17e-8646b1d1b05f",
+    "label": "positive",
+    "risk_level": "MEDIUM",
+    "binary_prediction": "positive"
+  },
+  {
+    "event_id": "08210e88-1d1b-4775-bd42-bfc12e39ae29",
+    "label": "positive",
+    "risk_level": "HIGH",
+    "binary_prediction": "positive"
+  },
+  {
+    "event_id": "e8b7dea2-c412-4d65-96a9-768db71c83c9",
+    "label": "positive",
+    "risk_level": "CRITICAL",
+    "binary_prediction": "positive"
+  },
+  {
+    "event_id": "96e1ef8a-22ff-474b-b5f4-558fff8bd96b",
+    "label": "positive",
+    "risk_level": "HIGH",
+    "binary_prediction": "positive"
+  },
+  {
+    "event_id": "07731b15-4253-4b2e-80ba-44ecb47fa72d",
+    "label": "positive",
+    "risk_level": "MEDIUM",
+    "binary_prediction": "positive"
+  },
+  {
+    "event_id": "189dfe17-b503-47c5-97f1-ee0e4a84bd85",
+    "label": "positive",
+    "risk_level": "CRITICAL",
+    "binary_prediction": "positive"
+  },
+  {
+    "event_id": "eb83cbcc-ded4-455f-8793-85bdd9018359",
+    "label": "positive",
+    "risk_level": "MEDIUM",
+    "binary_prediction": "positive"
+  },
+  {
+    "event_id": "f3bdb622-c99e-4e2e-b9fd-4d8c13b5bffb",
+    "label": "positive",
+    "risk_level": "LOW",
+    "binary_prediction": "negative"
+  },
+  {
+    "event_id": "a665261d-adaa-47f1-89b7-9f5c86bd5160",
+    "label": "positive",
+    "risk_level": "MEDIUM",
+    "binary_prediction": "positive"
+  },
+  {
+    "event_id": "0041d5e2-eb15-43b1-9528-8177f2f4ae43",
+    "label": "positive",
+    "risk_level": "HIGH",
+    "binary_prediction": "positive"
+  },
+  {
+    "event_id": "38204b78-5657-4129-aee5-ab43cfbff8ad",
+    "label": "positive",
+    "risk_level": "MEDIUM",
+    "binary_prediction": "positive"
+  },
+  {
+    "event_id": "bcb99cba-a0c2-456b-9151-03d947846ca5",
+    "label": "positive",
+    "risk_level": "HIGH",
+    "binary_prediction": "positive"
+  },
+  {
+    "event_id": "04051fea-3a2f-4769-a25b-aa7ee75c01d4",
+    "label": "positive",
+    "risk_level": "MEDIUM",
+    "binary_prediction": "positive"
+  },
+  {
+    "event_id": "01ab76c7-fa61-4d8f-991b-d810a14a72e4",
+    "label": "positive",
+    "risk_level": "MEDIUM",
+    "binary_prediction": "positive"
+  },
+  {
+    "event_id": "16844442-f9d3-4e57-956c-806a01cf82bf",
+    "label": "positive",
+    "risk_level": "CRITICAL",
+    "binary_prediction": "positive"
+  },
+  {
+    "event_id": "ef787e6d-965d-4cd4-bf31-6bfb7d4657cb",
+    "label": "positive",
+    "risk_level": "NONE",
+    "binary_prediction": "negative"
+  },
+  {
+    "event_id": "9ae51a78-a9e9-479c-af1c-e733c96e7be6",
+    "label": "positive",
+    "risk_level": "HIGH",
+    "binary_prediction": "positive"
+  },
+  {
+    "event_id": "aa741c0a-f6a8-4e93-8582-85bcdb5113ff",
+    "label": "positive",
+    "risk_level": "CRITICAL",
+    "binary_prediction": "positive"
+  },
+  {
+    "event_id": "eee0ed21-96ce-425f-a105-abca15cfcd41",
+    "label": "positive",
+    "risk_level": "MEDIUM",
+    "binary_prediction": "positive"
+  },
+  {
+    "event_id": "b9d5d67f-6093-45b9-856c-f8c52c17cf29",
+    "label": "positive",
+    "risk_level": "MEDIUM",
+    "binary_prediction": "positive"
+  },
+  {
+    "event_id": "70192f2a-707f-47f3-86e7-d2587c38c90e",
+    "label": "positive",
+    "risk_level": "CRITICAL",
+    "binary_prediction": "positive"
+  },
+  {
+    "event_id": "a85275e3-b4bd-4209-a7cb-d6464a6b1ba7",
+    "label": "positive",
+    "risk_level": "HIGH",
+    "binary_prediction": "positive"
+  },
+  {
+    "event_id": "6e7dc91b-b93f-4cd5-8b23-4609ce882c41",
+    "label": "positive",
+    "risk_level": "HIGH",
+    "binary_prediction": "positive"
+  },
+  {
+    "event_id": "d666f9dd-15f1-434f-b4d1-cd2e9753f0e4",
+    "label": "positive",
+    "risk_level": "CRITICAL",
+    "binary_prediction": "positive"
+  },
+  {
+    "event_id": "39c1adbf-d4c7-472c-b0c9-4f51f14b271e",
+    "label": "positive",
+    "risk_level": "HIGH",
+    "binary_prediction": "positive"
+  },
+  {
+    "event_id": "c76c0cfd-c0fc-44f2-8b3a-ae03125f4db0",
+    "label": "positive",
+    "risk_level": "CRITICAL",
+    "binary_prediction": "positive"
+  },
+  {
+    "event_id": "cf1e7963-e184-47c2-bef5-97ec323c323d",
+    "label": "positive",
+    "risk_level": "HIGH",
+    "binary_prediction": "positive"
+  },
+  {
+    "event_id": "6f6af9e8-6655-49ac-8b9c-598bc5ae3fe6",
+    "label": "positive",
+    "risk_level": "HIGH",
+    "binary_prediction": "positive"
+  },
+  {
+    "event_id": "dd882c09-aa1b-4a73-8820-dab16af555ad",
+    "label": "positive",
+    "risk_level": "HIGH",
+    "binary_prediction": "positive"
+  },
+  {
+    "event_id": "0f39ded4-419b-49c1-8291-d9d86b1a61ae",
+    "label": "positive",
+    "risk_level": "HIGH",
+    "binary_prediction": "positive"
+  },
+  {
+    "event_id": "c5db2dab-259a-443f-97aa-fc78fcff31d6",
+    "label": "positive",
+    "risk_level": "CRITICAL",
+    "binary_prediction": "positive"
+  },
+  {
+    "event_id": "e5593368-3217-4a5c-ace5-3183276b0dab",
+    "label": "positive",
+    "risk_level": "CRITICAL",
+    "binary_prediction": "positive"
+  },
+  {
+    "event_id": "fbd6a355-20ae-4d94-a4fe-f2f6048c60bf",
+    "label": "positive",
+    "risk_level": "CRITICAL",
+    "binary_prediction": "positive"
+  },
+  {
+    "event_id": "6feed0fc-9049-406e-bed5-4dd420417aac",
+    "label": "positive",
+    "risk_level": "HIGH",
+    "binary_prediction": "positive"
+  },
+  {
+    "event_id": "51f68f47-fbc4-482c-91c2-5ae190e32efd",
+    "label": "positive",
+    "risk_level": "CRITICAL",
+    "binary_prediction": "positive"
+  },
+  {
+    "event_id": "d7b47b47-c316-47f0-adb5-00da84fa29b0",
+    "label": "positive",
+    "risk_level": "CRITICAL",
+    "binary_prediction": "positive"
+  },
+  {
+    "event_id": "a2574430-7e12-4882-a31a-8bae8c9ff4ee",
+    "label": "positive",
+    "risk_level": "HIGH",
+    "binary_prediction": "positive"
+  },
+  {
+    "event_id": "49db44dc-ac37-48f4-a72f-530998afa695",
+    "label": "positive",
+    "risk_level": "MEDIUM",
+    "binary_prediction": "positive"
+  },
+  {
+    "event_id": "2104da3d-d798-4eb8-ac3d-82ec88b4c432",
+    "label": "positive",
+    "risk_level": "HIGH",
+    "binary_prediction": "positive"
+  },
+  {
+    "event_id": "3b1791e7-34a0-4255-abd4-4700830d9e69",
+    "label": "positive",
+    "risk_level": "MEDIUM",
+    "binary_prediction": "positive"
+  },
+  {
+    "event_id": "48bc33b1-b6e5-4c32-9a21-47fc9582786a",
+    "label": "positive",
+    "risk_level": "MEDIUM",
+    "binary_prediction": "positive"
+  },
+  {
+    "event_id": "48913675-57ea-4568-91d6-3bf2341fc60a",
+    "label": "positive",
+    "risk_level": "LOW",
+    "binary_prediction": "negative"
+  },
+  {
+    "event_id": "06a43993-e5a0-470a-b4ff-ebad23a5fb24",
+    "label": "positive",
+    "risk_level": "MEDIUM",
+    "binary_prediction": "positive"
+  },
+  {
+    "event_id": "63c03fa0-25f8-4df2-bc57-53de181c473d",
+    "label": "positive",
+    "risk_level": "MEDIUM",
+    "binary_prediction": "positive"
+  },
+  {
+    "event_id": "b3df89fb-d199-4db2-8740-25efad64cf2f",
+    "label": "positive",
+    "risk_level": "MEDIUM",
+    "binary_prediction": "positive"
+  },
+  {
+    "event_id": "f854dd70-ce2d-4214-84c9-112eec5a0868",
+    "label": "positive",
+    "risk_level": "HIGH",
+    "binary_prediction": "positive"
+  },
+  {
+    "event_id": "9414b047-322e-4295-af52-6b47a714723d",
+    "label": "positive",
+    "risk_level": "HIGH",
+    "binary_prediction": "positive"
+  },
+  {
+    "event_id": "21f681a6-be80-4af3-9754-62c7e26140b0",
+    "label": "positive",
+    "risk_level": "HIGH",
+    "binary_prediction": "positive"
+  },
+  {
+    "event_id": "1e3ca9c7-062b-45b6-9e2b-ce0f5911975b",
+    "label": "positive",
+    "risk_level": "MEDIUM",
+    "binary_prediction": "positive"
+  },
+  {
+    "event_id": "e8fb8ab6-5aa4-4050-89ee-cba5335dedb9",
+    "label": "positive",
+    "risk_level": "CRITICAL",
+    "binary_prediction": "positive"
+  },
+  {
+    "event_id": "e871b7eb-8304-4c48-8ddd-2c489bacdc25",
+    "label": "positive",
+    "risk_level": "CRITICAL",
+    "binary_prediction": "positive"
+  },
+  {
+    "event_id": "9b0c0b2a-db02-4240-ba0c-313b6790e11f",
+    "label": "positive",
+    "risk_level": "NONE",
+    "binary_prediction": "negative"
+  },
+  {
+    "event_id": "652e0ec7-1b3c-40d3-8b35-43d075f62016",
+    "label": "positive",
+    "risk_level": "HIGH",
+    "binary_prediction": "positive"
+  },
+  {
+    "event_id": "a283eb41-72b7-4ca8-9914-f9884ab9c558",
+    "label": "positive",
+    "risk_level": "HIGH",
+    "binary_prediction": "positive"
+  },
+  {
+    "event_id": "3a7288d9-c6c9-474e-91ed-7c080687dc1d",
+    "label": "positive",
+    "risk_level": "CRITICAL",
+    "binary_prediction": "positive"
+  },
+  {
+    "event_id": "137a69fe-5605-459e-9dac-b18c95136103",
+    "label": "positive",
+    "risk_level": "CRITICAL",
+    "binary_prediction": "positive"
+  },
+  {
+    "event_id": "ec4790aa-defb-471b-b0ff-8f42a8976c75",
+    "label": "positive",
+    "risk_level": "LOW",
+    "binary_prediction": "negative"
+  },
+  {
+    "event_id": "48c259c7-9097-4a4b-a076-a351bbb4b1f0",
+    "label": "positive",
+    "risk_level": "HIGH",
+    "binary_prediction": "positive"
+  },
+  {
+    "event_id": "079d1fa8-5adb-453d-a22b-bf9d34e8762f",
+    "label": "positive",
+    "risk_level": "HIGH",
+    "binary_prediction": "positive"
+  },
+  {
+    "event_id": "2da438d7-7566-4520-9d3e-87e37592ec39",
+    "label": "positive",
+    "risk_level": "HIGH",
+    "binary_prediction": "positive"
+  },
+  {
+    "event_id": "834a2f99-b1e9-4dae-afc7-1ba986006cd0",
+    "label": "positive",
+    "risk_level": "HIGH",
+    "binary_prediction": "positive"
+  },
+  {
+    "event_id": "a6e7d295-2bfc-43ad-ac8f-84282c336bd5",
+    "label": "positive",
+    "risk_level": "MEDIUM",
+    "binary_prediction": "positive"
+  },
+  {
+    "event_id": "d32733a1-b8a3-4291-a3f4-5f3630b418fd",
+    "label": "positive",
+    "risk_level": "CRITICAL",
+    "binary_prediction": "positive"
+  },
+  {
+    "event_id": "058f8966-9ab4-416f-a128-2712fec42448",
+    "label": "positive",
+    "risk_level": "HIGH",
+    "binary_prediction": "positive"
+  },
+  {
+    "event_id": "7ab462aa-d618-44c8-9e16-031eec91fde0",
+    "label": "positive",
+    "risk_level": "MEDIUM",
+    "binary_prediction": "positive"
+  },
+  {
+    "event_id": "9ff47999-05d7-47f5-b208-9866e682e087",
+    "label": "positive",
+    "risk_level": "HIGH",
+    "binary_prediction": "positive"
+  },
+  {
+    "event_id": "2822964d-5e02-4128-bfaf-b080e71170f2",
+    "label": "positive",
+    "risk_level": "MEDIUM",
+    "binary_prediction": "positive"
+  },
+  {
+    "event_id": "7e9d06bd-78b9-4a06-ae3c-d5104f484c7d",
+    "label": "positive",
+    "risk_level": "MEDIUM",
+    "binary_prediction": "positive"
+  },
+  {
+    "event_id": "9e6a4ed4-c618-45a0-a625-4f10597796be",
+    "label": "positive",
+    "risk_level": "CRITICAL",
+    "binary_prediction": "positive"
+  },
+  {
+    "event_id": "d633f51a-37e9-4f91-9771-76ba17256b26",
+    "label": "positive",
+    "risk_level": "NONE",
+    "binary_prediction": "negative"
+  },
+  {
+    "event_id": "ba342687-4aa6-47b4-8989-96ecf38d14a9",
+    "label": "positive",
+    "risk_level": "CRITICAL",
+    "binary_prediction": "positive"
+  },
+  {
+    "event_id": "b23cdeb7-74f7-4a8b-b280-de61e8769253",
+    "label": "positive",
+    "risk_level": "CRITICAL",
+    "binary_prediction": "positive"
+  },
+  {
+    "event_id": "fa796cba-bb00-42d0-9c44-7bcfd7366a71",
+    "label": "positive",
+    "risk_level": "CRITICAL",
+    "binary_prediction": "positive"
+  },
+  {
+    "event_id": "1ad4cd7c-d21c-41b4-bd2a-016af623e321",
+    "label": "positive",
+    "risk_level": "HIGH",
+    "binary_prediction": "positive"
+  },
+  {
+    "event_id": "e11a10e6-3f89-4b58-ac7f-96f10fb5e1a0",
+    "label": "positive",
+    "risk_level": "HIGH",
+    "binary_prediction": "positive"
+  },
+  {
+    "event_id": "b7ef4e8f-9113-475f-8605-f3bd90061d54",
+    "label": "positive",
+    "risk_level": "CRITICAL",
+    "binary_prediction": "positive"
+  },
+  {
+    "event_id": "d9ae3a28-ecbb-4ad2-ad08-dc89f88326cc",
+    "label": "positive",
+    "risk_level": "MEDIUM",
+    "binary_prediction": "positive"
+  },
+  {
+    "event_id": "7d29da7e-ac0b-4847-94ae-d775fa156514",
+    "label": "positive",
+    "risk_level": "HIGH",
+    "binary_prediction": "positive"
+  },
+  {
+    "event_id": "b2907d82-b237-4d00-8443-1f2c902cba02",
+    "label": "positive",
+    "risk_level": "CRITICAL",
+    "binary_prediction": "positive"
+  },
+  {
+    "event_id": "476e2d02-9635-4b36-9d43-abd254feb5f0",
+    "label": "positive",
+    "risk_level": "MEDIUM",
+    "binary_prediction": "positive"
+  },
+  {
+    "event_id": "d1bbcd51-3161-4796-9125-799f68b3d757",
+    "label": "positive",
+    "risk_level": "HIGH",
+    "binary_prediction": "positive"
+  },
+  {
+    "event_id": "449f76a1-f794-4ec8-823d-0e79d1003a3b",
+    "label": "positive",
+    "risk_level": "MEDIUM",
+    "binary_prediction": "positive"
+  },
+  {
+    "event_id": "7353f162-d572-4ada-9e53-cf28894e793d",
+    "label": "positive",
+    "risk_level": "MEDIUM",
+    "binary_prediction": "positive"
+  },
+  {
+    "event_id": "334f1d5c-5035-4ec0-8f18-860efcd8722a",
+    "label": "positive",
+    "risk_level": "CRITICAL",
+    "binary_prediction": "positive"
+  },
+  {
+    "event_id": "b8b5c7a9-33f3-44ca-9c41-af7d723d8003",
+    "label": "positive",
+    "risk_level": "LOW",
+    "binary_prediction": "negative"
+  },
+  {
+    "event_id": "d05d7e1c-393e-4610-b147-ac092da09dd5",
+    "label": "positive",
+    "risk_level": "NONE",
+    "binary_prediction": "negative"
+  },
+  {
+    "event_id": "95442fea-f5f2-4a2c-b3c0-32917781b2a4",
+    "label": "positive",
+    "risk_level": "HIGH",
+    "binary_prediction": "positive"
+  },
+  {
+    "event_id": "b0ade1e3-1902-4d8b-8f29-5bc203da9fde",
+    "label": "positive",
+    "risk_level": "MEDIUM",
+    "binary_prediction": "positive"
+  },
+  {
+    "event_id": "900695a4-dfcd-4464-964f-222cc21326dc",
+    "label": "positive",
+    "risk_level": "MEDIUM",
+    "binary_prediction": "positive"
+  },
+  {
+    "event_id": "3632c8c9-c89e-4136-8979-165969556d92",
+    "label": "positive",
+    "risk_level": "MEDIUM",
+    "binary_prediction": "positive"
+  },
+  {
+    "event_id": "a11418e1-eb81-4ddb-865e-698829d84b6e",
+    "label": "positive",
+    "risk_level": "MEDIUM",
+    "binary_prediction": "positive"
+  },
+  {
+    "event_id": "c1c07863-549e-46ad-a6a5-8f5311d37774",
+    "label": "positive",
+    "risk_level": "MEDIUM",
+    "binary_prediction": "positive"
+  },
+  {
+    "event_id": "5322b2dc-e9fe-4146-b8d9-d383d2a65c73",
+    "label": "positive",
+    "risk_level": "CRITICAL",
+    "binary_prediction": "positive"
+  },
+  {
+    "event_id": "6e438469-1abb-4ce5-a474-75d9bfb64049",
+    "label": "positive",
+    "risk_level": "CRITICAL",
+    "binary_prediction": "positive"
+  },
+  {
+    "event_id": "441c5956-4352-4926-8a63-fd8fba37a61d",
+    "label": "positive",
+    "risk_level": "HIGH",
+    "binary_prediction": "positive"
+  },
+  {
+    "event_id": "e4c03eb1-8ed7-4436-9e54-9aba74241f4f",
+    "label": "positive",
+    "risk_level": "MEDIUM",
+    "binary_prediction": "positive"
+  },
+  {
+    "event_id": "8bca8dc0-2f37-44a1-9d2e-2f5ebae9f239",
+    "label": "positive",
+    "risk_level": "MEDIUM",
+    "binary_prediction": "positive"
+  },
+  {
+    "event_id": "1d39ae89-9cd0-40b7-bee5-d13781519cbf",
+    "label": "positive",
+    "risk_level": "MEDIUM",
+    "binary_prediction": "positive"
+  },
+  {
+    "event_id": "2eb28ff6-3a25-476d-9bf9-25f728a31d59",
+    "label": "positive",
+    "risk_level": "CRITICAL",
+    "binary_prediction": "positive"
+  },
+  {
+    "event_id": "bea25bab-d9ef-4103-a532-8dc288decd1a",
+    "label": "positive",
+    "risk_level": "CRITICAL",
+    "binary_prediction": "positive"
+  },
+  {
+    "event_id": "07f2b8f0-13a0-4431-ae79-8740931536fb",
+    "label": "positive",
+    "risk_level": "CRITICAL",
+    "binary_prediction": "positive"
+  },
+  {
+    "event_id": "4e2ca362-8b99-41bf-9a59-bf1ce4fd5083",
+    "label": "positive",
+    "risk_level": "HIGH",
+    "binary_prediction": "positive"
+  },
+  {
+    "event_id": "3695a4c3-fbcd-45c7-9bbe-564fdfa42108",
+    "label": "positive",
+    "risk_level": "LOW",
+    "binary_prediction": "negative"
+  },
+  {
+    "event_id": "819051ec-c2d1-4a16-a6b0-54b298780dcb",
+    "label": "positive",
+    "risk_level": "HIGH",
+    "binary_prediction": "positive"
+  },
+  {
+    "event_id": "afd191bf-7337-40e6-9fa3-95dc2a8f746d",
+    "label": "positive",
+    "risk_level": "MEDIUM",
+    "binary_prediction": "positive"
+  },
+  {
+    "event_id": "8407e11d-6338-41a3-8b83-5fc89747f0a1",
+    "label": "positive",
+    "risk_level": "CRITICAL",
+    "binary_prediction": "positive"
+  },
+  {
+    "event_id": "c00bc650-9259-4a40-bbb1-bc523e542fd0",
+    "label": "positive",
+    "risk_level": "MEDIUM",
+    "binary_prediction": "positive"
+  },
+  {
+    "event_id": "c0f52bf2-294c-4427-87a4-41d4ee217f8c",
+    "label": "positive",
+    "risk_level": "MEDIUM",
+    "binary_prediction": "positive"
+  },
+  {
+    "event_id": "bf8df2df-8b1a-4b4f-9b19-831323f6ae98",
+    "label": "positive",
+    "risk_level": "HIGH",
+    "binary_prediction": "positive"
+  },
+  {
+    "event_id": "dfa8e9a8-abde-4a9e-987c-2e6cd1c201ed",
+    "label": "positive",
+    "risk_level": "NONE",
+    "binary_prediction": "negative"
+  },
+  {
+    "event_id": "02292882-5414-4088-b25e-1d4a9945c427",
+    "label": "positive",
+    "risk_level": "CRITICAL",
+    "binary_prediction": "positive"
+  },
+  {
+    "event_id": "a737c6e4-a80e-4c33-82dc-88f4776700bb",
+    "label": "positive",
+    "risk_level": "HIGH",
+    "binary_prediction": "positive"
+  },
+  {
+    "event_id": "ef060f4a-c35f-4da7-9eee-d8a331358996",
+    "label": "positive",
+    "risk_level": "MEDIUM",
+    "binary_prediction": "positive"
+  },
+  {
+    "event_id": "4ec3a087-c662-4351-95fa-7bc73b13d280",
+    "label": "positive",
+    "risk_level": "HIGH",
+    "binary_prediction": "positive"
+  },
+  {
+    "event_id": "c10465d9-e064-4dd5-8f28-f71050e1985b",
+    "label": "positive",
+    "risk_level": "MEDIUM",
+    "binary_prediction": "positive"
+  },
+  {
+    "event_id": "b9a3237f-0388-49ec-ad1d-a12236c8b9e8",
+    "label": "positive",
+    "risk_level": "CRITICAL",
+    "binary_prediction": "positive"
+  },
+  {
+    "event_id": "bc115a80-c8de-4422-97f9-fabe2051db51",
+    "label": "positive",
+    "risk_level": "CRITICAL",
+    "binary_prediction": "positive"
+  },
+  {
+    "event_id": "e39687c5-bc73-4220-b5bb-2c813dc9ca0b",
+    "label": "positive",
+    "risk_level": "CRITICAL",
+    "binary_prediction": "positive"
+  },
+  {
+    "event_id": "c7df7438-1ad4-4018-ad3c-7761cc78e652",
+    "label": "positive",
+    "risk_level": "MEDIUM",
+    "binary_prediction": "positive"
+  },
+  {
+    "event_id": "c089a202-dfd8-4261-a1c7-83ef39d9494f",
+    "label": "positive",
+    "risk_level": "HIGH",
+    "binary_prediction": "positive"
+  },
+  {
+    "event_id": "91274ee4-1d81-48a9-b5e6-7dcb74e924a3",
+    "label": "positive",
+    "risk_level": "HIGH",
+    "binary_prediction": "positive"
+  },
+  {
+    "event_id": "1e58a041-1f08-4825-ac7e-1fcc054f3fdd",
+    "label": "positive",
+    "risk_level": "HIGH",
+    "binary_prediction": "positive"
+  },
+  {
+    "event_id": "7f7b4b93-a177-4882-853f-defd9522899c",
+    "label": "positive",
+    "risk_level": "CRITICAL",
+    "binary_prediction": "positive"
+  },
+  {
+    "event_id": "38fb960b-f8b9-4655-8f91-87fff6684ab8",
+    "label": "positive",
+    "risk_level": "MEDIUM",
+    "binary_prediction": "positive"
+  },
+  {
+    "event_id": "9f3e77f0-54a8-4f2a-8490-92926d46d077",
+    "label": "positive",
+    "risk_level": "MEDIUM",
+    "binary_prediction": "positive"
+  },
+  {
+    "event_id": "ecf25a07-6554-4ffe-b463-a270a734b164",
+    "label": "positive",
+    "risk_level": "MEDIUM",
+    "binary_prediction": "positive"
+  },
+  {
+    "event_id": "c94b3596-4deb-4277-a77d-0bec217de107",
+    "label": "positive",
+    "risk_level": "MEDIUM",
+    "binary_prediction": "positive"
+  },
+  {
+    "event_id": "0dbf9457-9250-44da-b209-aadc2d1bb19e",
+    "label": "positive",
+    "risk_level": "CRITICAL",
+    "binary_prediction": "positive"
+  },
+  {
+    "event_id": "1a1c1f36-b4c0-47dd-83b4-c0d1306be9b1",
+    "label": "positive",
+    "risk_level": "CRITICAL",
+    "binary_prediction": "positive"
+  },
+  {
+    "event_id": "edb05719-34bb-4df3-ac56-b74679ff69fb",
+    "label": "positive",
+    "risk_level": "HIGH",
+    "binary_prediction": "positive"
+  },
+  {
+    "event_id": "65f4b9e5-9d6d-4bbb-b5d2-5ff097d89623",
+    "label": "positive",
+    "risk_level": "CRITICAL",
+    "binary_prediction": "positive"
+  },
+  {
+    "event_id": "0a6005f0-05b0-4d65-a36d-f9973a4ef2e3",
+    "label": "positive",
+    "risk_level": "MEDIUM",
+    "binary_prediction": "positive"
+  },
+  {
+    "event_id": "302e266e-e7f5-4878-ac83-adec5888d782",
+    "label": "positive",
+    "risk_level": "HIGH",
+    "binary_prediction": "positive"
+  },
+  {
+    "event_id": "df7f0689-2a47-4cd1-a3d4-9063e7f161cb",
+    "label": "positive",
+    "risk_level": "CRITICAL",
+    "binary_prediction": "positive"
+  },
+  {
+    "event_id": "21e8d455-0db8-439a-a155-d17614956215",
+    "label": "positive",
+    "risk_level": "CRITICAL",
+    "binary_prediction": "positive"
+  },
+  {
+    "event_id": "2615214a-b375-4fba-9762-fe3cae3121f5",
+    "label": "positive",
+    "risk_level": "HIGH",
+    "binary_prediction": "positive"
+  },
+  {
+    "event_id": "6bf277ba-2e13-4c1f-a7f4-491a13005fea",
+    "label": "positive",
+    "risk_level": "CRITICAL",
+    "binary_prediction": "positive"
+  },
+  {
+    "event_id": "a871567a-bf3c-4d76-b263-d26fd3fe994b",
+    "label": "positive",
+    "risk_level": "CRITICAL",
+    "binary_prediction": "positive"
+  },
+  {
+    "event_id": "287a633f-8f9f-4e78-b140-45f581d08bd0",
+    "label": "positive",
+    "risk_level": "HIGH",
+    "binary_prediction": "positive"
+  },
+  {
+    "event_id": "89415cf0-affd-4e6d-a979-d8a840ef362d",
+    "label": "positive",
+    "risk_level": "LOW",
+    "binary_prediction": "negative"
+  },
+  {
+    "event_id": "5187c174-b7e5-433d-9362-40bb44c0abde",
+    "label": "positive",
+    "risk_level": "HIGH",
+    "binary_prediction": "positive"
+  },
+  {
+    "event_id": "9c97c621-79e4-4bae-a527-11183cb4d0e0",
+    "label": "positive",
+    "risk_level": "CRITICAL",
+    "binary_prediction": "positive"
+  },
+  {
+    "event_id": "41b97a00-b329-4170-8e1a-9b7e421eda7f",
+    "label": "positive",
+    "risk_level": "CRITICAL",
+    "binary_prediction": "positive"
+  },
+  {
+    "event_id": "409229b9-1a99-4cf1-aba2-4ab0b978fe24",
+    "label": "positive",
+    "risk_level": "HIGH",
+    "binary_prediction": "positive"
+  },
+  {
+    "event_id": "9d7acb58-9cef-4c8b-bfcc-8fdb522c540c",
+    "label": "positive",
+    "risk_level": "NONE",
+    "binary_prediction": "negative"
+  },
+  {
+    "event_id": "e6f862f2-9002-4eb4-8f6f-2ee4293300d2",
+    "label": "positive",
+    "risk_level": "CRITICAL",
+    "binary_prediction": "positive"
+  },
+  {
+    "event_id": "dca25db5-891b-443a-ab71-ba215ff85097",
+    "label": "positive",
+    "risk_level": "MEDIUM",
+    "binary_prediction": "positive"
+  },
+  {
+    "event_id": "bcc7a802-631a-472a-b645-96b3f3b5bd22",
+    "label": "positive",
+    "risk_level": "MEDIUM",
+    "binary_prediction": "positive"
+  },
+  {
+    "event_id": "7a5703b0-cf8b-4236-8b0e-8a924c3d753e",
+    "label": "positive",
+    "risk_level": "CRITICAL",
+    "binary_prediction": "positive"
+  },
+  {
+    "event_id": "da717913-ebfb-4167-9e10-a6f699e24be1",
+    "label": "positive",
+    "risk_level": "HIGH",
+    "binary_prediction": "positive"
+  },
+  {
+    "event_id": "0c645f77-3690-4d8b-819a-0fc1e1258cdf",
+    "label": "positive",
+    "risk_level": "MEDIUM",
+    "binary_prediction": "positive"
+  },
+  {
+    "event_id": "ff258e89-e496-44ca-8537-41de406b6e64",
+    "label": "positive",
+    "risk_level": "MEDIUM",
+    "binary_prediction": "positive"
+  },
+  {
+    "event_id": "4cbd4e6e-c387-46d9-8311-a9ec4f776540",
+    "label": "positive",
+    "risk_level": "MEDIUM",
+    "binary_prediction": "positive"
+  },
+  {
+    "event_id": "8aa9df80-2b7d-4813-a0c7-6da9f6d150eb",
+    "label": "positive",
+    "risk_level": "HIGH",
+    "binary_prediction": "positive"
+  },
+  {
+    "event_id": "d9e4ca45-2038-4e8b-9c90-1b85e0ff3eaf",
+    "label": "positive",
+    "risk_level": "MEDIUM",
+    "binary_prediction": "positive"
+  },
+  {
+    "event_id": "05ca66e3-f3bb-41aa-954a-5cbc11b80589",
+    "label": "positive",
+    "risk_level": "HIGH",
+    "binary_prediction": "positive"
+  },
+  {
+    "event_id": "9eb93f9b-6c2e-4e45-85d5-4bcb5a107645",
+    "label": "positive",
+    "risk_level": "MEDIUM",
+    "binary_prediction": "positive"
+  },
+  {
+    "event_id": "653c0251-d79d-4a1a-886e-58c985065973",
+    "label": "positive",
+    "risk_level": "CRITICAL",
+    "binary_prediction": "positive"
+  },
+  {
+    "event_id": "328ac128-877e-4f3b-9c2d-9399d360dd2a",
+    "label": "positive",
+    "risk_level": "MEDIUM",
+    "binary_prediction": "positive"
+  },
+  {
+    "event_id": "1eb50237-ab48-4522-a9ce-085c2fb74f55",
+    "label": "positive",
+    "risk_level": "MEDIUM",
+    "binary_prediction": "positive"
+  },
+  {
+    "event_id": "0cdf0027-2288-417e-ae1c-f3dc774108b2",
+    "label": "positive",
+    "risk_level": "CRITICAL",
+    "binary_prediction": "positive"
+  },
+  {
+    "event_id": "7dd2848d-fa0b-4bba-9e97-be3d1f87a787",
+    "label": "positive",
+    "risk_level": "MEDIUM",
+    "binary_prediction": "positive"
+  },
+  {
+    "event_id": "c1a55a50-6218-4ffa-9230-7380e8355573",
+    "label": "positive",
+    "risk_level": "HIGH",
+    "binary_prediction": "positive"
+  },
+  {
+    "event_id": "0264ea07-c56c-4b18-9fd1-b532caf8a3f2",
+    "label": "positive",
+    "risk_level": "HIGH",
+    "binary_prediction": "positive"
+  },
+  {
+    "event_id": "ccf92108-f26a-4fbf-b908-bed73b94a33c",
+    "label": "positive",
+    "risk_level": "HIGH",
+    "binary_prediction": "positive"
+  },
+  {
+    "event_id": "281a8c2e-c486-4fad-a05f-f9672a76035c",
+    "label": "positive",
+    "risk_level": "MEDIUM",
+    "binary_prediction": "positive"
+  },
+  {
+    "event_id": "8a299644-7a1e-43f7-b952-53225cc8cc40",
+    "label": "positive",
+    "risk_level": "CRITICAL",
+    "binary_prediction": "positive"
+  },
+  {
+    "event_id": "2204c09d-8e72-4344-92d3-5d43780b4e43",
+    "label": "positive",
+    "risk_level": "CRITICAL",
+    "binary_prediction": "positive"
+  },
+  {
+    "event_id": "0bb471f6-244b-4dc7-a1b3-e3c2bcad813e",
+    "label": "positive",
+    "risk_level": "MEDIUM",
+    "binary_prediction": "positive"
+  },
+  {
+    "event_id": "558b0983-7f8f-4551-b0a8-3c94405a43c4",
+    "label": "positive",
+    "risk_level": "CRITICAL",
+    "binary_prediction": "positive"
+  },
+  {
+    "event_id": "0f16615b-0ea2-4486-ac45-069f4a04b752",
+    "label": "positive",
+    "risk_level": "MEDIUM",
+    "binary_prediction": "positive"
+  },
+  {
+    "event_id": "710b7b84-74b0-4269-83fc-67202b7be883",
+    "label": "positive",
+    "risk_level": "MEDIUM",
+    "binary_prediction": "positive"
+  },
+  {
+    "event_id": "b35c88dc-c1d5-4d2c-b445-8102588279b8",
+    "label": "positive",
+    "risk_level": "CRITICAL",
+    "binary_prediction": "positive"
+  },
+  {
+    "event_id": "040225b3-ad7d-44ac-8c43-b33023d71beb",
+    "label": "positive",
+    "risk_level": "MEDIUM",
+    "binary_prediction": "positive"
+  },
+  {
+    "event_id": "5825b35b-0e6d-4ce1-8389-7f0caa6074f6",
+    "label": "positive",
+    "risk_level": "CRITICAL",
+    "binary_prediction": "positive"
+  },
+  {
+    "event_id": "13f6922a-56cc-4fe2-882a-502269b03c2f",
+    "label": "positive",
+    "risk_level": "HIGH",
+    "binary_prediction": "positive"
+  },
+  {
+    "event_id": "fcc4b9b6-0061-4b8c-86a8-25eaa7b34586",
+    "label": "positive",
+    "risk_level": "MEDIUM",
+    "binary_prediction": "positive"
+  },
+  {
+    "event_id": "8b4a053c-0825-4e71-8385-f892f7d50e42",
+    "label": "positive",
+    "risk_level": "CRITICAL",
+    "binary_prediction": "positive"
+  },
+  {
+    "event_id": "fa6715e1-2c96-45ac-8e8a-7d66c75630a1",
+    "label": "positive",
+    "risk_level": "MEDIUM",
+    "binary_prediction": "positive"
+  },
+  {
+    "event_id": "78dbe78a-2877-4b51-b3ef-0115e6b6da34",
+    "label": "positive",
+    "risk_level": "HIGH",
+    "binary_prediction": "positive"
+  },
+  {
+    "event_id": "09792e93-94ac-45f3-873c-e98dbaccb108",
+    "label": "positive",
+    "risk_level": "LOW",
+    "binary_prediction": "negative"
+  },
+  {
+    "event_id": "9381e913-a274-444d-942c-1e5de75d9f32",
+    "label": "positive",
+    "risk_level": "CRITICAL",
+    "binary_prediction": "positive"
+  },
+  {
+    "event_id": "ff0e479b-8f7b-4188-b0aa-acef9745f8e6",
+    "label": "positive",
+    "risk_level": "MEDIUM",
+    "binary_prediction": "positive"
+  },
+  {
+    "event_id": "f2a168ee-76fd-463d-8688-6497a62dd468",
+    "label": "positive",
+    "risk_level": "HIGH",
+    "binary_prediction": "positive"
+  },
+  {
+    "event_id": "630bd346-34e3-476a-bdf0-c782ac34a232",
+    "label": "positive",
+    "risk_level": "CRITICAL",
+    "binary_prediction": "positive"
+  },
+  {
+    "event_id": "98483960-3bc2-4118-8aff-38ca97b21d40",
+    "label": "positive",
+    "risk_level": "MEDIUM",
+    "binary_prediction": "positive"
+  },
+  {
+    "event_id": "e8615ba1-8942-4f41-bc9a-3aa2a817cb0f",
+    "label": "positive",
+    "risk_level": "HIGH",
+    "binary_prediction": "positive"
+  },
+  {
+    "event_id": "312ef954-eb56-4503-b30d-49d893f4be24",
+    "label": "positive",
+    "risk_level": "HIGH",
+    "binary_prediction": "positive"
+  },
+  {
+    "event_id": "fcc608ac-be55-4a0a-b164-349880c7ac80",
+    "label": "positive",
+    "risk_level": "CRITICAL",
+    "binary_prediction": "positive"
+  },
+  {
+    "event_id": "6b1cec4b-94f3-431d-b06a-f6863fb853a7",
+    "label": "positive",
+    "risk_level": "MEDIUM",
+    "binary_prediction": "positive"
+  },
+  {
+    "event_id": "070aaab4-444b-426a-b14c-d29f7f6c9a91",
+    "label": "positive",
+    "risk_level": "HIGH",
+    "binary_prediction": "positive"
+  },
+  {
+    "event_id": "83d5e4c7-c2c5-42f6-a701-1a38191458da",
+    "label": "positive",
+    "risk_level": "MEDIUM",
+    "binary_prediction": "positive"
+  },
+  {
+    "event_id": "9986ad41-d159-4149-af9f-db5cb4d3c1c3",
+    "label": "positive",
+    "risk_level": "HIGH",
+    "binary_prediction": "positive"
+  },
+  {
+    "event_id": "860d6540-3c10-4d70-aa00-5cd087b4d38d",
+    "label": "positive",
+    "risk_level": "CRITICAL",
+    "binary_prediction": "positive"
+  },
+  {
+    "event_id": "3e11effd-bda0-4db3-a104-c2434b65eddd",
+    "label": "positive",
+    "risk_level": "HIGH",
+    "binary_prediction": "positive"
+  },
+  {
+    "event_id": "c9a19862-b83d-4e46-9885-7aec58d61545",
+    "label": "positive",
+    "risk_level": "CRITICAL",
+    "binary_prediction": "positive"
+  },
+  {
+    "event_id": "9feb5596-9131-4a02-8b7f-84933d132170",
+    "label": "positive",
+    "risk_level": "HIGH",
+    "binary_prediction": "positive"
+  },
+  {
+    "event_id": "7f2ab74f-14e4-4e4d-bba5-339835a6f244",
+    "label": "positive",
+    "risk_level": "MEDIUM",
+    "binary_prediction": "positive"
+  },
+  {
+    "event_id": "fe1cabd8-6c67-4d16-9443-baec1a6642a9",
+    "label": "positive",
+    "risk_level": "CRITICAL",
+    "binary_prediction": "positive"
+  },
+  {
+    "event_id": "f9b24bb5-5ec6-46f4-a123-adf70e2c3f7c",
+    "label": "positive",
+    "risk_level": "CRITICAL",
+    "binary_prediction": "positive"
+  },
+  {
+    "event_id": "89a78905-cb92-49dc-b23b-8b84121edbb7",
+    "label": "positive",
+    "risk_level": "HIGH",
+    "binary_prediction": "positive"
+  },
+  {
+    "event_id": "fcb4ebeb-a5de-4208-ac9a-a5979de28dff",
+    "label": "positive",
+    "risk_level": "CRITICAL",
+    "binary_prediction": "positive"
+  },
+  {
+    "event_id": "12f486ad-47ed-4d2e-8d40-60d1c141fe84",
+    "label": "positive",
+    "risk_level": "HIGH",
+    "binary_prediction": "positive"
+  },
+  {
+    "event_id": "3cd801af-81fb-4df6-bd70-d8377bf8da4c",
+    "label": "positive",
+    "risk_level": "CRITICAL",
+    "binary_prediction": "positive"
+  },
+  {
+    "event_id": "12dfd58c-c3b4-4676-88d3-468537c53950",
+    "label": "positive",
+    "risk_level": "CRITICAL",
+    "binary_prediction": "positive"
+  },
+  {
+    "event_id": "109c6f77-ae8d-4f86-ae91-42b7732d5a9b",
+    "label": "positive",
+    "risk_level": "CRITICAL",
+    "binary_prediction": "positive"
+  },
+  {
+    "event_id": "57192ccb-7be3-411a-878b-9295429966c5",
+    "label": "positive",
+    "risk_level": "HIGH",
+    "binary_prediction": "positive"
+  },
+  {
+    "event_id": "90d3c1e5-18f7-4a50-af02-58c90102e1bc",
+    "label": "positive",
+    "risk_level": "HIGH",
+    "binary_prediction": "positive"
+  },
+  {
+    "event_id": "147651dc-4cb1-447c-9136-c972f2abfb27",
+    "label": "positive",
+    "risk_level": "HIGH",
+    "binary_prediction": "positive"
+  },
+  {
+    "event_id": "6787554a-8b73-47a9-a2c4-721f4c66cac3",
+    "label": "positive",
+    "risk_level": "CRITICAL",
+    "binary_prediction": "positive"
+  },
+  {
+    "event_id": "7dc8d74d-88d0-455f-839d-2546f119c40a",
+    "label": "positive",
+    "risk_level": "MEDIUM",
+    "binary_prediction": "positive"
+  },
+  {
+    "event_id": "d022f4f4-0b9c-4a1a-ae5e-97b48c2f2ade",
+    "label": "positive",
+    "risk_level": "HIGH",
+    "binary_prediction": "positive"
+  },
+  {
+    "event_id": "6ac0dc68-ab6e-409d-8508-6c61919ecd83",
+    "label": "positive",
+    "risk_level": "HIGH",
+    "binary_prediction": "positive"
+  },
+  {
+    "event_id": "6c054bdc-08a7-4bab-81ef-f0c718679ec9",
+    "label": "positive",
+    "risk_level": "MEDIUM",
+    "binary_prediction": "positive"
+  },
+  {
+    "event_id": "1920274d-8585-4cab-a179-cdbccd94f16d",
+    "label": "positive",
+    "risk_level": "MEDIUM",
+    "binary_prediction": "positive"
+  },
+  {
+    "event_id": "850b111d-6b9d-4fb0-9baf-51d0278bb1c6",
+    "label": "positive",
+    "risk_level": "MEDIUM",
+    "binary_prediction": "positive"
+  },
+  {
+    "event_id": "105cdf87-e853-4801-bc7c-0b6c6827c867",
+    "label": "positive",
+    "risk_level": "MEDIUM",
+    "binary_prediction": "positive"
+  },
+  {
+    "event_id": "b67a0d4d-e5c0-4791-8a9b-edc38a2f8d62",
+    "label": "positive",
+    "risk_level": "HIGH",
+    "binary_prediction": "positive"
+  },
+  {
+    "event_id": "95bc78e5-5c26-46be-9d23-26da03c018f5",
+    "label": "positive",
+    "risk_level": "NONE",
+    "binary_prediction": "negative"
+  },
+  {
+    "event_id": "bd46d8e5-09dd-4228-960b-a206ef53865d",
+    "label": "positive",
+    "risk_level": "MEDIUM",
+    "binary_prediction": "positive"
+  },
+  {
+    "event_id": "55ced97d-157b-4696-ac81-a752262f71f8",
+    "label": "positive",
+    "risk_level": "MEDIUM",
+    "binary_prediction": "positive"
+  },
+  {
+    "event_id": "41546881-83aa-46f9-979d-150d3031f12f",
+    "label": "positive",
+    "risk_level": "CRITICAL",
+    "binary_prediction": "positive"
+  },
+  {
+    "event_id": "86888bd3-f7f3-405f-acc3-ee6bef0ea4e4",
+    "label": "positive",
+    "risk_level": "CRITICAL",
+    "binary_prediction": "positive"
+  },
+  {
+    "event_id": "010153fa-ff91-4e56-ae8e-783e2df0f10f",
+    "label": "positive",
+    "risk_level": "NONE",
+    "binary_prediction": "negative"
+  },
+  {
+    "event_id": "61b88097-75b2-4523-91ff-bed319c48396",
+    "label": "positive",
+    "risk_level": "MEDIUM",
+    "binary_prediction": "positive"
+  },
+  {
+    "event_id": "cca3a189-1c77-4bc7-8cde-1e0bf8f23156",
+    "label": "positive",
+    "risk_level": "CRITICAL",
+    "binary_prediction": "positive"
+  },
+  {
+    "event_id": "43aa2d89-8137-40ad-86d2-2036db665067",
+    "label": "positive",
+    "risk_level": "NONE",
+    "binary_prediction": "negative"
+  },
+  {
+    "event_id": "ce5fd2e2-bbcc-49d1-9d18-a0d7ef543438",
+    "label": "positive",
+    "risk_level": "MEDIUM",
+    "binary_prediction": "positive"
+  },
+  {
+    "event_id": "675d691f-e88d-491b-ace0-7bc571961660",
+    "label": "positive",
+    "risk_level": "CRITICAL",
+    "binary_prediction": "positive"
+  },
+  {
+    "event_id": "88dc74ae-a5f5-4ac1-9d64-5036264a6876",
+    "label": "positive",
+    "risk_level": "CRITICAL",
+    "binary_prediction": "positive"
+  },
+  {
+    "event_id": "7cfc85b2-f6c9-4354-895b-5e934489687a",
+    "label": "positive",
+    "risk_level": "CRITICAL",
+    "binary_prediction": "positive"
+  },
+  {
+    "event_id": "7618d6c2-4ae5-4208-af81-8b98fa42da73",
+    "label": "positive",
+    "risk_level": "CRITICAL",
+    "binary_prediction": "positive"
+  },
+  {
+    "event_id": "55d6e8ea-e5f0-40f3-8e4b-33c9f9c3fab4",
+    "label": "positive",
+    "risk_level": "HIGH",
+    "binary_prediction": "positive"
+  },
+  {
+    "event_id": "d33f9333-3692-4ecd-aec3-890983b83b86",
+    "label": "positive",
+    "risk_level": "MEDIUM",
+    "binary_prediction": "positive"
+  },
+  {
+    "event_id": "e3267035-3c52-4b0b-87bf-e62188e599f4",
+    "label": "positive",
+    "risk_level": "HIGH",
+    "binary_prediction": "positive"
+  },
+  {
+    "event_id": "aa239dd2-1dee-4281-b4f1-707cbbf970f2",
+    "label": "positive",
+    "risk_level": "MEDIUM",
+    "binary_prediction": "positive"
+  },
+  {
+    "event_id": "e18a8976-fc53-4dfd-8560-88a33f83df4f",
+    "label": "positive",
+    "risk_level": "MEDIUM",
+    "binary_prediction": "positive"
+  },
+  {
+    "event_id": "8d3fd441-8b86-4eff-a0f7-e54dcb87e0dd",
+    "label": "positive",
+    "risk_level": "CRITICAL",
+    "binary_prediction": "positive"
+  },
+  {
+    "event_id": "1c63e6c0-d2c9-4c82-82d8-3b08ee1ccd8c",
+    "label": "positive",
+    "risk_level": "CRITICAL",
+    "binary_prediction": "positive"
+  },
+  {
+    "event_id": "64aa6768-66b0-4df8-be11-f457df134442",
+    "label": "positive",
+    "risk_level": "HIGH",
+    "binary_prediction": "positive"
+  },
+  {
+    "event_id": "d5939da4-e06a-4c13-860b-c30733d693af",
+    "label": "positive",
+    "risk_level": "CRITICAL",
+    "binary_prediction": "positive"
+  },
+  {
+    "event_id": "108af847-99a0-4b98-8581-e2214857f40a",
+    "label": "positive",
+    "risk_level": "CRITICAL",
+    "binary_prediction": "positive"
+  },
+  {
+    "event_id": "737e1497-8dfe-4ad8-abc9-febb1d5c49dc",
+    "label": "positive",
+    "risk_level": "MEDIUM",
+    "binary_prediction": "positive"
+  },
+  {
+    "event_id": "ce3c64cd-abfc-458d-98cb-0827e4d3f657",
+    "label": "positive",
+    "risk_level": "CRITICAL",
+    "binary_prediction": "positive"
+  },
+  {
+    "event_id": "e0ab27f4-663b-48d0-86d0-63d60b7349f2",
+    "label": "positive",
+    "risk_level": "CRITICAL",
+    "binary_prediction": "positive"
+  },
+  {
+    "event_id": "c0a39c38-c0ad-49b8-917a-25f23f7d6696",
+    "label": "positive",
+    "risk_level": "HIGH",
+    "binary_prediction": "positive"
+  },
+  {
+    "event_id": "cc11851d-33b7-47d1-843f-30273ad27296",
+    "label": "positive",
+    "risk_level": "HIGH",
+    "binary_prediction": "positive"
+  },
+  {
+    "event_id": "437235be-4ee2-4a6e-892c-d95d2a254fa5",
+    "label": "positive",
+    "risk_level": "MEDIUM",
+    "binary_prediction": "positive"
+  },
+  {
+    "event_id": "551850b5-1874-4f1b-83ea-58da3f769278",
+    "label": "positive",
+    "risk_level": "CRITICAL",
+    "binary_prediction": "positive"
+  },
+  {
+    "event_id": "8bc0439b-5dc7-4193-ad42-7f2104994412",
+    "label": "positive",
+    "risk_level": "CRITICAL",
+    "binary_prediction": "positive"
+  },
+  {
+    "event_id": "e8816745-d505-442f-8841-f128038657b0",
+    "label": "positive",
+    "risk_level": "CRITICAL",
+    "binary_prediction": "positive"
+  },
+  {
+    "event_id": "ba2a928a-1563-45ef-adcc-03f72bdf7df3",
+    "label": "positive",
+    "risk_level": "CRITICAL",
+    "binary_prediction": "positive"
+  },
+  {
+    "event_id": "c775a555-02b0-4758-b602-ffb28f86489a",
+    "label": "positive",
+    "risk_level": "HIGH",
+    "binary_prediction": "positive"
+  },
+  {
+    "event_id": "efac2fbd-4da8-460f-a4c3-2754e25f1a0f",
+    "label": "positive",
+    "risk_level": "HIGH",
+    "binary_prediction": "positive"
+  },
+  {
+    "event_id": "c164e4c7-b459-4fca-a5e9-7c4d0e304f51",
+    "label": "positive",
+    "risk_level": "MEDIUM",
+    "binary_prediction": "positive"
+  },
+  {
+    "event_id": "d1c6b550-cb5d-425c-88e7-5a5872a7ffce",
+    "label": "positive",
+    "risk_level": "HIGH",
+    "binary_prediction": "positive"
+  },
+  {
+    "event_id": "8edb81b6-009a-4093-9d0e-2ff2aa71cf52",
+    "label": "positive",
+    "risk_level": "CRITICAL",
+    "binary_prediction": "positive"
+  },
+  {
+    "event_id": "c5cc8656-6e98-413c-8265-91171e9adb14",
+    "label": "positive",
+    "risk_level": "CRITICAL",
+    "binary_prediction": "positive"
+  },
+  {
+    "event_id": "16db08b3-14cc-431a-b8e9-18b3468ec05d",
+    "label": "positive",
+    "risk_level": "MEDIUM",
+    "binary_prediction": "positive"
+  },
+  {
+    "event_id": "9263fe25-1add-47b1-bee9-1e02ded0b237",
+    "label": "positive",
+    "risk_level": "CRITICAL",
+    "binary_prediction": "positive"
+  },
+  {
+    "event_id": "c6ededcf-766e-4cee-9d0d-1e51148aa14a",
+    "label": "positive",
+    "risk_level": "MEDIUM",
+    "binary_prediction": "positive"
+  },
+  {
+    "event_id": "4bf81aed-c29c-4069-9fad-4b728c175eee",
+    "label": "positive",
+    "risk_level": "HIGH",
+    "binary_prediction": "positive"
+  },
+  {
+    "event_id": "f3b2deb7-5a85-4d08-83e7-6552df855a73",
+    "label": "positive",
+    "risk_level": "MEDIUM",
+    "binary_prediction": "positive"
+  },
+  {
+    "event_id": "e68ea053-bed9-4276-99fe-126e2dc92a8f",
+    "label": "positive",
+    "risk_level": "HIGH",
+    "binary_prediction": "positive"
+  },
+  {
+    "event_id": "d91262aa-eca1-4a04-9eed-7a60c604d371",
+    "label": "positive",
+    "risk_level": "MEDIUM",
+    "binary_prediction": "positive"
+  },
+  {
+    "event_id": "22a9c45d-6918-4ac3-8f50-78c33aedec10",
+    "label": "positive",
+    "risk_level": "HIGH",
+    "binary_prediction": "positive"
+  },
+  {
+    "event_id": "93649055-7e90-4a5d-bf8f-ee15eab39f25",
+    "label": "positive",
+    "risk_level": "LOW",
+    "binary_prediction": "negative"
+  },
+  {
+    "event_id": "45f948df-038b-4e43-bda5-8f879561894a",
+    "label": "positive",
+    "risk_level": "HIGH",
+    "binary_prediction": "positive"
+  },
+  {
+    "event_id": "eaf65eb1-2de7-45e8-884c-0dabcf54ed4a",
+    "label": "positive",
+    "risk_level": "HIGH",
+    "binary_prediction": "positive"
+  },
+  {
+    "event_id": "ec8ace14-9671-44a5-97fd-d97cd78d0c7b",
+    "label": "positive",
+    "risk_level": "CRITICAL",
+    "binary_prediction": "positive"
+  },
+  {
+    "event_id": "5da57e8e-a984-4666-a9ec-a1dc939101f0",
+    "label": "positive",
+    "risk_level": "CRITICAL",
+    "binary_prediction": "positive"
+  },
+  {
+    "event_id": "9f63f4b2-2de4-47b5-ab29-4fbc574dced5",
+    "label": "positive",
+    "risk_level": "MEDIUM",
+    "binary_prediction": "positive"
+  },
+  {
+    "event_id": "567a50f0-7b3a-4164-b6cb-c5717ca02326",
+    "label": "positive",
+    "risk_level": "MEDIUM",
+    "binary_prediction": "positive"
+  },
+  {
+    "event_id": "2e3adf9f-cea9-4ef9-acd6-2f9019e2671e",
+    "label": "positive",
+    "risk_level": "MEDIUM",
+    "binary_prediction": "positive"
+  },
+  {
+    "event_id": "8d94dcb1-2abf-448a-9c6e-b37313021372",
+    "label": "positive",
+    "risk_level": "CRITICAL",
+    "binary_prediction": "positive"
+  },
+  {
+    "event_id": "82c33781-130a-4e96-a2a7-d464e30449b0",
+    "label": "positive",
+    "risk_level": "MEDIUM",
+    "binary_prediction": "positive"
+  },
+  {
+    "event_id": "ee5f203a-05df-4866-b3e0-b6850fc02d97",
+    "label": "positive",
+    "risk_level": "CRITICAL",
+    "binary_prediction": "positive"
+  },
+  {
+    "event_id": "d164b2f2-f326-4ccd-a5e8-cbdf03a98b11",
+    "label": "positive",
+    "risk_level": "MEDIUM",
+    "binary_prediction": "positive"
+  },
+  {
+    "event_id": "43a9020a-1f30-4110-8516-457f4c526d2c",
+    "label": "positive",
+    "risk_level": "CRITICAL",
+    "binary_prediction": "positive"
+  },
+  {
+    "event_id": "0fa25031-8047-4854-8411-7e421aa45c1b",
+    "label": "positive",
+    "risk_level": "HIGH",
+    "binary_prediction": "positive"
+  },
+  {
+    "event_id": "67f7cd59-7322-4613-ab7f-a4cd1623702c",
+    "label": "positive",
+    "risk_level": "CRITICAL",
+    "binary_prediction": "positive"
+  },
+  {
+    "event_id": "c9f90c67-82d9-4c44-9446-f77a63c7fdb0",
+    "label": "positive",
+    "risk_level": "LOW",
+    "binary_prediction": "negative"
+  },
+  {
+    "event_id": "274e4f85-8012-4bb5-8aaa-c1c9dc16c906",
+    "label": "positive",
+    "risk_level": "HIGH",
+    "binary_prediction": "positive"
+  },
+  {
+    "event_id": "66e6dddf-3065-41f0-997a-5c6555462892",
+    "label": "positive",
+    "risk_level": "MEDIUM",
+    "binary_prediction": "positive"
+  },
+  {
+    "event_id": "90a09ee1-7bb1-40e3-bdb3-c93e0ae29a5c",
+    "label": "positive",
+    "risk_level": "NONE",
+    "binary_prediction": "negative"
+  },
+  {
+    "event_id": "57fd650f-1709-4599-b5c2-9418c49c61b4",
+    "label": "positive",
+    "risk_level": "HIGH",
+    "binary_prediction": "positive"
+  },
+  {
+    "event_id": "edc6be09-ae2d-46ef-a4a2-2c80bb73aaed",
+    "label": "positive",
+    "risk_level": "HIGH",
+    "binary_prediction": "positive"
+  },
+  {
+    "event_id": "438ae15b-4270-4382-b0d1-5988c834b559",
+    "label": "positive",
+    "risk_level": "MEDIUM",
+    "binary_prediction": "positive"
+  },
+  {
+    "event_id": "6fcf1e40-a1d5-4218-a3da-528459a0eed0",
+    "label": "positive",
+    "risk_level": "CRITICAL",
+    "binary_prediction": "positive"
+  },
+  {
+    "event_id": "9c3ec1ff-4f4d-4cdd-b018-561da13555c6",
+    "label": "positive",
+    "risk_level": "CRITICAL",
+    "binary_prediction": "positive"
+  },
+  {
+    "event_id": "f9125f91-de2d-4a7d-9a19-a2b63a90e160",
+    "label": "positive",
+    "risk_level": "CRITICAL",
+    "binary_prediction": "positive"
+  },
+  {
+    "event_id": "3e8c0a79-380c-496a-90cf-d9f26dddd1d6",
+    "label": "positive",
+    "risk_level": "HIGH",
+    "binary_prediction": "positive"
+  },
+  {
+    "event_id": "087bdca0-5d11-4318-888c-42aad6bcff6a",
+    "label": "positive",
+    "risk_level": "CRITICAL",
+    "binary_prediction": "positive"
+  },
+  {
+    "event_id": "52f0af22-6a5c-417a-92f5-f093d61265bf",
+    "label": "positive",
+    "risk_level": "HIGH",
+    "binary_prediction": "positive"
+  },
+  {
+    "event_id": "f50470be-aaa9-49f3-b2a9-92b5afa9b99d",
+    "label": "positive",
+    "risk_level": "CRITICAL",
+    "binary_prediction": "positive"
+  },
+  {
+    "event_id": "f260a1cf-954a-41be-b96a-2544efd60528",
+    "label": "positive",
+    "risk_level": "HIGH",
+    "binary_prediction": "positive"
+  },
+  {
+    "event_id": "55ea854e-18ea-4ab9-b54b-ff564eb0e710",
+    "label": "positive",
+    "risk_level": "CRITICAL",
+    "binary_prediction": "positive"
+  },
+  {
+    "event_id": "096fe306-b7b9-48cd-be5a-c7ad38fbe95f",
+    "label": "positive",
+    "risk_level": "MEDIUM",
+    "binary_prediction": "positive"
+  },
+  {
+    "event_id": "7ec02aa2-295c-439d-b811-6359ab20a1f6",
+    "label": "positive",
+    "risk_level": "HIGH",
+    "binary_prediction": "positive"
+  },
+  {
+    "event_id": "f7f96a2c-2418-4010-bfb6-5eb68a633ada",
+    "label": "positive",
+    "risk_level": "HIGH",
+    "binary_prediction": "positive"
+  },
+  {
+    "event_id": "fff63758-470c-4d4a-bad7-d154dc8495e5",
+    "label": "positive",
+    "risk_level": "MEDIUM",
+    "binary_prediction": "positive"
+  },
+  {
+    "event_id": "d2f7d9bc-88e5-4410-a7e3-736f41e733f2",
+    "label": "positive",
+    "risk_level": "MEDIUM",
+    "binary_prediction": "positive"
+  },
+  {
+    "event_id": "de9e2547-51ff-4d65-b482-5ca5e4c515f2",
+    "label": "positive",
+    "risk_level": "MEDIUM",
+    "binary_prediction": "positive"
+  },
+  {
+    "event_id": "81c5d561-aa5f-4323-8f5c-d906ce1b7df5",
+    "label": "positive",
+    "risk_level": "CRITICAL",
+    "binary_prediction": "positive"
+  },
+  {
+    "event_id": "9e17fc9b-c7fc-47f3-a099-da0b88144d85",
+    "label": "positive",
+    "risk_level": "MEDIUM",
+    "binary_prediction": "positive"
+  },
+  {
+    "event_id": "efc264a0-3503-4dc1-979a-20f35fc1bc88",
+    "label": "positive",
+    "risk_level": "MEDIUM",
+    "binary_prediction": "positive"
+  },
+  {
+    "event_id": "e18c772a-44a7-4be2-99f1-b3466f104bab",
+    "label": "positive",
+    "risk_level": "MEDIUM",
+    "binary_prediction": "positive"
+  },
+  {
+    "event_id": "0246be1d-067a-43b9-8209-385f03ef88f0",
+    "label": "positive",
+    "risk_level": "MEDIUM",
+    "binary_prediction": "positive"
+  },
+  {
+    "event_id": "a4290219-a449-488d-b34e-a01f6107c4d0",
+    "label": "positive",
+    "risk_level": "HIGH",
+    "binary_prediction": "positive"
+  },
+  {
+    "event_id": "ac3bf925-3ffa-47d4-9034-6dd7d27f662d",
+    "label": "positive",
+    "risk_level": "MEDIUM",
+    "binary_prediction": "positive"
+  },
+  {
+    "event_id": "23deb7b0-8541-4f46-ae3e-cc7ff0ac916e",
+    "label": "positive",
+    "risk_level": "HIGH",
+    "binary_prediction": "positive"
+  },
+  {
+    "event_id": "4ee2ddce-3f22-4023-8afe-c8f8b237f97f",
+    "label": "positive",
+    "risk_level": "LOW",
+    "binary_prediction": "negative"
+  },
+  {
+    "event_id": "9af27fb9-7f47-42da-b24e-de245b808d9d",
+    "label": "positive",
+    "risk_level": "CRITICAL",
+    "binary_prediction": "positive"
+  },
+  {
+    "event_id": "a803dbb4-7fea-4a14-91c4-a4bf98f2fa2e",
+    "label": "positive",
+    "risk_level": "HIGH",
+    "binary_prediction": "positive"
+  },
+  {
+    "event_id": "00bb88bb-b25e-4fe6-8671-92c640c3de79",
+    "label": "positive",
+    "risk_level": "MEDIUM",
+    "binary_prediction": "positive"
+  },
+  {
+    "event_id": "f14d651a-468d-4c3b-aa54-7d50f006bc74",
+    "label": "positive",
+    "risk_level": "LOW",
+    "binary_prediction": "negative"
+  },
+  {
+    "event_id": "e976ee7a-b803-487b-906a-92088f1803a5",
+    "label": "positive",
+    "risk_level": "LOW",
+    "binary_prediction": "negative"
+  },
+  {
+    "event_id": "db349ad1-013d-4fe4-9deb-8d4289a0543b",
+    "label": "positive",
+    "risk_level": "NONE",
+    "binary_prediction": "negative"
+  },
+  {
+    "event_id": "b101c758-6270-4bf3-a7cd-e3526e0aaefd",
+    "label": "positive",
+    "risk_level": "HIGH",
+    "binary_prediction": "positive"
+  },
+  {
+    "event_id": "84374326-a027-404c-920d-9a406e5f7e8d",
+    "label": "positive",
+    "risk_level": "HIGH",
+    "binary_prediction": "positive"
+  },
+  {
+    "event_id": "6d76e437-fb06-400c-a3d1-07f9df65a94b",
+    "label": "positive",
+    "risk_level": "HIGH",
+    "binary_prediction": "positive"
+  },
+  {
+    "event_id": "de2f48db-4b86-46a0-9e1f-bb45832684c0",
+    "label": "positive",
+    "risk_level": "CRITICAL",
+    "binary_prediction": "positive"
+  },
+  {
+    "event_id": "5ecb9cf8-3e81-454e-a901-8ff8490e55e4",
+    "label": "positive",
+    "risk_level": "LOW",
+    "binary_prediction": "negative"
+  },
+  {
+    "event_id": "cba02ab1-8478-47eb-bc3c-99aa6843eb63",
+    "label": "positive",
+    "risk_level": "MEDIUM",
+    "binary_prediction": "positive"
+  },
+  {
+    "event_id": "1f3c54cf-b2ea-49f5-b3fb-5767dcf44c88",
+    "label": "positive",
+    "risk_level": "HIGH",
+    "binary_prediction": "positive"
+  },
+  {
+    "event_id": "45b9fd03-e66a-47d4-8e07-3b328ca6480c",
+    "label": "positive",
+    "risk_level": "MEDIUM",
+    "binary_prediction": "positive"
+  },
+  {
+    "event_id": "120a2234-0a18-416a-b314-2fa64a27e416",
+    "label": "positive",
+    "risk_level": "CRITICAL",
+    "binary_prediction": "positive"
+  },
+  {
+    "event_id": "197fafa8-605d-4717-8b84-57454d1e994c",
+    "label": "positive",
+    "risk_level": "CRITICAL",
+    "binary_prediction": "positive"
+  },
+  {
+    "event_id": "e5b596bc-7264-4217-9614-5ac500afbd56",
+    "label": "positive",
+    "risk_level": "HIGH",
+    "binary_prediction": "positive"
+  },
+  {
+    "event_id": "3dbe86cd-e189-4de4-a2ea-de7f802d61cc",
+    "label": "positive",
+    "risk_level": "HIGH",
+    "binary_prediction": "positive"
+  },
+  {
+    "event_id": "a62a0844-e9cd-45c4-aff0-fd8c914433ac",
+    "label": "positive",
+    "risk_level": "MEDIUM",
+    "binary_prediction": "positive"
+  },
+  {
+    "event_id": "6d8f59fa-c171-4fa1-a3b0-3b0fcc3a3019",
+    "label": "positive",
+    "risk_level": "LOW",
+    "binary_prediction": "negative"
+  },
+  {
+    "event_id": "df5a6607-e29b-4b8e-9d56-9f35d2affa29",
+    "label": "positive",
+    "risk_level": "MEDIUM",
+    "binary_prediction": "positive"
+  },
+  {
+    "event_id": "a5ce525f-fe2b-409b-aefa-e03e810622c3",
+    "label": "positive",
+    "risk_level": "MEDIUM",
+    "binary_prediction": "positive"
+  },
+  {
+    "event_id": "62392e9d-7c79-44be-afbe-d3eebb53b04d",
+    "label": "positive",
+    "risk_level": "HIGH",
+    "binary_prediction": "positive"
+  },
+  {
+    "event_id": "b45fa7af-6839-4cd2-b106-21491eb70827",
+    "label": "positive",
+    "risk_level": "CRITICAL",
+    "binary_prediction": "positive"
+  },
+  {
+    "event_id": "065d9b04-18f7-4cdc-9f99-d0add4930ee7",
+    "label": "positive",
+    "risk_level": "CRITICAL",
+    "binary_prediction": "positive"
+  },
+  {
+    "event_id": "ed06c18a-c475-419d-8352-97c7e97b7de7",
+    "label": "positive",
+    "risk_level": "NONE",
+    "binary_prediction": "negative"
+  },
+  {
+    "event_id": "f411cec9-ce2b-4e6d-a373-44086fcb9045",
+    "label": "positive",
+    "risk_level": "MEDIUM",
+    "binary_prediction": "positive"
+  },
+  {
+    "event_id": "442cb999-523b-4197-9b8b-80b0d82422ba",
+    "label": "positive",
+    "risk_level": "CRITICAL",
+    "binary_prediction": "positive"
+  },
+  {
+    "event_id": "d04da220-4012-4a5f-9745-2614a415bdc0",
+    "label": "positive",
+    "risk_level": "CRITICAL",
+    "binary_prediction": "positive"
+  },
+  {
+    "event_id": "e9f2c523-6342-4c9b-8267-133757eebd67",
+    "label": "positive",
+    "risk_level": "MEDIUM",
+    "binary_prediction": "positive"
+  },
+  {
+    "event_id": "0844dbdb-21e2-4782-9751-b11d787288a0",
+    "label": "positive",
+    "risk_level": "MEDIUM",
+    "binary_prediction": "positive"
+  },
+  {
+    "event_id": "787ecf7e-0e34-46ee-b7d4-54728ddf35e9",
+    "label": "positive",
+    "risk_level": "HIGH",
+    "binary_prediction": "positive"
+  },
+  {
+    "event_id": "47e6cc59-8161-42d2-910b-9d69c784a121",
+    "label": "negative",
+    "risk_level": "NONE",
+    "binary_prediction": "negative"
+  },
+  {
+    "event_id": "f18c6945-1408-4ea1-bf31-71fcb901ef5e",
+    "label": "negative",
+    "risk_level": "NONE",
+    "binary_prediction": "negative"
+  },
+  {
+    "event_id": "290aef23-149d-4feb-b7c2-65d7f57d211f",
+    "label": "negative",
+    "risk_level": "NONE",
+    "binary_prediction": "negative"
+  },
+  {
+    "event_id": "54c54372-a8da-41ab-8b40-96da01b8cc35",
+    "label": "negative",
+    "risk_level": "NONE",
+    "binary_prediction": "negative"
+  },
+  {
+    "event_id": "90c844b9-83b9-4a04-a341-5db73d2f239f",
+    "label": "negative",
+    "risk_level": "NONE",
+    "binary_prediction": "negative"
+  },
+  {
+    "event_id": "125c2587-7bab-49e5-aded-0ec20c6cf2a8",
+    "label": "negative",
+    "risk_level": "NONE",
+    "binary_prediction": "negative"
+  },
+  {
+    "event_id": "428a5072-8b2c-4b89-ab0c-ca756ac43a9d",
+    "label": "negative",
+    "risk_level": "MEDIUM",
+    "binary_prediction": "positive"
+  },
+  {
+    "event_id": "16271bfd-ab19-44bf-9589-bf0e1059dfee",
+    "label": "negative",
+    "risk_level": "NONE",
+    "binary_prediction": "negative"
+  },
+  {
+    "event_id": "33a31b7c-68be-4653-84a4-2cf2d23b49ab",
+    "label": "negative",
+    "risk_level": "LOW",
+    "binary_prediction": "negative"
+  },
+  {
+    "event_id": "439ed107-8efa-4802-a308-a31f36a112df",
+    "label": "negative",
+    "risk_level": "CRITICAL",
+    "binary_prediction": "positive"
+  },
+  {
+    "event_id": "f905a960-4484-4ba2-99f3-ac190380b0ec",
+    "label": "negative",
+    "risk_level": "NONE",
+    "binary_prediction": "negative"
+  },
+  {
+    "event_id": "d4d5e0bf-c90f-4128-8b46-ea9f49d22ff7",
+    "label": "negative",
+    "risk_level": "NONE",
+    "binary_prediction": "negative"
+  },
+  {
+    "event_id": "56bbdefc-b8d0-4f62-ae31-8d01802259a6",
+    "label": "negative",
+    "risk_level": "LOW",
+    "binary_prediction": "negative"
+  },
+  {
+    "event_id": "a174457b-d7d6-4fc0-8f9f-8b895646f571",
+    "label": "negative",
+    "risk_level": "NONE",
+    "binary_prediction": "negative"
+  },
+  {
+    "event_id": "79a5f4b8-1f72-4a7c-a6b2-20e8c1d62318",
+    "label": "negative",
+    "risk_level": "NONE",
+    "binary_prediction": "negative"
+  },
+  {
+    "event_id": "a5819ad7-aa51-470d-bd7b-8ff8d306eab2",
+    "label": "negative",
+    "risk_level": "NONE",
+    "binary_prediction": "negative"
+  },
+  {
+    "event_id": "91082a72-8701-4ad8-b3e4-a34ba64033ff",
+    "label": "negative",
+    "risk_level": "LOW",
+    "binary_prediction": "negative"
+  },
+  {
+    "event_id": "f6028197-7863-4d97-809d-526916283510",
+    "label": "negative",
+    "risk_level": "LOW",
+    "binary_prediction": "negative"
+  },
+  {
+    "event_id": "2fbad97b-450d-4e71-bbf6-ef9f5b4ede4a",
+    "label": "negative",
+    "risk_level": "HIGH",
+    "binary_prediction": "positive"
+  },
+  {
+    "event_id": "78c8a1a7-ad48-416a-9517-47430f76a820",
+    "label": "negative",
+    "risk_level": "NONE",
+    "binary_prediction": "negative"
+  },
+  {
+    "event_id": "9e91279a-fe9e-4032-8fc9-c44d1f25c374",
+    "label": "negative",
+    "risk_level": "NONE",
+    "binary_prediction": "negative"
+  },
+  {
+    "event_id": "b050276b-e5e9-48c8-9bc0-c2d0aa06192f",
+    "label": "negative",
+    "risk_level": "NONE",
+    "binary_prediction": "negative"
+  },
+  {
+    "event_id": "ed98f5a1-fb4a-49c5-afc3-b12f0523e382",
+    "label": "negative",
+    "risk_level": "NONE",
+    "binary_prediction": "negative"
+  },
+  {
+    "event_id": "cc9ded8b-3cea-4a22-a244-59ddc9b79c2a",
+    "label": "negative",
+    "risk_level": "NONE",
+    "binary_prediction": "negative"
+  },
+  {
+    "event_id": "29604d59-a2f1-4952-9d44-8d8c1efe0167",
+    "label": "negative",
+    "risk_level": "NONE",
+    "binary_prediction": "negative"
+  },
+  {
+    "event_id": "fa97483d-a689-4953-a5a6-4bb78763710a",
+    "label": "negative",
+    "risk_level": "LOW",
+    "binary_prediction": "negative"
+  },
+  {
+    "event_id": "330b98c1-a198-4720-8b5d-1ca75f187a25",
+    "label": "negative",
+    "risk_level": "LOW",
+    "binary_prediction": "negative"
+  },
+  {
+    "event_id": "ae0382ff-68c7-4d03-a695-026ba2529f76",
+    "label": "negative",
+    "risk_level": "NONE",
+    "binary_prediction": "negative"
+  },
+  {
+    "event_id": "afac8999-a2cb-49e4-8664-c58e03bb8d31",
+    "label": "negative",
+    "risk_level": "NONE",
+    "binary_prediction": "negative"
+  },
+  {
+    "event_id": "e02cad73-98b2-4638-a1fa-4957944ec4d9",
+    "label": "negative",
+    "risk_level": "NONE",
+    "binary_prediction": "negative"
+  },
+  {
+    "event_id": "cb37b528-1873-4978-bf30-ff48e1258682",
+    "label": "negative",
+    "risk_level": "NONE",
+    "binary_prediction": "negative"
+  },
+  {
+    "event_id": "3e979664-38c0-44e0-a899-acb8b4b8fcc7",
+    "label": "negative",
+    "risk_level": "MEDIUM",
+    "binary_prediction": "positive"
+  },
+  {
+    "event_id": "989cc73a-4a6b-48de-96cc-690d100c3507",
+    "label": "negative",
+    "risk_level": "LOW",
+    "binary_prediction": "negative"
+  },
+  {
+    "event_id": "1656f6f3-f51c-481f-8806-9f4f83deaa54",
+    "label": "negative",
+    "risk_level": "LOW",
+    "binary_prediction": "negative"
+  },
+  {
+    "event_id": "dba9e87b-427f-4f02-8c7a-0ae41c46226a",
+    "label": "negative",
+    "risk_level": "NONE",
+    "binary_prediction": "negative"
+  },
+  {
+    "event_id": "179de66b-dcc2-4af7-8b01-0412646e4402",
+    "label": "negative",
+    "risk_level": "MEDIUM",
+    "binary_prediction": "positive"
+  },
+  {
+    "event_id": "23363395-602f-4949-96f0-740a8b718826",
+    "label": "negative",
+    "risk_level": "LOW",
+    "binary_prediction": "negative"
+  },
+  {
+    "event_id": "7186524e-8a6b-469e-8b7e-6b35872720dd",
+    "label": "negative",
+    "risk_level": "NONE",
+    "binary_prediction": "negative"
+  },
+  {
+    "event_id": "4a940a91-47c6-4b03-9cea-993840220f33",
+    "label": "negative",
+    "risk_level": "MEDIUM",
+    "binary_prediction": "positive"
+  },
+  {
+    "event_id": "12b8a66a-46e6-4927-8ab8-17b4e31ec448",
+    "label": "negative",
+    "risk_level": "LOW",
+    "binary_prediction": "negative"
+  },
+  {
+    "event_id": "be2c07ed-791a-4c7c-8f02-6f99e9826803",
+    "label": "negative",
+    "risk_level": "LOW",
+    "binary_prediction": "negative"
+  },
+  {
+    "event_id": "b86de820-794d-4876-8397-5337c1a7dcd4",
+    "label": "negative",
+    "risk_level": "LOW",
+    "binary_prediction": "negative"
+  },
+  {
+    "event_id": "d43c61b0-cc60-421e-a7a7-82a436bfed35",
+    "label": "negative",
+    "risk_level": "NONE",
+    "binary_prediction": "negative"
+  },
+  {
+    "event_id": "99b1f391-a7bd-4b58-8308-a07621961ccb",
+    "label": "negative",
+    "risk_level": "NONE",
+    "binary_prediction": "negative"
+  },
+  {
+    "event_id": "20cca77b-6111-4526-8703-55215f2d3032",
+    "label": "negative",
+    "risk_level": "NONE",
+    "binary_prediction": "negative"
+  },
+  {
+    "event_id": "b105c3d2-6344-4530-b4d5-c895e6e2a94d",
+    "label": "negative",
+    "risk_level": "NONE",
+    "binary_prediction": "negative"
+  },
+  {
+    "event_id": "d16fae59-fc23-450a-b333-459d31e568fa",
+    "label": "negative",
+    "risk_level": "NONE",
+    "binary_prediction": "negative"
+  },
+  {
+    "event_id": "b8aca783-5dcb-451b-842f-6c7e35dd8e43",
+    "label": "negative",
+    "risk_level": "NONE",
+    "binary_prediction": "negative"
+  },
+  {
+    "event_id": "bff25ead-e0cf-4da2-a3a6-0391db425f51",
+    "label": "negative",
+    "risk_level": "LOW",
+    "binary_prediction": "negative"
+  },
+  {
+    "event_id": "7e630e10-cf56-4dcf-a78d-885dd33f2da1",
+    "label": "negative",
+    "risk_level": "NONE",
+    "binary_prediction": "negative"
+  },
+  {
+    "event_id": "190d1861-3351-46c3-ae5b-4bf19fe0db4e",
+    "label": "negative",
+    "risk_level": "NONE",
+    "binary_prediction": "negative"
+  },
+  {
+    "event_id": "e5069460-7b6a-4480-8e2e-72a82f051d16",
+    "label": "negative",
+    "risk_level": "NONE",
+    "binary_prediction": "negative"
+  },
+  {
+    "event_id": "82bb73ef-0b08-4cac-927f-4ec0e18a6ce2",
+    "label": "negative",
+    "risk_level": "NONE",
+    "binary_prediction": "negative"
+  },
+  {
+    "event_id": "bd097e0d-e5d9-418b-88b0-35ae57f2de95",
+    "label": "negative",
+    "risk_level": "NONE",
+    "binary_prediction": "negative"
+  },
+  {
+    "event_id": "ca6e70c7-3834-4a77-b90c-2563deedb344",
+    "label": "negative",
+    "risk_level": "LOW",
+    "binary_prediction": "negative"
+  },
+  {
+    "event_id": "8a049d6e-a54c-471d-b026-4f3443d56de0",
+    "label": "negative",
+    "risk_level": "HIGH",
+    "binary_prediction": "positive"
+  },
+  {
+    "event_id": "28208f20-30a1-4a19-a606-fdadcf8fbe6f",
+    "label": "negative",
+    "risk_level": "NONE",
+    "binary_prediction": "negative"
+  },
+  {
+    "event_id": "f5804dd8-7e15-4d39-b726-8cbbbc2da1b9",
+    "label": "negative",
+    "risk_level": "NONE",
+    "binary_prediction": "negative"
+  },
+  {
+    "event_id": "a8287a29-db90-4482-89cf-1e962d68aea3",
+    "label": "negative",
+    "risk_level": "NONE",
+    "binary_prediction": "negative"
+  },
+  {
+    "event_id": "546b4fcd-0640-47f2-bc96-55695c060b1f",
+    "label": "negative",
+    "risk_level": "MEDIUM",
+    "binary_prediction": "positive"
+  },
+  {
+    "event_id": "d13e812e-52e4-4321-a057-a0b0a0faa999",
+    "label": "negative",
+    "risk_level": "NONE",
+    "binary_prediction": "negative"
+  },
+  {
+    "event_id": "a717460c-aefe-4280-bc7d-65eee69fbe25",
+    "label": "negative",
+    "risk_level": "NONE",
+    "binary_prediction": "negative"
+  },
+  {
+    "event_id": "dc6390d3-e1dd-4696-b259-e278def7c9a0",
+    "label": "negative",
+    "risk_level": "NONE",
+    "binary_prediction": "negative"
+  },
+  {
+    "event_id": "ba2ade28-b0f9-4df7-b02c-c0054ee8b3cd",
+    "label": "negative",
+    "risk_level": "NONE",
+    "binary_prediction": "negative"
+  },
+  {
+    "event_id": "e088e453-8622-48dd-92af-d989fe2a578b",
+    "label": "negative",
+    "risk_level": "NONE",
+    "binary_prediction": "negative"
+  },
+  {
+    "event_id": "3fd2b1a7-e410-4c7c-8b0e-abe6b06885f5",
+    "label": "negative",
+    "risk_level": "NONE",
+    "binary_prediction": "negative"
+  },
+  {
+    "event_id": "07a813a1-f2a3-4e69-a713-bb94595fce31",
+    "label": "negative",
+    "risk_level": "NONE",
+    "binary_prediction": "negative"
+  },
+  {
+    "event_id": "6a8526d0-6359-415b-b50d-632223029296",
+    "label": "negative",
+    "risk_level": "NONE",
+    "binary_prediction": "negative"
+  },
+  {
+    "event_id": "0070ff95-ef6f-424d-a684-da89a2d79ebb",
+    "label": "negative",
+    "risk_level": "NONE",
+    "binary_prediction": "negative"
+  },
+  {
+    "event_id": "f070121f-964b-4e1a-b8e4-61df0ab1e294",
+    "label": "negative",
+    "risk_level": "NONE",
+    "binary_prediction": "negative"
+  },
+  {
+    "event_id": "e7b61566-535a-4a3e-ad29-b768bcf6b2f9",
+    "label": "negative",
+    "risk_level": "NONE",
+    "binary_prediction": "negative"
+  },
+  {
+    "event_id": "9d0ce9f2-65e9-42e2-a672-8bde75e909ae",
+    "label": "negative",
+    "risk_level": "LOW",
+    "binary_prediction": "negative"
+  },
+  {
+    "event_id": "d60d0b50-345a-47ed-ba9f-2a5318d48962",
+    "label": "negative",
+    "risk_level": "NONE",
+    "binary_prediction": "negative"
+  },
+  {
+    "event_id": "5563258d-0166-45c4-9b49-861dcacf0aaa",
+    "label": "negative",
+    "risk_level": "NONE",
+    "binary_prediction": "negative"
+  },
+  {
+    "event_id": "8db539fe-c50c-4ab3-a495-c629861cea14",
+    "label": "negative",
+    "risk_level": "NONE",
+    "binary_prediction": "negative"
+  },
+  {
+    "event_id": "2683d320-9313-4484-a05e-428ce6f68fdd",
+    "label": "negative",
+    "risk_level": "MEDIUM",
+    "binary_prediction": "positive"
+  },
+  {
+    "event_id": "98540c5e-10fc-42a4-8ffc-bbd95378c3d8",
+    "label": "negative",
+    "risk_level": "NONE",
+    "binary_prediction": "negative"
+  },
+  {
+    "event_id": "bb97bb3f-d5ee-4eb5-bc11-63020804c0a2",
+    "label": "negative",
+    "risk_level": "NONE",
+    "binary_prediction": "negative"
+  },
+  {
+    "event_id": "b527fd5d-7fe3-45ee-80e0-bb634d0d0851",
+    "label": "negative",
+    "risk_level": "NONE",
+    "binary_prediction": "negative"
+  },
+  {
+    "event_id": "1bdf2470-9d97-497c-9b02-6e8d6d05e233",
+    "label": "negative",
+    "risk_level": "LOW",
+    "binary_prediction": "negative"
+  },
+  {
+    "event_id": "2bf604f0-62de-4a26-8c90-f782b3431e2b",
+    "label": "negative",
+    "risk_level": "LOW",
+    "binary_prediction": "negative"
+  },
+  {
+    "event_id": "7242ab1c-9942-4c1c-9467-117a3ede5622",
+    "label": "negative",
+    "risk_level": "NONE",
+    "binary_prediction": "negative"
+  },
+  {
+    "event_id": "8e0f9211-d8c2-42c3-a3b6-90469a369144",
+    "label": "negative",
+    "risk_level": "NONE",
+    "binary_prediction": "negative"
+  },
+  {
+    "event_id": "ddf38c96-40a2-4513-bab5-51f481decf6f",
+    "label": "negative",
+    "risk_level": "NONE",
+    "binary_prediction": "negative"
+  },
+  {
+    "event_id": "6754ee11-b1bd-4c3c-970d-e8e60c1856d9",
+    "label": "negative",
+    "risk_level": "NONE",
+    "binary_prediction": "negative"
+  },
+  {
+    "event_id": "cd07562a-3350-42d9-9af3-4f1c2b937d3e",
+    "label": "negative",
+    "risk_level": "NONE",
+    "binary_prediction": "negative"
+  },
+  {
+    "event_id": "f715a3d8-51d6-43cf-a767-b6fd1e318139",
+    "label": "negative",
+    "risk_level": "NONE",
+    "binary_prediction": "negative"
+  },
+  {
+    "event_id": "a5ff3813-28d3-4ed4-bab5-c2da8ba88fc9",
+    "label": "negative",
+    "risk_level": "NONE",
+    "binary_prediction": "negative"
+  },
+  {
+    "event_id": "ea8fab1e-ffab-42de-a97b-a58e6309b776",
+    "label": "negative",
+    "risk_level": "NONE",
+    "binary_prediction": "negative"
+  },
+  {
+    "event_id": "78ccc400-5aca-47ce-a53a-b92f9df04e53",
+    "label": "negative",
+    "risk_level": "NONE",
+    "binary_prediction": "negative"
+  },
+  {
+    "event_id": "73627fbe-4645-4f20-a8e2-937e4a4e73d1",
+    "label": "negative",
+    "risk_level": "NONE",
+    "binary_prediction": "negative"
+  },
+  {
+    "event_id": "d858ee36-adef-49d6-a4ed-d51205c8c4a6",
+    "label": "negative",
+    "risk_level": "NONE",
+    "binary_prediction": "negative"
+  },
+  {
+    "event_id": "4ac43990-d066-495f-b491-bea9d746f5c0",
+    "label": "negative",
+    "risk_level": "HIGH",
+    "binary_prediction": "positive"
+  },
+  {
+    "event_id": "9f3f290d-de52-4de7-bb23-9f542102ba60",
+    "label": "negative",
+    "risk_level": "MEDIUM",
+    "binary_prediction": "positive"
+  },
+  {
+    "event_id": "26aeb545-6020-4868-884c-c62a68b9ae19",
+    "label": "negative",
+    "risk_level": "MEDIUM",
+    "binary_prediction": "positive"
+  },
+  {
+    "event_id": "378ab844-65aa-4f18-832c-ef65270de1d8",
+    "label": "negative",
+    "risk_level": "NONE",
+    "binary_prediction": "negative"
+  },
+  {
+    "event_id": "9c8c8a3b-376e-4ec0-85df-fbe01387585a",
+    "label": "negative",
+    "risk_level": "LOW",
+    "binary_prediction": "negative"
+  },
+  {
+    "event_id": "46ca36a5-c402-4282-b5ec-d50f3164588c",
+    "label": "negative",
+    "risk_level": "NONE",
+    "binary_prediction": "negative"
+  },
+  {
+    "event_id": "777ed9b5-312c-485f-b7d9-ff58fef99bf7",
+    "label": "negative",
+    "risk_level": "HIGH",
+    "binary_prediction": "positive"
+  },
+  {
+    "event_id": "10fcfb6f-c27f-4918-941b-34bfede8a497",
+    "label": "negative",
+    "risk_level": "NONE",
+    "binary_prediction": "negative"
+  },
+  {
+    "event_id": "2394e341-26e5-408e-98ae-c9f950365f9c",
+    "label": "negative",
+    "risk_level": "MEDIUM",
+    "binary_prediction": "positive"
+  },
+  {
+    "event_id": "13a4aa4f-cfb1-4512-acb3-ba46edd96871",
+    "label": "negative",
+    "risk_level": "NONE",
+    "binary_prediction": "negative"
+  },
+  {
+    "event_id": "74b1637d-fa9f-46c1-9b38-770cbf8ea01a",
+    "label": "negative",
+    "risk_level": "NONE",
+    "binary_prediction": "negative"
+  },
+  {
+    "event_id": "0d4bad97-24d8-4b24-b034-5b5299a86188",
+    "label": "negative",
+    "risk_level": "NONE",
+    "binary_prediction": "negative"
+  },
+  {
+    "event_id": "bb519eac-55af-4790-85ec-6148636caa31",
+    "label": "negative",
+    "risk_level": "NONE",
+    "binary_prediction": "negative"
+  },
+  {
+    "event_id": "f5435a3a-be8e-4536-aff0-f42409c8e7b3",
+    "label": "negative",
+    "risk_level": "NONE",
+    "binary_prediction": "negative"
+  },
+  {
+    "event_id": "5f6824a5-792e-405a-a0a5-cc984083966e",
+    "label": "negative",
+    "risk_level": "NONE",
+    "binary_prediction": "negative"
+  },
+  {
+    "event_id": "4ced8348-0da9-40a3-a7f0-93b4099733d6",
+    "label": "negative",
+    "risk_level": "NONE",
+    "binary_prediction": "negative"
+  },
+  {
+    "event_id": "bd7931fd-6341-481b-b051-f252a6b84b1b",
+    "label": "negative",
+    "risk_level": "NONE",
+    "binary_prediction": "negative"
+  },
+  {
+    "event_id": "16d82585-2479-49ea-b10f-3a1ba3609b37",
+    "label": "negative",
+    "risk_level": "NONE",
+    "binary_prediction": "negative"
+  },
+  {
+    "event_id": "6ce83172-44ae-43fb-a6cd-c339ad90d419",
+    "label": "negative",
+    "risk_level": "NONE",
+    "binary_prediction": "negative"
+  },
+  {
+    "event_id": "1ff3aa35-fbae-44a8-b40c-3dfc9e9c4da3",
+    "label": "negative",
+    "risk_level": "NONE",
+    "binary_prediction": "negative"
+  },
+  {
+    "event_id": "e320e321-c82d-4829-b4c5-5661946c1624",
+    "label": "negative",
+    "risk_level": "NONE",
+    "binary_prediction": "negative"
+  },
+  {
+    "event_id": "cc1af48b-e797-40cf-ae82-61dbb20b1498",
+    "label": "negative",
+    "risk_level": "NONE",
+    "binary_prediction": "negative"
+  },
+  {
+    "event_id": "75db5334-15ea-440b-acf8-db1df9ad57dd",
+    "label": "negative",
+    "risk_level": "MEDIUM",
+    "binary_prediction": "positive"
+  },
+  {
+    "event_id": "70554c5b-5b6b-4f7f-a754-d89e5110d472",
+    "label": "negative",
+    "risk_level": "LOW",
+    "binary_prediction": "negative"
+  },
+  {
+    "event_id": "32cc78c0-6258-45e2-a153-db9e4bde929c",
+    "label": "negative",
+    "risk_level": "MEDIUM",
+    "binary_prediction": "positive"
+  },
+  {
+    "event_id": "3b86fad4-ce0b-480f-bb45-d47d6d4b65da",
+    "label": "negative",
+    "risk_level": "NONE",
+    "binary_prediction": "negative"
+  },
+  {
+    "event_id": "724ea27f-bc17-4c4b-8a18-8aa0f2891e25",
+    "label": "negative",
+    "risk_level": "NONE",
+    "binary_prediction": "negative"
+  },
+  {
+    "event_id": "33f32367-f655-4a26-aade-31bd964efe2e",
+    "label": "negative",
+    "risk_level": "MEDIUM",
+    "binary_prediction": "positive"
+  },
+  {
+    "event_id": "c3a498bd-1646-4f5f-8253-05a79120b0c0",
+    "label": "negative",
+    "risk_level": "NONE",
+    "binary_prediction": "negative"
+  },
+  {
+    "event_id": "3ed13885-7627-4c18-b5fa-b3fa3dc8a35d",
+    "label": "negative",
+    "risk_level": "NONE",
+    "binary_prediction": "negative"
+  },
+  {
+    "event_id": "0a2000dc-1441-4ab9-906a-9f5b88466e50",
+    "label": "negative",
+    "risk_level": "NONE",
+    "binary_prediction": "negative"
+  },
+  {
+    "event_id": "73d7a737-f433-4f1c-82fe-27ba450d94fc",
+    "label": "negative",
+    "risk_level": "NONE",
+    "binary_prediction": "negative"
+  },
+  {
+    "event_id": "c9b3a009-6750-4d5e-aadd-43720b42f7ba",
+    "label": "negative",
+    "risk_level": "NONE",
+    "binary_prediction": "negative"
+  },
+  {
+    "event_id": "c45b9785-744c-429e-b665-fc64fcf3af6b",
+    "label": "negative",
+    "risk_level": "NONE",
+    "binary_prediction": "negative"
+  },
+  {
+    "event_id": "08cb8b6e-a367-4bc4-9e43-7071d29d7843",
+    "label": "negative",
+    "risk_level": "MEDIUM",
+    "binary_prediction": "positive"
+  },
+  {
+    "event_id": "486c795e-f3f9-46ce-9586-109cf76646d0",
+    "label": "negative",
+    "risk_level": "NONE",
+    "binary_prediction": "negative"
+  },
+  {
+    "event_id": "5d657dc8-f8c6-4711-8fe1-681edec67356",
+    "label": "negative",
+    "risk_level": "NONE",
+    "binary_prediction": "negative"
+  },
+  {
+    "event_id": "c678cffc-387a-42ec-9bbc-a10ced3ce670",
+    "label": "negative",
+    "risk_level": "MEDIUM",
+    "binary_prediction": "positive"
+  },
+  {
+    "event_id": "25b347b8-011e-4134-b6d5-c46259d0b48a",
+    "label": "negative",
+    "risk_level": "NONE",
+    "binary_prediction": "negative"
+  },
+  {
+    "event_id": "79dda335-486a-4dad-a7f9-920f1db0b3dd",
+    "label": "negative",
+    "risk_level": "NONE",
+    "binary_prediction": "negative"
+  },
+  {
+    "event_id": "e35ab071-b86f-4b18-af0b-3465d7f944b9",
+    "label": "negative",
+    "risk_level": "HIGH",
+    "binary_prediction": "positive"
+  },
+  {
+    "event_id": "09c882c5-a068-4f32-9b51-e9ad3649f205",
+    "label": "negative",
+    "risk_level": "MEDIUM",
+    "binary_prediction": "positive"
+  },
+  {
+    "event_id": "5253f8c6-c4c0-45b8-9171-7b6ea1f743c6",
+    "label": "negative",
+    "risk_level": "NONE",
+    "binary_prediction": "negative"
+  },
+  {
+    "event_id": "8b383881-4a05-4cf3-a1b2-b580c3aa0085",
+    "label": "negative",
+    "risk_level": "MEDIUM",
+    "binary_prediction": "positive"
+  },
+  {
+    "event_id": "dce9f7f9-dada-42bb-9f04-181d0528343f",
+    "label": "negative",
+    "risk_level": "LOW",
+    "binary_prediction": "negative"
+  },
+  {
+    "event_id": "85b6304b-7305-44f1-a177-2a0f523b7d03",
+    "label": "negative",
+    "risk_level": "NONE",
+    "binary_prediction": "negative"
+  },
+  {
+    "event_id": "e40c55a2-6a69-4d33-af55-535c6e522fcd",
+    "label": "negative",
+    "risk_level": "LOW",
+    "binary_prediction": "negative"
+  },
+  {
+    "event_id": "97819d09-d799-4262-8a06-500d5e2b77d8",
+    "label": "negative",
+    "risk_level": "NONE",
+    "binary_prediction": "negative"
+  },
+  {
+    "event_id": "e45dbf3c-df9d-48c6-8a21-4e46cd20a6e4",
+    "label": "negative",
+    "risk_level": "LOW",
+    "binary_prediction": "negative"
+  },
+  {
+    "event_id": "418f7e5c-8a43-4207-9af7-5e88a62a8c7b",
+    "label": "negative",
+    "risk_level": "NONE",
+    "binary_prediction": "negative"
+  },
+  {
+    "event_id": "f32e7066-d8e4-45a0-920b-51de3e2ce2b0",
+    "label": "negative",
+    "risk_level": "LOW",
+    "binary_prediction": "negative"
+  },
+  {
+    "event_id": "858c5461-e66e-4d10-ad31-1e60b684e0e0",
+    "label": "negative",
+    "risk_level": "NONE",
+    "binary_prediction": "negative"
+  },
+  {
+    "event_id": "64c926c5-ba82-492d-997d-e3a374919f3c",
+    "label": "negative",
+    "risk_level": "NONE",
+    "binary_prediction": "negative"
+  },
+  {
+    "event_id": "a43d70e3-1480-440f-a236-4041c70118ed",
+    "label": "negative",
+    "risk_level": "NONE",
+    "binary_prediction": "negative"
+  },
+  {
+    "event_id": "2377e70a-cf2c-48ad-93a6-66cfac17e306",
+    "label": "negative",
+    "risk_level": "NONE",
+    "binary_prediction": "negative"
+  },
+  {
+    "event_id": "ca3e8764-fa13-47b0-b990-d52c6ad764ba",
+    "label": "negative",
+    "risk_level": "CRITICAL",
+    "binary_prediction": "positive"
+  },
+  {
+    "event_id": "db6a375f-2884-46a3-b3d6-7efc9ae11a34",
+    "label": "negative",
+    "risk_level": "LOW",
+    "binary_prediction": "negative"
+  },
+  {
+    "event_id": "5c16a671-ab33-4444-907c-87bb7cd7f4bf",
+    "label": "negative",
+    "risk_level": "NONE",
+    "binary_prediction": "negative"
+  },
+  {
+    "event_id": "527b45b2-fa51-46b3-b8a3-a22148b75a43",
+    "label": "negative",
+    "risk_level": "NONE",
+    "binary_prediction": "negative"
+  },
+  {
+    "event_id": "f3341607-d4db-4946-84ec-84872e8aafd9",
+    "label": "negative",
+    "risk_level": "NONE",
+    "binary_prediction": "negative"
+  },
+  {
+    "event_id": "d04ace25-8081-460d-99e1-323d32832fc3",
+    "label": "negative",
+    "risk_level": "NONE",
+    "binary_prediction": "negative"
+  },
+  {
+    "event_id": "ac4f365d-d10f-4cd1-be9a-49f7218f61ea",
+    "label": "negative",
+    "risk_level": "NONE",
+    "binary_prediction": "negative"
+  },
+  {
+    "event_id": "504f543d-40e2-462e-b18a-fda2b2b180a9",
+    "label": "negative",
+    "risk_level": "NONE",
+    "binary_prediction": "negative"
+  },
+  {
+    "event_id": "08f0a83c-ff90-4988-9cc9-ba9eb90698c8",
+    "label": "negative",
+    "risk_level": "NONE",
+    "binary_prediction": "negative"
+  },
+  {
+    "event_id": "0c390323-5664-49ff-8e12-c20941208f9f",
+    "label": "negative",
+    "risk_level": "NONE",
+    "binary_prediction": "negative"
+  },
+  {
+    "event_id": "5ded6323-2da6-4533-af0a-28ff119ac4bb",
+    "label": "negative",
+    "risk_level": "LOW",
+    "binary_prediction": "negative"
+  },
+  {
+    "event_id": "e78d1389-41ef-42a4-b6d5-5b6fa9f43ab1",
+    "label": "negative",
+    "risk_level": "NONE",
+    "binary_prediction": "negative"
+  },
+  {
+    "event_id": "334febbc-a9a8-43d3-8829-d5291d192081",
+    "label": "negative",
+    "risk_level": "NONE",
+    "binary_prediction": "negative"
+  },
+  {
+    "event_id": "aa02ab7a-3224-46b4-b2b8-4f8cc5cd6156",
+    "label": "negative",
+    "risk_level": "NONE",
+    "binary_prediction": "negative"
+  },
+  {
+    "event_id": "5bce5b9c-17f0-44aa-bd66-c50e8c495b0d",
+    "label": "negative",
+    "risk_level": "NONE",
+    "binary_prediction": "negative"
+  },
+  {
+    "event_id": "182ce844-478f-4540-9fe1-fbe84e5b0ad7",
+    "label": "negative",
+    "risk_level": "HIGH",
+    "binary_prediction": "positive"
+  },
+  {
+    "event_id": "75a613fb-62a7-4401-985f-e29af515005e",
+    "label": "negative",
+    "risk_level": "MEDIUM",
+    "binary_prediction": "positive"
+  },
+  {
+    "event_id": "fbea5985-d1ab-4a44-b950-0677dbe24096",
+    "label": "negative",
+    "risk_level": "MEDIUM",
+    "binary_prediction": "positive"
+  },
+  {
+    "event_id": "77605b0c-5a00-437f-ab5b-706dd92d30fa",
+    "label": "negative",
+    "risk_level": "NONE",
+    "binary_prediction": "negative"
+  },
+  {
+    "event_id": "f253c0ed-da8a-4477-b4cf-e5f1923a0838",
+    "label": "negative",
+    "risk_level": "NONE",
+    "binary_prediction": "negative"
+  },
+  {
+    "event_id": "56a342be-0ae5-4561-9180-59c3ac862d84",
+    "label": "negative",
+    "risk_level": "NONE",
+    "binary_prediction": "negative"
+  },
+  {
+    "event_id": "5a86c3c7-505f-45ff-800c-e77ce374c192",
+    "label": "negative",
+    "risk_level": "MEDIUM",
+    "binary_prediction": "positive"
+  },
+  {
+    "event_id": "77bc8abf-060d-4b31-9215-0ae0f30eaea5",
+    "label": "negative",
+    "risk_level": "HIGH",
+    "binary_prediction": "positive"
+  },
+  {
+    "event_id": "0af87f19-cee9-4509-8f3e-81873250c8d0",
+    "label": "negative",
+    "risk_level": "NONE",
+    "binary_prediction": "negative"
+  },
+  {
+    "event_id": "0431f7c4-c535-4401-a633-871d89e4738a",
+    "label": "negative",
+    "risk_level": "NONE",
+    "binary_prediction": "negative"
+  },
+  {
+    "event_id": "6818b86c-2879-4958-ba3d-7b5e3f27a722",
+    "label": "negative",
+    "risk_level": "MEDIUM",
+    "binary_prediction": "positive"
+  },
+  {
+    "event_id": "e6df8a3d-c7ea-4811-bd18-7e08cc34ce18",
+    "label": "negative",
+    "risk_level": "NONE",
+    "binary_prediction": "negative"
+  },
+  {
+    "event_id": "0acb9f96-b82b-43c2-a4a6-7eb24adad811",
+    "label": "negative",
+    "risk_level": "NONE",
+    "binary_prediction": "negative"
+  },
+  {
+    "event_id": "78368cec-9c06-4d27-845d-4100eab02993",
+    "label": "negative",
+    "risk_level": "NONE",
+    "binary_prediction": "negative"
+  },
+  {
+    "event_id": "051df916-582a-4673-8d4b-94fc3b29632e",
+    "label": "negative",
+    "risk_level": "NONE",
+    "binary_prediction": "negative"
+  },
+  {
+    "event_id": "8fa70575-b35a-4d7f-b110-dcc2f083cf76",
+    "label": "negative",
+    "risk_level": "NONE",
+    "binary_prediction": "negative"
+  },
+  {
+    "event_id": "1e4d54af-ac83-4dba-b047-2aeb0e4e9d3d",
+    "label": "negative",
+    "risk_level": "LOW",
+    "binary_prediction": "negative"
+  },
+  {
+    "event_id": "2d9a1b0c-23dd-4b4f-a04f-b6f8bff45249",
+    "label": "negative",
+    "risk_level": "NONE",
+    "binary_prediction": "negative"
+  },
+  {
+    "event_id": "fddf2930-aa78-485b-9701-6f479093624a",
+    "label": "negative",
+    "risk_level": "NONE",
+    "binary_prediction": "negative"
+  },
+  {
+    "event_id": "b34c1603-059f-4c7c-aab3-4cd367c60ff0",
+    "label": "negative",
+    "risk_level": "NONE",
+    "binary_prediction": "negative"
+  },
+  {
+    "event_id": "58368410-afcd-47ac-a7da-ce5141b6626c",
+    "label": "negative",
+    "risk_level": "NONE",
+    "binary_prediction": "negative"
+  },
+  {
+    "event_id": "36decc1a-4c62-4770-93e4-de6c95a9aef3",
+    "label": "negative",
+    "risk_level": "NONE",
+    "binary_prediction": "negative"
+  },
+  {
+    "event_id": "9360e94a-5b59-4d9d-bc35-051fef06a6a5",
+    "label": "negative",
+    "risk_level": "MEDIUM",
+    "binary_prediction": "positive"
+  },
+  {
+    "event_id": "99244726-4683-4138-9238-7b7465e3194f",
+    "label": "negative",
+    "risk_level": "LOW",
+    "binary_prediction": "negative"
+  },
+  {
+    "event_id": "0dbad5a3-df6e-4a5d-b635-a9f4edf499d4",
+    "label": "negative",
+    "risk_level": "NONE",
+    "binary_prediction": "negative"
+  },
+  {
+    "event_id": "6e32e1e6-11b1-4605-ac89-d0409ba76c94",
+    "label": "negative",
+    "risk_level": "NONE",
+    "binary_prediction": "negative"
+  },
+  {
+    "event_id": "6e800268-d6ea-4e65-85eb-ec28a047b62b",
+    "label": "negative",
+    "risk_level": "NONE",
+    "binary_prediction": "negative"
+  },
+  {
+    "event_id": "5092b62d-b03f-470a-bb8f-96b218ad3184",
+    "label": "negative",
+    "risk_level": "NONE",
+    "binary_prediction": "negative"
+  },
+  {
+    "event_id": "80552cd4-4467-4dd0-a4d3-e94a6a1e05cf",
+    "label": "negative",
+    "risk_level": "MEDIUM",
+    "binary_prediction": "positive"
+  },
+  {
+    "event_id": "7bd663e2-dc61-448c-b490-e137d5025588",
+    "label": "negative",
+    "risk_level": "NONE",
+    "binary_prediction": "negative"
+  },
+  {
+    "event_id": "2c89ee4c-bd2c-4572-8661-c9ec3c4679c1",
+    "label": "negative",
+    "risk_level": "NONE",
+    "binary_prediction": "negative"
+  },
+  {
+    "event_id": "2c5e2eea-44ee-4dea-86ba-7f59a88cccae",
+    "label": "negative",
+    "risk_level": "MEDIUM",
+    "binary_prediction": "positive"
+  },
+  {
+    "event_id": "ded262ff-9ca5-4143-96a3-f9ccddd7b5e4",
+    "label": "negative",
+    "risk_level": "NONE",
+    "binary_prediction": "negative"
+  },
+  {
+    "event_id": "32ca8db3-7bde-4971-870c-d53c5638af90",
+    "label": "negative",
+    "risk_level": "CRITICAL",
+    "binary_prediction": "positive"
+  },
+  {
+    "event_id": "6fbc0507-42c3-43a3-b232-9502504b423b",
+    "label": "negative",
+    "risk_level": "NONE",
+    "binary_prediction": "negative"
+  },
+  {
+    "event_id": "bc2a6a6e-133d-4cc1-8009-d2bd1a6ccadb",
+    "label": "negative",
+    "risk_level": "LOW",
+    "binary_prediction": "negative"
+  },
+  {
+    "event_id": "f4ffc02a-9ff7-4f91-9f3f-293a61e5fe27",
+    "label": "negative",
+    "risk_level": "NONE",
+    "binary_prediction": "negative"
+  },
+  {
+    "event_id": "cb281526-084a-41f1-ac05-e22d22348182",
+    "label": "negative",
+    "risk_level": "HIGH",
+    "binary_prediction": "positive"
+  },
+  {
+    "event_id": "4ca2cf39-4da3-4169-b16a-91cc0a6c43b1",
+    "label": "negative",
+    "risk_level": "MEDIUM",
+    "binary_prediction": "positive"
+  },
+  {
+    "event_id": "841c60d5-2e57-45eb-8275-caf2b19094a5",
+    "label": "negative",
+    "risk_level": "NONE",
+    "binary_prediction": "negative"
+  },
+  {
+    "event_id": "b1df1231-953d-4768-ad00-aba647c99f7b",
+    "label": "negative",
+    "risk_level": "NONE",
+    "binary_prediction": "negative"
+  },
+  {
+    "event_id": "3fcb3bec-4974-4da9-9479-47b7bf5b2810",
+    "label": "negative",
+    "risk_level": "NONE",
+    "binary_prediction": "negative"
+  },
+  {
+    "event_id": "67e7e9d1-b374-428e-a7dd-2b8a0992a05c",
+    "label": "negative",
+    "risk_level": "NONE",
+    "binary_prediction": "negative"
+  },
+  {
+    "event_id": "e5105a08-2d2b-4cf1-85e3-ab9184510d38",
+    "label": "negative",
+    "risk_level": "MEDIUM",
+    "binary_prediction": "positive"
+  },
+  {
+    "event_id": "3c3fe1c0-36f7-486b-9ff0-b4f10e86a7cc",
+    "label": "negative",
+    "risk_level": "LOW",
+    "binary_prediction": "negative"
+  },
+  {
+    "event_id": "4d201ae4-f504-4bfa-bae5-f55ffddebfcf",
+    "label": "negative",
+    "risk_level": "LOW",
+    "binary_prediction": "negative"
+  },
+  {
+    "event_id": "f76e6e86-835f-4749-bfb7-c4c400796a46",
+    "label": "negative",
+    "risk_level": "NONE",
+    "binary_prediction": "negative"
+  },
+  {
+    "event_id": "0ee87cdd-433c-435c-ae5b-ad173bea8558",
+    "label": "negative",
+    "risk_level": "LOW",
+    "binary_prediction": "negative"
+  },
+  {
+    "event_id": "04e1e736-57ac-41c4-a0a9-7d819a39ed9f",
+    "label": "negative",
+    "risk_level": "NONE",
+    "binary_prediction": "negative"
+  },
+  {
+    "event_id": "7e0e5963-6a81-495f-b5eb-d14ea0cb4c90",
+    "label": "negative",
+    "risk_level": "MEDIUM",
+    "binary_prediction": "positive"
+  },
+  {
+    "event_id": "fa2282eb-3486-401d-afed-d5cc71d1963d",
+    "label": "negative",
+    "risk_level": "NONE",
+    "binary_prediction": "negative"
+  },
+  {
+    "event_id": "d88e8dfa-ab28-415d-af9d-41ffbca4586b",
+    "label": "negative",
+    "risk_level": "NONE",
+    "binary_prediction": "negative"
+  },
+  {
+    "event_id": "031498d3-75a0-4b86-88b4-5cc19928f0ff",
+    "label": "negative",
+    "risk_level": "NONE",
+    "binary_prediction": "negative"
+  },
+  {
+    "event_id": "e33c067f-7534-48a3-8aba-a711446363a8",
+    "label": "negative",
+    "risk_level": "NONE",
+    "binary_prediction": "negative"
+  },
+  {
+    "event_id": "394ca3c0-5a3a-4ec5-998f-d4596364e69f",
+    "label": "negative",
+    "risk_level": "NONE",
+    "binary_prediction": "negative"
+  },
+  {
+    "event_id": "d3fb688f-e60c-4f24-ad88-97215d015d6b",
+    "label": "negative",
+    "risk_level": "NONE",
+    "binary_prediction": "negative"
+  },
+  {
+    "event_id": "9c5bdbb4-3aa3-476f-8b62-0308a77d9813",
+    "label": "negative",
+    "risk_level": "NONE",
+    "binary_prediction": "negative"
+  },
+  {
+    "event_id": "a3c595b7-7dc2-49ad-880e-18ab46d282b4",
+    "label": "negative",
+    "risk_level": "MEDIUM",
+    "binary_prediction": "positive"
+  },
+  {
+    "event_id": "16b1911e-4a87-4ba6-8e3c-b14090472889",
+    "label": "negative",
+    "risk_level": "LOW",
+    "binary_prediction": "negative"
+  },
+  {
+    "event_id": "3c9f2655-78c0-42a7-a934-ec831c779714",
+    "label": "negative",
+    "risk_level": "NONE",
+    "binary_prediction": "negative"
+  },
+  {
+    "event_id": "ea562a41-7a65-46d8-b4d8-dee9ec1dab6b",
+    "label": "negative",
+    "risk_level": "NONE",
+    "binary_prediction": "negative"
+  },
+  {
+    "event_id": "6da3770a-d46f-49b1-a066-6890e83ecbe1",
+    "label": "negative",
+    "risk_level": "LOW",
+    "binary_prediction": "negative"
+  },
+  {
+    "event_id": "48eb0f8f-14c5-4ef7-bc52-9b0ca8f1803f",
+    "label": "negative",
+    "risk_level": "NONE",
+    "binary_prediction": "negative"
+  },
+  {
+    "event_id": "4ef7ef90-0a33-4204-b61f-830d5d017081",
+    "label": "negative",
+    "risk_level": "NONE",
+    "binary_prediction": "negative"
+  },
+  {
+    "event_id": "f04a8317-e752-4f71-9056-0d6ac42f75f4",
+    "label": "negative",
+    "risk_level": "NONE",
+    "binary_prediction": "negative"
+  },
+  {
+    "event_id": "b69acfdc-8a65-447e-b79f-763e5e4c7d71",
+    "label": "negative",
+    "risk_level": "NONE",
+    "binary_prediction": "negative"
+  },
+  {
+    "event_id": "4b7f5be3-10a8-45f7-82a8-c3129f2e4ec6",
+    "label": "negative",
+    "risk_level": "NONE",
+    "binary_prediction": "negative"
+  },
+  {
+    "event_id": "8530258b-d6db-4fea-9b1b-4ea742cbf873",
+    "label": "negative",
+    "risk_level": "HIGH",
+    "binary_prediction": "positive"
+  },
+  {
+    "event_id": "90f62aa8-cfdb-40e4-b010-bb7d15346d96",
+    "label": "negative",
+    "risk_level": "NONE",
+    "binary_prediction": "negative"
+  },
+  {
+    "event_id": "5d9cd1b9-b54c-4f8e-971f-ed683389746a",
+    "label": "negative",
+    "risk_level": "NONE",
+    "binary_prediction": "negative"
+  },
+  {
+    "event_id": "ba100222-a3d4-47a7-bf62-432e36a4a07d",
+    "label": "negative",
+    "risk_level": "NONE",
+    "binary_prediction": "negative"
+  },
+  {
+    "event_id": "3f9f3342-9314-41c8-ac2b-41a8604e08c6",
+    "label": "negative",
+    "risk_level": "LOW",
+    "binary_prediction": "negative"
+  },
+  {
+    "event_id": "081e7a5c-f3d2-478b-8476-159bd0fbb296",
+    "label": "negative",
+    "risk_level": "MEDIUM",
+    "binary_prediction": "positive"
+  },
+  {
+    "event_id": "62ec1ada-082e-46aa-a044-e03680c4a1f4",
+    "label": "negative",
+    "risk_level": "MEDIUM",
+    "binary_prediction": "positive"
+  },
+  {
+    "event_id": "2f6114f9-f1f4-452e-9909-a77bccd772ba",
+    "label": "negative",
+    "risk_level": "NONE",
+    "binary_prediction": "negative"
+  },
+  {
+    "event_id": "c2937e11-9e23-4992-b0ad-38b0ad8c032a",
+    "label": "negative",
+    "risk_level": "NONE",
+    "binary_prediction": "negative"
+  },
+  {
+    "event_id": "62f0d44c-3945-43ca-b6ac-6156cf0e5a72",
+    "label": "negative",
+    "risk_level": "NONE",
+    "binary_prediction": "negative"
+  },
+  {
+    "event_id": "17a13fb6-c753-414e-8c52-b67043803b5a",
+    "label": "negative",
+    "risk_level": "NONE",
+    "binary_prediction": "negative"
+  },
+  {
+    "event_id": "aba8c0b0-c274-423d-af47-6877dd328dbe",
+    "label": "negative",
+    "risk_level": "NONE",
+    "binary_prediction": "negative"
+  },
+  {
+    "event_id": "5fa6af7c-1f56-4b17-a139-0e0a77fa44f2",
+    "label": "negative",
+    "risk_level": "NONE",
+    "binary_prediction": "negative"
+  },
+  {
+    "event_id": "25b5b273-7b84-46aa-97fa-bbe3a427efc5",
+    "label": "negative",
+    "risk_level": "MEDIUM",
+    "binary_prediction": "positive"
+  },
+  {
+    "event_id": "6db83c7c-7007-4749-bb8d-84be3cfa59c0",
+    "label": "negative",
+    "risk_level": "LOW",
+    "binary_prediction": "negative"
+  },
+  {
+    "event_id": "e20d9756-fa2c-428e-8819-db279156ce80",
+    "label": "negative",
+    "risk_level": "NONE",
+    "binary_prediction": "negative"
+  },
+  {
+    "event_id": "c8759418-568f-439e-ae1f-b711ab395ab4",
+    "label": "negative",
+    "risk_level": "LOW",
+    "binary_prediction": "negative"
+  },
+  {
+    "event_id": "5ad05187-7035-4de4-a2d5-8417eb926cda",
+    "label": "negative",
+    "risk_level": "NONE",
+    "binary_prediction": "negative"
+  },
+  {
+    "event_id": "238fc30b-a577-48b3-800b-c029c6f023b9",
+    "label": "negative",
+    "risk_level": "LOW",
+    "binary_prediction": "negative"
+  },
+  {
+    "event_id": "3c92af40-52fa-4510-81d7-1b78f3e50ad3",
+    "label": "negative",
+    "risk_level": "MEDIUM",
+    "binary_prediction": "positive"
+  },
+  {
+    "event_id": "bd87f783-eb39-41e3-a7e9-cde1c169d0bd",
+    "label": "negative",
+    "risk_level": "NONE",
+    "binary_prediction": "negative"
+  },
+  {
+    "event_id": "783bfae3-b3ca-43b7-9879-30fabf5cd3ce",
+    "label": "negative",
+    "risk_level": "NONE",
+    "binary_prediction": "negative"
+  },
+  {
+    "event_id": "d6adf9ef-e663-4396-a6cb-8638ccb9ad93",
+    "label": "negative",
+    "risk_level": "NONE",
+    "binary_prediction": "negative"
+  },
+  {
+    "event_id": "6df239f5-da01-4beb-9462-65354212a4bd",
+    "label": "negative",
+    "risk_level": "NONE",
+    "binary_prediction": "negative"
+  },
+  {
+    "event_id": "01c09582-202d-4252-8483-678530448858",
+    "label": "negative",
+    "risk_level": "NONE",
+    "binary_prediction": "negative"
+  },
+  {
+    "event_id": "7f094449-539a-4717-880f-7e2af849f8f1",
+    "label": "negative",
+    "risk_level": "NONE",
+    "binary_prediction": "negative"
+  },
+  {
+    "event_id": "29ca8866-f886-44f6-87a7-f64a948803fd",
+    "label": "negative",
+    "risk_level": "HIGH",
+    "binary_prediction": "positive"
+  },
+  {
+    "event_id": "1b3e5a05-cc7e-4229-aa63-7119e95466a8",
+    "label": "negative",
+    "risk_level": "LOW",
+    "binary_prediction": "negative"
+  },
+  {
+    "event_id": "37166cfc-7496-48eb-a0a5-316c1901da29",
+    "label": "negative",
+    "risk_level": "NONE",
+    "binary_prediction": "negative"
+  },
+  {
+    "event_id": "81940699-ee9a-4670-9cec-b0285001d3f0",
+    "label": "negative",
+    "risk_level": "NONE",
+    "binary_prediction": "negative"
+  },
+  {
+    "event_id": "606762cb-459d-4bb5-a62f-aa68a03b0bda",
+    "label": "negative",
+    "risk_level": "NONE",
+    "binary_prediction": "negative"
+  },
+  {
+    "event_id": "9417cd62-d853-4898-aebd-3fab37518854",
+    "label": "negative",
+    "risk_level": "NONE",
+    "binary_prediction": "negative"
+  },
+  {
+    "event_id": "d3dc5ec5-aa09-4fee-bada-e5879e299e3d",
+    "label": "negative",
+    "risk_level": "NONE",
+    "binary_prediction": "negative"
+  },
+  {
+    "event_id": "7edb1860-5ce2-47e4-b4b4-d2bfe5915f1b",
+    "label": "negative",
+    "risk_level": "NONE",
+    "binary_prediction": "negative"
+  },
+  {
+    "event_id": "a648fcd9-8802-4b00-ab6d-3d037544f1a1",
+    "label": "negative",
+    "risk_level": "LOW",
+    "binary_prediction": "negative"
+  },
+  {
+    "event_id": "165572ba-eeb0-4fae-afd5-5b59d5302844",
+    "label": "negative",
+    "risk_level": "LOW",
+    "binary_prediction": "negative"
+  },
+  {
+    "event_id": "26745e39-f951-45e3-91de-a71509f9785e",
+    "label": "negative",
+    "risk_level": "NONE",
+    "binary_prediction": "negative"
+  },
+  {
+    "event_id": "19174eb4-ab64-40ed-959d-2ec05b9388e1",
+    "label": "negative",
+    "risk_level": "NONE",
+    "binary_prediction": "negative"
+  },
+  {
+    "event_id": "e3fecc5e-05e2-4bed-b2d8-dfabdc8b6877",
+    "label": "negative",
+    "risk_level": "LOW",
+    "binary_prediction": "negative"
+  },
+  {
+    "event_id": "cbb5b2bc-71b0-48a1-af38-38c14821cec4",
+    "label": "negative",
+    "risk_level": "NONE",
+    "binary_prediction": "negative"
+  },
+  {
+    "event_id": "af15ba4c-b620-4701-ba31-ea7f96f703cd",
+    "label": "negative",
+    "risk_level": "LOW",
+    "binary_prediction": "negative"
+  },
+  {
+    "event_id": "c605dc89-5059-4051-ac3b-6b1878142aa8",
+    "label": "negative",
+    "risk_level": "LOW",
+    "binary_prediction": "negative"
+  },
+  {
+    "event_id": "09abafc0-af40-463f-9eaa-b85fb5275a00",
+    "label": "negative",
+    "risk_level": "NONE",
+    "binary_prediction": "negative"
+  },
+  {
+    "event_id": "b4affc3d-b113-429d-acb5-17fa3f428b77",
+    "label": "negative",
+    "risk_level": "NONE",
+    "binary_prediction": "negative"
+  },
+  {
+    "event_id": "275da212-2eb8-46a1-ab8b-7c1c8dffec11",
+    "label": "negative",
+    "risk_level": "MEDIUM",
+    "binary_prediction": "positive"
+  },
+  {
+    "event_id": "242bfa2e-2192-4547-85af-43ffb53d0820",
+    "label": "negative",
+    "risk_level": "NONE",
+    "binary_prediction": "negative"
+  },
+  {
+    "event_id": "86c4d767-6ae6-4657-a413-758ede891df0",
+    "label": "negative",
+    "risk_level": "NONE",
+    "binary_prediction": "negative"
+  },
+  {
+    "event_id": "1a4b29f8-5bd5-47ee-873f-1579d18779e0",
+    "label": "negative",
+    "risk_level": "NONE",
+    "binary_prediction": "negative"
+  },
+  {
+    "event_id": "5ab52134-efb2-40ea-8e85-f18bcd07494b",
+    "label": "negative",
+    "risk_level": "NONE",
+    "binary_prediction": "negative"
+  },
+  {
+    "event_id": "04a148ca-d01d-47ba-9030-1046f1300a1a",
+    "label": "negative",
+    "risk_level": "NONE",
+    "binary_prediction": "negative"
+  },
+  {
+    "event_id": "6772f24b-e0e8-4b3a-9c5c-9a6da77b2430",
+    "label": "negative",
+    "risk_level": "NONE",
+    "binary_prediction": "negative"
+  },
+  {
+    "event_id": "be4d3b65-4ae0-4dde-a27f-dac8e0ecbd5f",
+    "label": "negative",
+    "risk_level": "NONE",
+    "binary_prediction": "negative"
+  },
+  {
+    "event_id": "2b14afb5-b0ab-49a5-b34c-57ad71731be5",
+    "label": "negative",
+    "risk_level": "NONE",
+    "binary_prediction": "negative"
+  },
+  {
+    "event_id": "50d507bb-9d2f-446a-91bd-6cb31b6880dc",
+    "label": "negative",
+    "risk_level": "NONE",
+    "binary_prediction": "negative"
+  },
+  {
+    "event_id": "ea9e50ed-e064-4fd7-b722-c0f5c411118e",
+    "label": "negative",
+    "risk_level": "NONE",
+    "binary_prediction": "negative"
+  },
+  {
+    "event_id": "e4297d47-f7d3-434a-8e70-64efabba5a3f",
+    "label": "negative",
+    "risk_level": "NONE",
+    "binary_prediction": "negative"
+  },
+  {
+    "event_id": "e55b8c20-4e4f-4d46-8354-c06f99236f13",
+    "label": "negative",
+    "risk_level": "MEDIUM",
+    "binary_prediction": "positive"
+  },
+  {
+    "event_id": "855815dd-7aa8-4120-bfa5-f95ca568a2ac",
+    "label": "negative",
+    "risk_level": "LOW",
+    "binary_prediction": "negative"
+  },
+  {
+    "event_id": "f5385149-0e26-41c9-a412-e482c783fbb6",
+    "label": "negative",
+    "risk_level": "LOW",
+    "binary_prediction": "negative"
+  },
+  {
+    "event_id": "8561367a-bed1-458c-a402-c554e2249310",
+    "label": "negative",
+    "risk_level": "NONE",
+    "binary_prediction": "negative"
+  },
+  {
+    "event_id": "be656213-a31f-40a9-bc27-fdf933c732c7",
+    "label": "negative",
+    "risk_level": "NONE",
+    "binary_prediction": "negative"
+  },
+  {
+    "event_id": "d473d101-c0db-4aa5-93c2-42a7b433fd32",
+    "label": "negative",
+    "risk_level": "LOW",
+    "binary_prediction": "negative"
+  },
+  {
+    "event_id": "f16d2c16-bd9f-42bc-b213-51254ac9e8a5",
+    "label": "negative",
+    "risk_level": "CRITICAL",
+    "binary_prediction": "positive"
+  },
+  {
+    "event_id": "6584ea58-e262-440c-b687-1b4031cb27bc",
+    "label": "negative",
+    "risk_level": "NONE",
+    "binary_prediction": "negative"
+  },
+  {
+    "event_id": "7b7c3863-1686-439a-ac87-794ea26339a0",
+    "label": "negative",
+    "risk_level": "NONE",
+    "binary_prediction": "negative"
+  },
+  {
+    "event_id": "0d59a318-8858-4040-80cf-d0ed932bdfba",
+    "label": "negative",
+    "risk_level": "NONE",
+    "binary_prediction": "negative"
+  },
+  {
+    "event_id": "0ee5f0a1-6d79-4850-8aba-2f2c39d6b742",
+    "label": "negative",
+    "risk_level": "NONE",
+    "binary_prediction": "negative"
+  },
+  {
+    "event_id": "75f27cab-0a72-41d5-9bf5-c6791ddc4d32",
+    "label": "negative",
+    "risk_level": "HIGH",
+    "binary_prediction": "positive"
+  },
+  {
+    "event_id": "1a3f6ea0-9ef0-4551-8dd3-6ae74716e552",
+    "label": "negative",
+    "risk_level": "NONE",
+    "binary_prediction": "negative"
+  },
+  {
+    "event_id": "f0d296ff-0f88-4504-b616-4bd675e69584",
+    "label": "negative",
+    "risk_level": "LOW",
+    "binary_prediction": "negative"
+  },
+  {
+    "event_id": "b97d5cf1-3605-4071-98f7-250d2e0be9f4",
+    "label": "negative",
+    "risk_level": "NONE",
+    "binary_prediction": "negative"
+  },
+  {
+    "event_id": "0d1a17f5-0f95-4447-9e0d-505963a92542",
+    "label": "negative",
+    "risk_level": "MEDIUM",
+    "binary_prediction": "positive"
+  },
+  {
+    "event_id": "ee091089-beac-46a4-afbf-52556d0cac27",
+    "label": "negative",
+    "risk_level": "NONE",
+    "binary_prediction": "negative"
+  },
+  {
+    "event_id": "066fb5db-555c-429a-ac4b-0a3d822b7361",
+    "label": "negative",
+    "risk_level": "HIGH",
+    "binary_prediction": "positive"
+  },
+  {
+    "event_id": "6a91dfe0-c051-4a94-8721-28ade0ec3aae",
+    "label": "negative",
+    "risk_level": "MEDIUM",
+    "binary_prediction": "positive"
+  },
+  {
+    "event_id": "59aface9-fea0-42bb-9747-ea3e2a5622b8",
+    "label": "negative",
+    "risk_level": "NONE",
+    "binary_prediction": "negative"
+  },
+  {
+    "event_id": "6abb03c2-3f51-4001-bed6-d16e4e196ef3",
+    "label": "negative",
+    "risk_level": "LOW",
+    "binary_prediction": "negative"
+  },
+  {
+    "event_id": "4ace496f-40c8-4bd4-897f-c6f0a5d590b6",
+    "label": "negative",
+    "risk_level": "NONE",
+    "binary_prediction": "negative"
+  },
+  {
+    "event_id": "2ed8c4ae-1478-43fb-8e4b-88f23e531883",
+    "label": "negative",
+    "risk_level": "NONE",
+    "binary_prediction": "negative"
+  },
+  {
+    "event_id": "f6ee8e27-f7bf-42a7-9a40-f95a790cf3cb",
+    "label": "negative",
+    "risk_level": "NONE",
+    "binary_prediction": "negative"
+  },
+  {
+    "event_id": "3f84d1af-5adf-450b-91d2-80ecbdb6d435",
+    "label": "negative",
+    "risk_level": "MEDIUM",
+    "binary_prediction": "positive"
+  },
+  {
+    "event_id": "acee820b-caf5-4fe2-aede-c42cbdb2050d",
+    "label": "negative",
+    "risk_level": "NONE",
+    "binary_prediction": "negative"
+  },
+  {
+    "event_id": "a4bbb258-b7ec-4d05-bb37-cd01706d5aef",
+    "label": "negative",
+    "risk_level": "LOW",
+    "binary_prediction": "negative"
+  },
+  {
+    "event_id": "03d25581-03a2-4f9c-8fbb-aeb1752c1d3d",
+    "label": "negative",
+    "risk_level": "LOW",
+    "binary_prediction": "negative"
+  },
+  {
+    "event_id": "df5e8ff0-4309-4e90-89dc-68d81b28904e",
+    "label": "negative",
+    "risk_level": "NONE",
+    "binary_prediction": "negative"
+  },
+  {
+    "event_id": "d646ee62-8c9f-4d46-b3b9-a1b69da49eee",
+    "label": "negative",
+    "risk_level": "NONE",
+    "binary_prediction": "negative"
+  },
+  {
+    "event_id": "d2020e1c-4c2f-45e7-9eac-e5ac6ce38668",
+    "label": "negative",
+    "risk_level": "MEDIUM",
+    "binary_prediction": "positive"
+  },
+  {
+    "event_id": "20562db0-6d3a-4dab-b8b2-61d0cd0403ee",
+    "label": "negative",
+    "risk_level": "NONE",
+    "binary_prediction": "negative"
+  },
+  {
+    "event_id": "6e47c1df-e556-4fed-8389-abba3ffc37a8",
+    "label": "negative",
+    "risk_level": "LOW",
+    "binary_prediction": "negative"
+  },
+  {
+    "event_id": "51a07931-66ad-4e5b-af15-f61df45679bf",
+    "label": "negative",
+    "risk_level": "NONE",
+    "binary_prediction": "negative"
+  },
+  {
+    "event_id": "efd74f0c-e50e-481e-9d4f-b6efb278f3f0",
+    "label": "negative",
+    "risk_level": "NONE",
+    "binary_prediction": "negative"
+  },
+  {
+    "event_id": "09ed0262-ee5d-48ef-8ee7-82bbd75aed2b",
+    "label": "negative",
+    "risk_level": "NONE",
+    "binary_prediction": "negative"
+  },
+  {
+    "event_id": "68b8bd74-0242-4f16-9f5c-efa556ff2552",
+    "label": "negative",
+    "risk_level": "NONE",
+    "binary_prediction": "negative"
+  },
+  {
+    "event_id": "9baf2596-4d1d-48c9-95b0-d3966d9de159",
+    "label": "negative",
+    "risk_level": "MEDIUM",
+    "binary_prediction": "positive"
+  },
+  {
+    "event_id": "0db4acef-23ed-4696-b820-4b3e744e596a",
+    "label": "negative",
+    "risk_level": "NONE",
+    "binary_prediction": "negative"
+  },
+  {
+    "event_id": "9787995e-471c-4539-aba9-22a7995e1e43",
+    "label": "negative",
+    "risk_level": "NONE",
+    "binary_prediction": "negative"
+  },
+  {
+    "event_id": "a1c2f331-efa8-476d-9ec3-5b3e7d6d162b",
+    "label": "negative",
+    "risk_level": "NONE",
+    "binary_prediction": "negative"
+  },
+  {
+    "event_id": "9b88d1b7-3537-454d-8d4c-71b4dd6a93bf",
+    "label": "negative",
+    "risk_level": "HIGH",
+    "binary_prediction": "positive"
+  },
+  {
+    "event_id": "17b4de7a-c732-4bee-aca5-ec33d1985a8a",
+    "label": "negative",
+    "risk_level": "LOW",
+    "binary_prediction": "negative"
+  },
+  {
+    "event_id": "c63fdbc9-cb30-496f-b2d3-2753819d260c",
+    "label": "negative",
+    "risk_level": "CRITICAL",
+    "binary_prediction": "positive"
+  },
+  {
+    "event_id": "fbcb6de9-7bbc-4376-b16e-9cb34b6af792",
+    "label": "negative",
+    "risk_level": "MEDIUM",
+    "binary_prediction": "positive"
+  },
+  {
+    "event_id": "d499ea24-b1de-44d8-96b3-8333685c7f51",
+    "label": "negative",
+    "risk_level": "NONE",
+    "binary_prediction": "negative"
+  },
+  {
+    "event_id": "6f6cc33b-b95c-46ac-a710-3022d540b2ff",
+    "label": "negative",
+    "risk_level": "NONE",
+    "binary_prediction": "negative"
+  },
+  {
+    "event_id": "37cd6b76-c39d-475a-88e8-ac0434fbae67",
+    "label": "negative",
+    "risk_level": "MEDIUM",
+    "binary_prediction": "positive"
+  },
+  {
+    "event_id": "e2166603-8cf5-410d-b3a9-49df69d790b1",
+    "label": "negative",
+    "risk_level": "NONE",
+    "binary_prediction": "negative"
+  },
+  {
+    "event_id": "0df4950a-9a01-411c-b565-976c8bf2020e",
+    "label": "negative",
+    "risk_level": "LOW",
+    "binary_prediction": "negative"
+  },
+  {
+    "event_id": "67eb8cfe-fb48-42c6-b26d-d1e1d5226117",
+    "label": "negative",
+    "risk_level": "NONE",
+    "binary_prediction": "negative"
+  },
+  {
+    "event_id": "4547ef27-0b34-42fa-9b8a-a89b053ffbc2",
+    "label": "negative",
+    "risk_level": "NONE",
+    "binary_prediction": "negative"
+  },
+  {
+    "event_id": "3f941333-51f7-45a7-80cb-9285c5a35b27",
+    "label": "negative",
+    "risk_level": "NONE",
+    "binary_prediction": "negative"
+  },
+  {
+    "event_id": "084df980-c3e6-4eed-aee3-919b29011aa9",
+    "label": "negative",
+    "risk_level": "LOW",
+    "binary_prediction": "negative"
+  },
+  {
+    "event_id": "340ab5ae-f290-4242-b4ea-743a1651feff",
+    "label": "negative",
+    "risk_level": "NONE",
+    "binary_prediction": "negative"
+  },
+  {
+    "event_id": "26e9bef6-83ef-431c-90df-eda7aff9a065",
+    "label": "negative",
+    "risk_level": "MEDIUM",
+    "binary_prediction": "positive"
+  },
+  {
+    "event_id": "9d0e321f-a87d-4878-a770-4601c47dc89d",
+    "label": "negative",
+    "risk_level": "NONE",
+    "binary_prediction": "negative"
+  },
+  {
+    "event_id": "38306848-b19d-4412-ad0a-488a66f76fd1",
+    "label": "negative",
+    "risk_level": "NONE",
+    "binary_prediction": "negative"
+  },
+  {
+    "event_id": "c6364843-62fa-4ddc-9266-ef909c244620",
+    "label": "negative",
+    "risk_level": "NONE",
+    "binary_prediction": "negative"
+  },
+  {
+    "event_id": "2239893e-36a9-41a8-ad78-e1cd45dc37b2",
+    "label": "negative",
+    "risk_level": "NONE",
+    "binary_prediction": "negative"
+  },
+  {
+    "event_id": "1522f58e-275a-4198-92ed-59fe1c7af27d",
+    "label": "negative",
+    "risk_level": "NONE",
+    "binary_prediction": "negative"
+  },
+  {
+    "event_id": "824bcfe8-2acb-4ebf-9b58-e510e3bd924e",
+    "label": "negative",
+    "risk_level": "MEDIUM",
+    "binary_prediction": "positive"
+  },
+  {
+    "event_id": "924d3562-1ddd-477f-8125-51db096d13e0",
+    "label": "negative",
+    "risk_level": "NONE",
+    "binary_prediction": "negative"
+  },
+  {
+    "event_id": "92216f76-541e-40a3-bbac-e1cb1d0db234",
+    "label": "negative",
+    "risk_level": "NONE",
+    "binary_prediction": "negative"
+  },
+  {
+    "event_id": "4104acef-a3bb-444e-aed6-10052c0e98b8",
+    "label": "negative",
+    "risk_level": "LOW",
+    "binary_prediction": "negative"
+  },
+  {
+    "event_id": "2380687e-3ddd-4a48-86c6-eaad3b3df7ea",
+    "label": "negative",
+    "risk_level": "NONE",
+    "binary_prediction": "negative"
+  },
+  {
+    "event_id": "1e8874f9-2344-4ebf-96a5-6d51faa6435b",
+    "label": "negative",
+    "risk_level": "NONE",
+    "binary_prediction": "negative"
+  },
+  {
+    "event_id": "30dda1bc-fcab-4977-b4b7-81c24db82a62",
+    "label": "negative",
+    "risk_level": "NONE",
+    "binary_prediction": "negative"
+  },
+  {
+    "event_id": "f7ad286f-a2e3-49c5-a031-2420bd30e5f5",
+    "label": "negative",
+    "risk_level": "NONE",
+    "binary_prediction": "negative"
+  },
+  {
+    "event_id": "94e656c8-6b14-41d6-91f3-937616996180",
+    "label": "negative",
+    "risk_level": "NONE",
+    "binary_prediction": "negative"
+  },
+  {
+    "event_id": "8eca2be1-2dca-4028-ac3f-b110d703ded0",
+    "label": "negative",
+    "risk_level": "NONE",
+    "binary_prediction": "negative"
+  },
+  {
+    "event_id": "f6f3ab70-d599-4f21-b131-288e8a312f32",
+    "label": "negative",
+    "risk_level": "NONE",
+    "binary_prediction": "negative"
+  },
+  {
+    "event_id": "29cfc1e1-e323-4522-90d2-3cdc3ee2372a",
+    "label": "negative",
+    "risk_level": "NONE",
+    "binary_prediction": "negative"
+  },
+  {
+    "event_id": "719c6b92-c2fd-40bf-95ea-c40486a3f48c",
+    "label": "negative",
+    "risk_level": "NONE",
+    "binary_prediction": "negative"
+  },
+  {
+    "event_id": "65f35b6f-972e-40ca-9415-b3ec76e99858",
+    "label": "negative",
+    "risk_level": "NONE",
+    "binary_prediction": "negative"
+  },
+  {
+    "event_id": "9555e4a8-c008-459e-9030-d21bdd432380",
+    "label": "negative",
+    "risk_level": "NONE",
+    "binary_prediction": "negative"
+  },
+  {
+    "event_id": "457b1644-dc4f-4260-9e69-42d3f6df453f",
+    "label": "negative",
+    "risk_level": "NONE",
+    "binary_prediction": "negative"
+  },
+  {
+    "event_id": "fd824043-7617-478e-bb47-2ce40b456f3b",
+    "label": "negative",
+    "risk_level": "NONE",
+    "binary_prediction": "negative"
+  },
+  {
+    "event_id": "dbe726ac-1922-4b22-b58f-2318a6d66684",
+    "label": "negative",
+    "risk_level": "NONE",
+    "binary_prediction": "negative"
+  },
+  {
+    "event_id": "e141c952-7640-46a6-a7c6-c83b2d09a0c8",
+    "label": "negative",
+    "risk_level": "NONE",
+    "binary_prediction": "negative"
+  },
+  {
+    "event_id": "7f34bd02-9321-45c1-8265-dd08f0ad30e5",
+    "label": "negative",
+    "risk_level": "LOW",
+    "binary_prediction": "negative"
+  },
+  {
+    "event_id": "485b4b56-ff9f-4867-a005-d4cc9e7f818b",
+    "label": "negative",
+    "risk_level": "NONE",
+    "binary_prediction": "negative"
+  },
+  {
+    "event_id": "61c51029-55f1-47b5-a592-b2d41ace79d3",
+    "label": "negative",
+    "risk_level": "NONE",
+    "binary_prediction": "negative"
+  },
+  {
+    "event_id": "f4e7412b-7441-4ea0-b846-5d722028edf6",
+    "label": "negative",
+    "risk_level": "NONE",
+    "binary_prediction": "negative"
+  },
+  {
+    "event_id": "2bbc7fcb-ed55-49dc-b158-d25f587ec1ea",
+    "label": "negative",
+    "risk_level": "NONE",
+    "binary_prediction": "negative"
+  },
+  {
+    "event_id": "2562ff16-e8f7-406f-affb-fca538cb2301",
+    "label": "negative",
+    "risk_level": "HIGH",
+    "binary_prediction": "positive"
+  },
+  {
+    "event_id": "139bb642-89da-4a4e-8faa-0aa3bbef2b8f",
+    "label": "negative",
+    "risk_level": "NONE",
+    "binary_prediction": "negative"
+  },
+  {
+    "event_id": "70d86c76-2d87-4527-999d-05bdaff8bc1d",
+    "label": "negative",
+    "risk_level": "NONE",
+    "binary_prediction": "negative"
+  },
+  {
+    "event_id": "20ca0cbe-4feb-40e7-b23a-0caa652c4479",
+    "label": "negative",
+    "risk_level": "LOW",
+    "binary_prediction": "negative"
+  },
+  {
+    "event_id": "d342faff-ffce-46b2-81c2-d445ff1163c7",
+    "label": "negative",
+    "risk_level": "MEDIUM",
+    "binary_prediction": "positive"
+  },
+  {
+    "event_id": "96d342f1-32fc-4bcb-b283-1c2697b6b700",
+    "label": "negative",
+    "risk_level": "NONE",
+    "binary_prediction": "negative"
+  },
+  {
+    "event_id": "0a3acae0-ae65-4512-8962-31f1f6eef037",
+    "label": "negative",
+    "risk_level": "NONE",
+    "binary_prediction": "negative"
+  },
+  {
+    "event_id": "1e7ea6e3-109d-461a-b7c7-3a1f27f31258",
+    "label": "negative",
+    "risk_level": "LOW",
+    "binary_prediction": "negative"
+  },
+  {
+    "event_id": "ac730c0a-5f68-4892-9753-2b2300ceb492",
+    "label": "negative",
+    "risk_level": "NONE",
+    "binary_prediction": "negative"
+  },
+  {
+    "event_id": "9daf7507-6299-4ecb-b749-2ac374fef1fe",
+    "label": "negative",
+    "risk_level": "LOW",
+    "binary_prediction": "negative"
+  },
+  {
+    "event_id": "4b1d1c63-9f41-4492-9088-2153176eccd3",
+    "label": "negative",
+    "risk_level": "NONE",
+    "binary_prediction": "negative"
+  },
+  {
+    "event_id": "fa4b86de-1fff-44c9-a393-33269068ad3e",
+    "label": "negative",
+    "risk_level": "LOW",
+    "binary_prediction": "negative"
+  },
+  {
+    "event_id": "64042d17-2825-4f73-b9c0-92d8c361314a",
+    "label": "negative",
+    "risk_level": "NONE",
+    "binary_prediction": "negative"
+  },
+  {
+    "event_id": "db6ae4cd-0dce-4133-b7d1-3c23266fd063",
+    "label": "negative",
+    "risk_level": "NONE",
+    "binary_prediction": "negative"
+  },
+  {
+    "event_id": "0ef5843a-8521-4f97-b874-da92ee713ec5",
+    "label": "negative",
+    "risk_level": "MEDIUM",
+    "binary_prediction": "positive"
+  },
+  {
+    "event_id": "ff4e3afc-6b79-479b-afb4-f391835575f1",
+    "label": "negative",
+    "risk_level": "NONE",
+    "binary_prediction": "negative"
+  },
+  {
+    "event_id": "81f544a0-5200-4f85-bdb4-91d010ed06bd",
+    "label": "negative",
+    "risk_level": "MEDIUM",
+    "binary_prediction": "positive"
+  },
+  {
+    "event_id": "eb476a31-563c-4f76-a2c3-58355a227407",
+    "label": "negative",
+    "risk_level": "LOW",
+    "binary_prediction": "negative"
+  },
+  {
+    "event_id": "93906eec-8f78-49d6-84d2-5bb1eb8c827f",
+    "label": "negative",
+    "risk_level": "NONE",
+    "binary_prediction": "negative"
+  },
+  {
+    "event_id": "016823b6-ba3b-4908-b521-92c608d86192",
+    "label": "negative",
+    "risk_level": "NONE",
+    "binary_prediction": "negative"
+  },
+  {
+    "event_id": "f67d2840-cf3c-46ee-b636-1679ce0ebfa8",
+    "label": "negative",
+    "risk_level": "NONE",
+    "binary_prediction": "negative"
+  },
+  {
+    "event_id": "857a2eac-f0a2-4dbc-9431-873a762225b7",
+    "label": "negative",
+    "risk_level": "NONE",
+    "binary_prediction": "negative"
+  },
+  {
+    "event_id": "614e39d0-b4cd-4fbc-971a-733f33e011d3",
+    "label": "negative",
+    "risk_level": "NONE",
+    "binary_prediction": "negative"
+  },
+  {
+    "event_id": "70fcb2ad-b51b-4df6-97d7-09ad104a5ea9",
+    "label": "negative",
+    "risk_level": "NONE",
+    "binary_prediction": "negative"
+  },
+  {
+    "event_id": "f898b096-6a33-4349-93af-6f95fe5b76c6",
+    "label": "negative",
+    "risk_level": "NONE",
+    "binary_prediction": "negative"
+  },
+  {
+    "event_id": "75541b84-9e79-40e4-af40-47db19e3ed13",
+    "label": "negative",
+    "risk_level": "NONE",
+    "binary_prediction": "negative"
+  },
+  {
+    "event_id": "df096f32-5d5a-478a-bab5-9e0709346843",
+    "label": "negative",
+    "risk_level": "NONE",
+    "binary_prediction": "negative"
+  },
+  {
+    "event_id": "f7a417b9-67ac-487b-b804-b6a1bafede69",
+    "label": "negative",
+    "risk_level": "LOW",
+    "binary_prediction": "negative"
+  },
+  {
+    "event_id": "0188e33e-78ea-44d4-a613-c5bcb5906c03",
+    "label": "negative",
+    "risk_level": "NONE",
+    "binary_prediction": "negative"
+  },
+  {
+    "event_id": "1edf5837-a8ed-44c1-a0a4-d3f00f798978",
+    "label": "negative",
+    "risk_level": "NONE",
+    "binary_prediction": "negative"
+  },
+  {
+    "event_id": "9f82deb0-29db-4ceb-b348-8f33dbf56941",
+    "label": "negative",
+    "risk_level": "NONE",
+    "binary_prediction": "negative"
+  },
+  {
+    "event_id": "7c8d9444-f304-48f7-abb2-b26215a565d2",
+    "label": "negative",
+    "risk_level": "NONE",
+    "binary_prediction": "negative"
+  },
+  {
+    "event_id": "91488a01-f221-4223-b3ab-5d2006db50a2",
+    "label": "negative",
+    "risk_level": "NONE",
+    "binary_prediction": "negative"
+  },
+  {
+    "event_id": "786610a7-f7b4-485b-8f0c-a23de69a85a8",
+    "label": "negative",
+    "risk_level": "NONE",
+    "binary_prediction": "negative"
+  },
+  {
+    "event_id": "3982a47f-43ab-4eca-95d8-cf8f8d3bd302",
+    "label": "negative",
+    "risk_level": "NONE",
+    "binary_prediction": "negative"
+  },
+  {
+    "event_id": "c6ba96ef-58f8-4dd9-b5c5-0f26810325a7",
+    "label": "negative",
+    "risk_level": "NONE",
+    "binary_prediction": "negative"
+  },
+  {
+    "event_id": "b1ce19fe-1831-4720-b0ca-b541d4d0c3c1",
+    "label": "negative",
+    "risk_level": "NONE",
+    "binary_prediction": "negative"
+  },
+  {
+    "event_id": "85d19d5c-9445-4ce2-9ff5-7ec7d89c09f7",
+    "label": "negative",
+    "risk_level": "NONE",
+    "binary_prediction": "negative"
+  },
+  {
+    "event_id": "83249243-b860-4204-82e9-82b58f0f51b0",
+    "label": "negative",
+    "risk_level": "NONE",
+    "binary_prediction": "negative"
+  },
+  {
+    "event_id": "6e43510e-ddde-480d-ac9e-ff293aa43a02",
+    "label": "negative",
+    "risk_level": "NONE",
+    "binary_prediction": "negative"
+  },
+  {
+    "event_id": "fbd3a014-6563-40af-ab8d-41a39560c6a2",
+    "label": "negative",
+    "risk_level": "NONE",
+    "binary_prediction": "negative"
+  },
+  {
+    "event_id": "b69a2d44-f0b4-4728-a9c1-7e4a7a988ae7",
+    "label": "negative",
+    "risk_level": "NONE",
+    "binary_prediction": "negative"
+  },
+  {
+    "event_id": "abd2f414-9d15-4a6c-bc46-197173242f7f",
+    "label": "negative",
+    "risk_level": "NONE",
+    "binary_prediction": "negative"
+  },
+  {
+    "event_id": "312723d6-1098-485a-8bf2-2aa5eb77d504",
+    "label": "negative",
+    "risk_level": "MEDIUM",
+    "binary_prediction": "positive"
+  },
+  {
+    "event_id": "08ca6ffb-f578-4e38-99bf-3e9db796003a",
+    "label": "negative",
+    "risk_level": "NONE",
+    "binary_prediction": "negative"
+  },
+  {
+    "event_id": "eca735c3-0832-4348-8711-d84bdc323cdb",
+    "label": "negative",
+    "risk_level": "NONE",
+    "binary_prediction": "negative"
+  },
+  {
+    "event_id": "4cc3a219-c24c-4c77-b170-c2f3fd5abee9",
+    "label": "negative",
+    "risk_level": "HIGH",
+    "binary_prediction": "positive"
+  },
+  {
+    "event_id": "7787e0f4-419a-4bf3-b280-d3b05c97c3ea",
+    "label": "negative",
+    "risk_level": "NONE",
+    "binary_prediction": "negative"
+  },
+  {
+    "event_id": "eb0c505c-9a53-40e3-a533-76d599cd382f",
+    "label": "negative",
+    "risk_level": "NONE",
+    "binary_prediction": "negative"
+  },
+  {
+    "event_id": "69f32133-de4f-4b83-b63b-9f631f0d7402",
+    "label": "negative",
+    "risk_level": "MEDIUM",
+    "binary_prediction": "positive"
+  },
+  {
+    "event_id": "0f317098-4fb6-40e8-ab46-765c818f2305",
+    "label": "negative",
+    "risk_level": "HIGH",
+    "binary_prediction": "positive"
+  },
+  {
+    "event_id": "a0f6141d-189d-4f0c-acae-a46bb87ee540",
+    "label": "negative",
+    "risk_level": "MEDIUM",
+    "binary_prediction": "positive"
+  },
+  {
+    "event_id": "e960aab9-0511-4380-aa28-b7232986de13",
+    "label": "negative",
+    "risk_level": "NONE",
+    "binary_prediction": "negative"
+  },
+  {
+    "event_id": "c568ef8b-e5da-434e-807d-a9854ea14444",
+    "label": "negative",
+    "risk_level": "NONE",
+    "binary_prediction": "negative"
+  },
+  {
+    "event_id": "389a5c4f-ac02-41be-a41d-a6cdb9636aea",
+    "label": "negative",
+    "risk_level": "NONE",
+    "binary_prediction": "negative"
+  },
+  {
+    "event_id": "9f728a78-abbd-4b79-adad-e660a1207cc3",
+    "label": "negative",
+    "risk_level": "NONE",
+    "binary_prediction": "negative"
+  },
+  {
+    "event_id": "00b2b4e2-969d-4ae6-8e25-e8a27d4b99a4",
+    "label": "negative",
+    "risk_level": "NONE",
+    "binary_prediction": "negative"
+  },
+  {
+    "event_id": "7c2436cb-f464-401a-871b-fd42d8ba7553",
+    "label": "negative",
+    "risk_level": "NONE",
+    "binary_prediction": "negative"
+  },
+  {
+    "event_id": "076b90fb-efeb-4370-a56f-77867fb169e8",
+    "label": "negative",
+    "risk_level": "NONE",
+    "binary_prediction": "negative"
+  },
+  {
+    "event_id": "3e60073b-b3fb-4027-8f22-f3605d9e6bad",
+    "label": "negative",
+    "risk_level": "NONE",
+    "binary_prediction": "negative"
+  },
+  {
+    "event_id": "212034cb-081e-487e-b3fb-792dceee5aa4",
+    "label": "negative",
+    "risk_level": "NONE",
+    "binary_prediction": "negative"
+  },
+  {
+    "event_id": "b80f7a55-d463-4882-adce-2049f17e45bd",
+    "label": "negative",
+    "risk_level": "LOW",
+    "binary_prediction": "negative"
+  },
+  {
+    "event_id": "34e2b620-f8fe-44f7-a26c-027e43cad77f",
+    "label": "negative",
+    "risk_level": "MEDIUM",
+    "binary_prediction": "positive"
+  },
+  {
+    "event_id": "5263e761-60a4-41df-95e8-82223de6193c",
+    "label": "negative",
+    "risk_level": "MEDIUM",
+    "binary_prediction": "positive"
+  },
+  {
+    "event_id": "76b9c74f-f421-4520-b923-a3adfb05f774",
+    "label": "negative",
+    "risk_level": "NONE",
+    "binary_prediction": "negative"
+  },
+  {
+    "event_id": "c6bb6da1-056c-4f5d-b4f9-e07726d12509",
+    "label": "negative",
+    "risk_level": "NONE",
+    "binary_prediction": "negative"
+  },
+  {
+    "event_id": "e3863afa-8c4a-49e8-b40e-3006144a2414",
+    "label": "negative",
+    "risk_level": "NONE",
+    "binary_prediction": "negative"
+  },
+  {
+    "event_id": "82404538-96cb-4cce-a0d1-1f3ad8899c23",
+    "label": "negative",
+    "risk_level": "LOW",
+    "binary_prediction": "negative"
+  },
+  {
+    "event_id": "f60fb980-7143-4a9c-bced-3705b8ecfffa",
+    "label": "negative",
+    "risk_level": "NONE",
+    "binary_prediction": "negative"
+  },
+  {
+    "event_id": "0eacd4af-293e-45bf-bdb6-ea60ba187af1",
+    "label": "negative",
+    "risk_level": "NONE",
+    "binary_prediction": "negative"
+  },
+  {
+    "event_id": "602cf3eb-4156-4937-9bb9-5bfbad548e82",
+    "label": "negative",
+    "risk_level": "NONE",
+    "binary_prediction": "negative"
+  },
+  {
+    "event_id": "f13f2af3-868f-455f-850b-7ba797bc71c6",
+    "label": "negative",
+    "risk_level": "MEDIUM",
+    "binary_prediction": "positive"
+  },
+  {
+    "event_id": "a3abb106-c17c-4991-bc69-cc39800945d9",
+    "label": "negative",
+    "risk_level": "NONE",
+    "binary_prediction": "negative"
+  },
+  {
+    "event_id": "5cd26576-86ad-4697-b81d-c3d5897a0eda",
+    "label": "negative",
+    "risk_level": "LOW",
+    "binary_prediction": "negative"
+  },
+  {
+    "event_id": "16a47c06-fdb8-4d6a-9894-f4b705f87da0",
+    "label": "negative",
+    "risk_level": "NONE",
+    "binary_prediction": "negative"
+  },
+  {
+    "event_id": "092e38b2-1ef6-43ae-9f6c-f505002dfef2",
+    "label": "negative",
+    "risk_level": "NONE",
+    "binary_prediction": "negative"
+  },
+  {
+    "event_id": "be6c8ab5-fe3c-40b1-9a65-d0eeda92e29a",
+    "label": "negative",
+    "risk_level": "NONE",
+    "binary_prediction": "negative"
+  },
+  {
+    "event_id": "dc1fa607-3890-4899-8b04-7d741ac62703",
+    "label": "negative",
+    "risk_level": "HIGH",
+    "binary_prediction": "positive"
+  },
+  {
+    "event_id": "1eaf9517-24b5-484c-a81f-ad5534be6298",
+    "label": "negative",
+    "risk_level": "NONE",
+    "binary_prediction": "negative"
+  },
+  {
+    "event_id": "347bffc4-4ed1-4df0-989b-60f7cc591d85",
+    "label": "negative",
+    "risk_level": "LOW",
+    "binary_prediction": "negative"
+  },
+  {
+    "event_id": "9d2e70ca-7e1e-41a0-b5de-90fa0d20a8c6",
+    "label": "negative",
+    "risk_level": "NONE",
+    "binary_prediction": "negative"
+  },
+  {
+    "event_id": "b69c4e4e-ab65-4092-bc44-363c41790a67",
+    "label": "negative",
+    "risk_level": "NONE",
+    "binary_prediction": "negative"
+  },
+  {
+    "event_id": "7148795a-daf4-49f0-b295-c8a4e02119d1",
+    "label": "negative",
+    "risk_level": "LOW",
+    "binary_prediction": "negative"
+  },
+  {
+    "event_id": "56fa5e2a-8798-4643-853c-8aed44b212fb",
+    "label": "negative",
+    "risk_level": "NONE",
+    "binary_prediction": "negative"
+  },
+  {
+    "event_id": "8991d9f6-cbd6-40d9-a29b-37eafb8950fd",
+    "label": "negative",
+    "risk_level": "HIGH",
+    "binary_prediction": "positive"
+  },
+  {
+    "event_id": "7e52d239-54d9-4723-9496-fd5aba7483b6",
+    "label": "negative",
+    "risk_level": "MEDIUM",
+    "binary_prediction": "positive"
+  },
+  {
+    "event_id": "ed947d7d-c247-4b47-a8d2-70618007a5e1",
+    "label": "negative",
+    "risk_level": "MEDIUM",
+    "binary_prediction": "positive"
+  },
+  {
+    "event_id": "af0c9253-6a65-45f9-b159-7107c5a9b30e",
+    "label": "negative",
+    "risk_level": "NONE",
+    "binary_prediction": "negative"
+  },
+  {
+    "event_id": "8c7e3e0f-faca-44d2-ade0-faf558cce34b",
+    "label": "negative",
+    "risk_level": "NONE",
+    "binary_prediction": "negative"
+  },
+  {
+    "event_id": "c1bb5920-cb7a-4ab0-88d2-8342d9e61c26",
+    "label": "negative",
+    "risk_level": "NONE",
+    "binary_prediction": "negative"
+  },
+  {
+    "event_id": "df909ce1-e686-4dc3-921f-c2334d025ee6",
+    "label": "negative",
+    "risk_level": "NONE",
+    "binary_prediction": "negative"
+  },
+  {
+    "event_id": "13cd0460-6b84-46c8-807e-9c3ed306bcdf",
+    "label": "negative",
+    "risk_level": "NONE",
+    "binary_prediction": "negative"
+  },
+  {
+    "event_id": "f967af8e-8954-49e2-b904-d0f13153304d",
+    "label": "negative",
+    "risk_level": "MEDIUM",
+    "binary_prediction": "positive"
+  },
+  {
+    "event_id": "81ca3a0a-74de-43f7-ada5-1c4ebd9654e6",
+    "label": "negative",
+    "risk_level": "NONE",
+    "binary_prediction": "negative"
+  },
+  {
+    "event_id": "38e03c86-d70e-44c6-84aa-330d0f02b3d9",
+    "label": "negative",
+    "risk_level": "NONE",
+    "binary_prediction": "negative"
+  },
+  {
+    "event_id": "e53c8322-2ed1-49b6-92ea-f0d0e6ba71c6",
+    "label": "negative",
+    "risk_level": "NONE",
+    "binary_prediction": "negative"
+  },
+  {
+    "event_id": "30f2b523-4fdf-447a-abc8-5e9b86a5ef54",
+    "label": "negative",
+    "risk_level": "NONE",
+    "binary_prediction": "negative"
+  },
+  {
+    "event_id": "bf69d418-82f3-42eb-bd8e-0d7f46383898",
+    "label": "negative",
+    "risk_level": "NONE",
+    "binary_prediction": "negative"
+  },
+  {
+    "event_id": "6e9a2429-729c-4c3c-9ff0-6c4de870ebff",
+    "label": "negative",
+    "risk_level": "NONE",
+    "binary_prediction": "negative"
+  },
+  {
+    "event_id": "b79669e6-e1bb-4356-8516-68912204f6ef",
+    "label": "negative",
+    "risk_level": "LOW",
+    "binary_prediction": "negative"
+  },
+  {
+    "event_id": "72ab5726-ad49-42a2-82e6-9b69a289c62e",
+    "label": "negative",
+    "risk_level": "CRITICAL",
+    "binary_prediction": "positive"
+  },
+  {
+    "event_id": "1f2d7ba1-08a1-43e2-b65e-252d597a2e3b",
+    "label": "negative",
+    "risk_level": "NONE",
+    "binary_prediction": "negative"
+  },
+  {
+    "event_id": "79b8f1d1-1047-4987-b296-46ce447d9e02",
+    "label": "negative",
+    "risk_level": "NONE",
+    "binary_prediction": "negative"
+  },
+  {
+    "event_id": "3e1037eb-2951-4db7-ac89-aa67e348ad2a",
+    "label": "negative",
+    "risk_level": "NONE",
+    "binary_prediction": "negative"
+  },
+  {
+    "event_id": "93af9ce3-0471-4adc-8c18-0352ef39ae9d",
+    "label": "negative",
+    "risk_level": "NONE",
+    "binary_prediction": "negative"
+  },
+  {
+    "event_id": "03013689-4c6b-40cd-9e7c-18c2cf329865",
+    "label": "negative",
+    "risk_level": "NONE",
+    "binary_prediction": "negative"
+  },
+  {
+    "event_id": "df13f83c-d260-4c60-a28b-034b533d4fe6",
+    "label": "negative",
+    "risk_level": "NONE",
+    "binary_prediction": "negative"
+  },
+  {
+    "event_id": "f7212ca9-eae4-46c5-943c-e503237b6c39",
+    "label": "negative",
+    "risk_level": "NONE",
+    "binary_prediction": "negative"
+  },
+  {
+    "event_id": "64edc962-3568-4763-aaeb-28b7f1da551d",
+    "label": "negative",
+    "risk_level": "NONE",
+    "binary_prediction": "negative"
+  },
+  {
+    "event_id": "92c079e9-06d9-4132-b238-bbdc2e2552bb",
+    "label": "negative",
+    "risk_level": "NONE",
+    "binary_prediction": "negative"
+  },
+  {
+    "event_id": "d3b46453-4027-46e8-8703-e46eb09e951e",
+    "label": "negative",
+    "risk_level": "NONE",
+    "binary_prediction": "negative"
+  },
+  {
+    "event_id": "e87c4dd5-68d0-4630-ae53-5cf03fd8e837",
+    "label": "negative",
+    "risk_level": "NONE",
+    "binary_prediction": "negative"
+  },
+  {
+    "event_id": "8ca0617f-d6e7-4ab3-9203-cd195a01d2ca",
+    "label": "negative",
+    "risk_level": "NONE",
+    "binary_prediction": "negative"
+  },
+  {
+    "event_id": "a747bc46-a4d0-431f-8a14-0d6a65f91fbd",
+    "label": "negative",
+    "risk_level": "LOW",
+    "binary_prediction": "negative"
+  },
+  {
+    "event_id": "205e79fb-a5e1-4d21-bd26-3a0a696eae1d",
+    "label": "negative",
+    "risk_level": "NONE",
+    "binary_prediction": "negative"
+  },
+  {
+    "event_id": "1446901e-1f2c-4870-be38-c33c8c71bd06",
+    "label": "negative",
+    "risk_level": "NONE",
+    "binary_prediction": "negative"
+  },
+  {
+    "event_id": "f623bed0-c2fa-421a-913f-89421ac997ce",
+    "label": "negative",
+    "risk_level": "NONE",
+    "binary_prediction": "negative"
+  },
+  {
+    "event_id": "5c324ad7-161e-4d33-86da-de16d04c8639",
+    "label": "negative",
+    "risk_level": "NONE",
+    "binary_prediction": "negative"
+  },
+  {
+    "event_id": "d8bd81fd-a3a3-4b64-82c1-1979661a2289",
+    "label": "negative",
+    "risk_level": "MEDIUM",
+    "binary_prediction": "positive"
+  },
+  {
+    "event_id": "e307e3b3-30c0-4f2e-9f93-377e0c3426de",
+    "label": "negative",
+    "risk_level": "LOW",
+    "binary_prediction": "negative"
+  },
+  {
+    "event_id": "a22dc3b3-f7ba-4630-aa56-92a01dee2cb4",
+    "label": "negative",
+    "risk_level": "NONE",
+    "binary_prediction": "negative"
+  },
+  {
+    "event_id": "30d40071-eb52-4803-8602-ef4fa606b411",
+    "label": "negative",
+    "risk_level": "NONE",
+    "binary_prediction": "negative"
+  },
+  {
+    "event_id": "24e9ed64-34fa-4de7-8d3d-d1dfa3e0ec0a",
+    "label": "negative",
+    "risk_level": "NONE",
+    "binary_prediction": "negative"
+  },
+  {
+    "event_id": "4f7e5dcf-a24a-44c8-9fe7-085ba81ab45c",
+    "label": "negative",
+    "risk_level": "NONE",
+    "binary_prediction": "negative"
+  },
+  {
+    "event_id": "a1a9f1ac-1c78-411d-97ef-3e83c08e4168",
+    "label": "negative",
+    "risk_level": "NONE",
+    "binary_prediction": "negative"
+  },
+  {
+    "event_id": "4f48899a-24dd-4d52-bf9d-e0d2cf4aae00",
+    "label": "negative",
+    "risk_level": "LOW",
+    "binary_prediction": "negative"
+  },
+  {
+    "event_id": "674a2840-352b-450b-a536-a2dfd84a3457",
+    "label": "negative",
+    "risk_level": "NONE",
+    "binary_prediction": "negative"
+  },
+  {
+    "event_id": "18a10510-64aa-4ff7-867e-38f3dec276fa",
+    "label": "negative",
+    "risk_level": "LOW",
+    "binary_prediction": "negative"
+  },
+  {
+    "event_id": "895cf46c-1980-40dc-a7c7-4b6791c80d52",
+    "label": "negative",
+    "risk_level": "NONE",
+    "binary_prediction": "negative"
+  },
+  {
+    "event_id": "0613f587-cfb4-4c20-bd12-dfaca907f4d2",
+    "label": "negative",
+    "risk_level": "NONE",
+    "binary_prediction": "negative"
+  }
+]
