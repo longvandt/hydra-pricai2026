@@ -1,5 +1,7 @@
 # Hydra: Dynamic Hydrological Reasoning Agents for Disaster Forecasting
 
+The version accompanying the PRICAI 2026 paper is release [`v1.0-pricai2026`](https://github.com/longvandt/hydra-pricai2026/releases/tag/v1.0-pricai2026).
+
 Code, benchmark, execution traces, and evaluation artifacts for the PRICAI 2026 paper.
 
 **Paper:** Hydra: Dynamic Hydrological Reasoning Agents for Disaster Forecasting (PRICAI 2026)  
