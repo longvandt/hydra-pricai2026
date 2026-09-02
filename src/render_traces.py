@@ -283,7 +283,6 @@ def _is_correct(trace: dict) -> bool:
 
 def select_traces(seed: int) -> list[dict]:
     """Implements the stratified selection rule documented in ../traces/SELECTION.md."""
-    rng = random.Random(seed)
     all_traces = list(load_all_traces())
 
     by_cell = defaultdict(list)          # (hazard, model, outcome) -> [trace, ...]
@@ -296,9 +295,17 @@ def select_traces(seed: int) -> list[dict]:
     selected: list[dict] = []
     selected_ids = set()
 
-    def _pick(pool: list[dict], n: int):
+    def _pick(pool: list[dict], n: int, key: str):
+        # A fresh Random per key, not one shared object walked sequentially --
+        # Fisher-Yates shuffle consumes a number of draws proportional to
+        # len(pool), so sharing one Random across calls means a pool-size
+        # change anywhere upstream (e.g. a data update shifting how many
+        # events are "correct") silently desyncs every later pick's outcome,
+        # including cells whose own data never changed. Seeding per-key keeps
+        # each cell's selection isolated and reproducible on its own.
+        local_rng = random.Random(f"{seed}:{key}")
         pool = [t for t in pool if id(t) not in selected_ids]
-        rng.shuffle(pool)
+        local_rng.shuffle(pool)
         for t in pool[:n]:
             selected.append(t)
             selected_ids.add(id(t))
@@ -307,12 +314,12 @@ def select_traces(seed: int) -> list[dict]:
     for hazard in HAZARDS:
         for model in MODELS:
             for outcome in ("correct", "incorrect"):
-                _pick(by_cell.get((hazard, model, outcome), []), 2)
+                _pick(by_cell.get((hazard, model, outcome), []), 2, key=f"cell:{hazard}:{model}:{outcome}")
 
     # 3 tool-failure examples, one per backbone (search both hazards)
     for model in MODELS:
         pool = [t for h in HAZARDS for t in by_hazard_model.get((h, model), []) if _has_tool_error(t)]
-        _pick(pool, 1)
+        _pick(pool, 1, key=f"toolfail:{model}")
 
     # 3 correct-but-incomplete-coverage examples, one per backbone: correct outcome,
     # tool-call count below the median for that (hazard, model) cross-section.
@@ -327,7 +334,7 @@ def select_traces(seed: int) -> list[dict]:
                 t for t in cell
                 if _is_correct(t) and _tool_call_count(t) < median_calls
             )
-        _pick(pool, 1)
+        _pick(pool, 1, key=f"incomplete:{model}")
 
     return selected
 

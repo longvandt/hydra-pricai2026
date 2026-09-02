@@ -26,9 +26,12 @@ pip install -r requirements.txt
 python src/evaluate_metrics.py
 ```
 
-This recomputes precision, recall, specificity, and F1 per (backbone, lead-time) cell, plus
-tool coverage rate, M2, and M3, from the raw per-event predictions. Pass `--check` to verify
-the recomputed point estimates fall within the paper's reported mean ± σ ranges.
+This recomputes precision, recall, specificity, and F1 per (backbone, lead-time) cell from the
+raw per-event predictions, plus Tool Coverage Rate and M2/M3 LLM-judge scores from the released
+traces and judge-score data. Pass `--check` to verify: the P/R/Specificity/F1 point estimates
+fall within the paper's reported mean ± σ ranges (only one of the paper's three runs is
+released per cell), while Tool Coverage Rate and M2/M3 reproduce the paper's Table 6 and
+Table 7 exactly, since both come from a single canonical run / judged sample either way.
 
 ### 2. Full execution traces
 
@@ -57,7 +60,8 @@ Start with these three:
 
 - `prompts/` contains the complete system prompts for both hazards and the judge prompts used
   for M2 and M3. `prompts/README.md` states exactly what is shared across backbones and what
-  is not.
+  is not. The actual judged results those prompts produced — not just the prompts themselves —
+  are in `data/judge_scores/`.
 - `docs/tools.md` documents each tool's signature, upstream data source, spatial and temporal
   resolution, and units.
 - `docs/tool_failures.md` documents the failure taxonomy and how each class is handled.
